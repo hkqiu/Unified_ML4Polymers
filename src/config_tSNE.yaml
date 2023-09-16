@@ -1,0 +1,33 @@
+train_path: '/home/hkqiu/work/PolyGPT/T5/data_code/data/train/prompt-target.csv'               # pretrain file path
+test_path: '/home/hkqiu/work/PolyGPT/T5/data_code/data/test/prompt-target.csv'
+val_path: '/home/hkqiu/work/PolyGPT/polymer properties/reg-cls/exp_val/val.csv'
+
+train_tSNE: 'Train data'
+test_tSNE:  'Test data'  
+val_tSNE: 'Val data' 
+
+train_tg_tSNE: 'Train T$_g$'
+train_bc_tSNE: 'Train BC'
+train_ae_tSNE: 'Train AE'
+train_hrc_tSNE: 'Train hrc'
+
+test_tg_tSNE: 'Test T$_g$'
+test_bc_tSNE: 'Test BC'
+test_ae_tSNE: 'Test AE'
+test_hrc_tSNE: 'Test hrc'
+
+test_tg_label: 'Test Tg'
+train_bgb_label: 'Train bgb'
+test_bgb_label:  'Test bgb'       
+
+save_path: '/home/hkqiu/work/PolyGPT/T5/data_code/figs/tSNE.png'                       # save path of tSNE visualization
+
+blocksize: 140                                   # max length of sequences after tokenization
+batch_size: 200                                   # batch size
+
+perplexity: 10                                   # perplexity of t-SNE
+metric: 'euclidean'                              # metric of t-SNE
+n_jobs: 20                                        # n_jobs of t-SNE
+verbose: True                                    # verbose of t-SNE
+
+
