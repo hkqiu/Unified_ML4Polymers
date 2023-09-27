@@ -21,7 +21,7 @@ understanding polymer knowledge.
 
 # Q&A
 
-Any issue on this work, please email [hkqiu@ciac.ac.cn](hkqiu@ciac.ac.cn).
+Any issue on this work, please fell free to email [hkqiu@ciac.ac.cn](hkqiu@ciac.ac.cn).
 
 
 <p align="center">
