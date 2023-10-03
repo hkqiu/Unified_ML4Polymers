@@ -19,11 +19,12 @@ understanding polymer knowledge.
 
 [src](https://github.com/HKQiu/Unified_ML4Polymers/tree/main/src): The Python file and configuration file for t-SNE analysis.
 
-By the way, our trained model is stored at this [repo](https://huggingface.co/hkqiu/PolyNC).
+By the way, our trained model is stored at this [repo](https://huggingface.co/hkqiu/PolyNC), where you can perform some simple demos with huggingface API.
 
 # Q&A
-Because the model files are slightly large, they cannot be uploaded to GitHub. We are happy to send them to interested people via email(hkqiu@ciac.ac.cn).
-Since the development of polymers is an issue of concern to polymer scientists, in order to facilitate everyone's use, we are developing a [Hugging Face playground](https://huggingface.co/spaces/hkqiu/AI4P) for PolyNC so that it can be used without local deployment. Stay tuned!🤗
+__How to deploy and use?__
+1. Access this [website](https://huggingface.co/hkqiu/PolyNC)🤗, and then you can perform some the demos with huggingface API, such as try this: _Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3ccc(-n4c(=O)c5cc6c(c(=O)n()c6=O)cc5c4=O)cc3)cc2)ccc1_ __or__ _Predict the heat resistance class of the following SMILES: c1cc(Oc2ccc(Oc3ccc(-n4c(=O)c5cc6c(c(=O)n()c6=O)cc5c4=O)cc3)cc2)ccc1_. Just enjoy it!
+2. Since the development of polymers is an issue of concern to polymer scientists, in order to facilitate everyone's use in a more custom manner (custom task, custom max length, and other parameters), we are developing a [Hugging Face playground](https://huggingface.co/spaces/hkqiu/AI4P) for PolyNC. Stay tuned!🤗
 
 And any issue on this work, please fell free to email [hkqiu@ciac.ac.cn](hkqiu@ciac.ac.cn).
 
