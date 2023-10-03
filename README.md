@@ -19,6 +19,8 @@ understanding polymer knowledge.
 
 [src](https://github.com/HKQiu/Unified_ML4Polymers/tree/main/src): The Python file and configuration file for t-SNE analysis.
 
+By the way, our trained model is stored at this [repo](https://huggingface.co/hkqiu/PolyNC).
+
 # Q&A
 Because the model files are slightly large, they cannot be uploaded to GitHub. We are happy to send them to interested people via email(hkqiu@ciac.ac.cn).
 Since the development of polymers is an issue of concern to polymer scientists, in order to facilitate everyone's use, we are developing a [Hugging Face playground](https://huggingface.co/spaces/hkqiu/AI4P) for PolyNC so that it can be used without local deployment. Stay tuned!🤗
