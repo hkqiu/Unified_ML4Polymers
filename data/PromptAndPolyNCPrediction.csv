@@ -1,0 +1,1765 @@
+Prompt,Ground-truth,PolyNC_prediction
+Predict the Tg of the following SMILES: *CC(C)(*)C#N,119.85,103.85
+Predict the Tg of the following SMILES: C(C(C)(C#N)*)*,119.85,103.85
+Predict the Tg of the following SMILES: CC(*)(C*)C#N,119.85,103.85
+Predict the Tg of the following SMILES: *C(C*)(C#N)C,119.85,103.85
+Predict the Tg of the following SMILES: *C(C#N)(C*)C,119.85,103.85
+Predict the Tg of the following SMILES: *C(C#N)(C)C*,119.85,103.85
+Predict the Tg of the following SMILES: *CC(C)(*)C#N,119.85,103.85
+Predict the Tg of the following SMILES: C(*)C(C)(C#N)*,119.85,103.85
+Predict the Tg of the following SMILES: C(C(*)(C*)C)#N,119.85,103.85
+Predict the Tg of the following SMILES: C(#N)C(*)(C)C*,119.85,103.85
+Predict the Tg of the following SMILES: C(*)C(*)C(=O)OCCCCCCCCC,-58.15,-55.15
+Predict the Tg of the following SMILES: *C(C*)C(OCCCCCCCCC)=O,-58.15,-65.15
+Predict the Tg of the following SMILES: CCCCCCCCCOC(=O)C(C*)*,-58.15,-65.15
+Predict the Tg of the following SMILES: C(CCCCCCC)COC(C(C*)*)=O,-58.15,-65.15
+Predict the Tg of the following SMILES: O(C(=O)C(*)C*)CCCCCCCCC,-58.15,-56.15
+Predict the Tg of the following SMILES: C(CC)CCCCCCOC(C(C*)*)=O,-58.15,-65.15
+Predict the Tg of the following SMILES: *CC(*)C(OCCCCCCCCC)=O,-58.15,-65.15
+Predict the Tg of the following SMILES: C(CCCCCCOC(C(*)C*)=O)CC,-58.15,-65.15
+Predict the Tg of the following SMILES: C(CCC)CCCCCOC(C(C*)*)=O,-58.15,-65.15
+Predict the Tg of the following SMILES: C(CCCCCCC)COC(=O)C(C*)*,-58.15,-65.15
+Predict the Tg of the following SMILES: c1cc(C*)c(C#N)cc1C*,89.85,119.85
+Predict the Tg of the following SMILES: C(c1c(C#N)cc(C*)cc1)*,89.85,149.85
+Predict the Tg of the following SMILES: c1(C*)cc(C#N)c(C*)cc1,89.85,119.85
+Predict the Tg of the following SMILES: c1cc(C*)cc(C#N)c1C*,89.85,149.85
+Predict the Tg of the following SMILES: N#Cc1cc(C*)ccc1C*,89.85,149.85
+Predict the Tg of the following SMILES: c1(C*)ccc(C*)cc1C#N,89.85,146.85
+Predict the Tg of the following SMILES: *Cc1ccc(C*)c(C#N)c1,89.85,149.85
+Predict the Tg of the following SMILES: c1(C*)ccc(C*)cc1C#N,89.85,146.85
+Predict the Tg of the following SMILES: c1c(C*)cc(C#N)c(C*)c1,89.85,119.85
+Predict the Tg of the following SMILES: c1cc(C*)cc(C#N)c1C*,89.85,149.85
+Predict the Tg of the following SMILES: O([Si](C)(C)c1ccc([Si](C)(C)*)cc1)[Si](O*)(c1ccccc1)c1ccccc1,-0.15,-6.3
+Predict the Tg of the following SMILES: [Si](c1ccc([Si](C)(*)C)cc1)(C)(C)O[Si](O*)(c1ccccc1)c1ccccc1,-0.15,-6.3
+Predict the Tg of the following SMILES: C[Si](O[Si](c1ccccc1)(O*)c1ccccc1)(c1ccc([Si](C)(C)*)cc1)C,-0.15,-78.15
+Predict the Tg of the following SMILES: O([Si](c1ccccc1)(c1ccccc1)O[Si](c1ccc([Si](*)(C)C)cc1)(C)C)*,-0.15,-6.3
+Predict the Tg of the following SMILES: c1cccc([Si](O*)(c2ccccc2)O[Si](c2ccc([Si](C)(C)*)cc2)(C)C)c1,-0.15,-78.15
+Predict the Tg of the following SMILES: c1([Si](C)(C)*)ccc([Si](O[Si](c2ccccc2)(c2ccccc2)O*)(C)C)cc1,-0.15,-78.15
+Predict the Tg of the following SMILES: O([Si](c1ccccc1)(O*)c1ccccc1)[Si](C)(C)c1ccc([Si](C)(*)C)cc1,-0.15,-6.3
+Predict the Tg of the following SMILES: c1c([Si](C)(C)O[Si](O*)(c2ccccc2)c2ccccc2)ccc([Si](C)(C)*)c1,-0.15,-78.15
+Predict the Tg of the following SMILES: *O[Si](c1ccccc1)(O[Si](C)(C)c1ccc([Si](C)(*)C)cc1)c1ccccc1,-0.15,-78.15
+Predict the Tg of the following SMILES: C(C(CC(C)C)*)*,28.85,-45.15
+Predict the Tg of the following SMILES: CC(C)CC(*)C*,28.85,-55.15
+Predict the Tg of the following SMILES: C(C)(C)CC(C*)*,28.85,-65.15
+Predict the Tg of the following SMILES: *CC(*)CC(C)C,28.85,-45.15
+Predict the Tg of the following SMILES: C(CC(C)C)(*)C*,28.85,-45.15
+Predict the Tg of the following SMILES: *CC(CC(C)C)*,28.85,-45.15
+Predict the Tg of the following SMILES: CC(CC(*)C*)C,28.85,-55.15
+Predict the Tg of the following SMILES: *CC(CC(C)C)*,28.85,-45.15
+Predict the Tg of the following SMILES: CC(CC(*)C*)C,28.85,-55.15
+Predict the Tg of the following SMILES: *C(CC(C)C)C*,28.85,-45.15
+Predict the Tg of the following SMILES: c1(C)c(C(*)C*)cc(C)cc1,142.85,119.85
+Predict the Tg of the following SMILES: *CC(*)c1c(C)ccc(C)c1,142.85,118.85
+Predict the Tg of the following SMILES: c1(C)cc(C(C*)*)c(C)cc1,142.85,119.85
+Predict the Tg of the following SMILES: Cc1ccc(C)cc1C(C*)*,142.85,104.85
+Predict the Tg of the following SMILES: *CC(*)c1c(C)ccc(C)c1,142.85,118.85
+Predict the Tg of the following SMILES: Cc1ccc(C)cc1C(*)C*,142.85,104.85
+Predict the Tg of the following SMILES: *CC(*)c1c(C)ccc(C)c1,142.85,118.85
+Predict the Tg of the following SMILES: *CC(c1c(C)ccc(C)c1)*,142.85,118.85
+Predict the Tg of the following SMILES: c1cc(C)cc(C(C*)*)c1C,142.85,119.85
+Predict the Tg of the following SMILES: c1c(C)cc(C(C*)*)c(C)c1,142.85,119.85
+Predict the Tg of the following SMILES: CCCCC(CC)COC(C*)*,-66.15,-65.15
+Predict the Tg of the following SMILES: C(C)C(CCCC)COC(*)C*,-66.15,-65.15
+Predict the Tg of the following SMILES: CCC(CCCC)COC(*)C*,-66.15,-65.15
+Predict the Tg of the following SMILES: *CC(OCC(CC)CCCC)*,-66.15,-65.15
+Predict the Tg of the following SMILES: *CC(OCC(CC)CCCC)*,-66.15,-65.15
+Predict the Tg of the following SMILES: C(CC)(COC(*)C*)CCCC,-66.15,-65.15
+Predict the Tg of the following SMILES: O(CC(CCCC)CC)C(*)C*,-66.15,-45.15
+Predict the Tg of the following SMILES: C(C*)(*)OCC(CC)CCCC,-66.15,-65.15
+Predict the Tg of the following SMILES: C(CC(COC(*)C*)CC)CC,-66.15,-65.15
+Predict the Tg of the following SMILES: C(COC(C*)*)(CCCC)CC,-66.15,-65.15
+Predict the Tg of the following SMILES: C(CC)CCCCCOC(*)C*,-79.15,-55.15
+Predict the Tg of the following SMILES: C(*)C(*)OCCCCCCCC,-79.15,-54.15
+Predict the Tg of the following SMILES: O(C(*)C*)CCCCCCCC,-79.15,-56.15
+Predict the Tg of the following SMILES: C(COC(C*)*)CCCCCC,-79.15,-65.15
+Predict the Tg of the following SMILES: C(CCOC(C*)*)CCCCC,-79.15,-65.15
+Predict the Tg of the following SMILES: C(CCCCCCC)OC(C*)*,-79.15,-65.15
+Predict the Tg of the following SMILES: C(CCOC(*)C*)CCCCC,-79.15,-65.15
+Predict the Tg of the following SMILES: O(C(*)C*)CCCCCCCC,-79.15,-56.15
+Predict the Tg of the following SMILES: C(*)C(OCCCCCCCC)*,-79.15,-65.15
+Predict the Tg of the following SMILES: C(C(*)OCCCCCCCC)*,-79.15,-65.15
+Predict the Tg of the following SMILES: C(*)C(*)(C(=O)OCCCCCCCC)C,-20.15,-45.15
+Predict the Tg of the following SMILES: C(CCCC)CCCOC(=O)C(C)(C*)*,-20.15,-65.15
+Predict the Tg of the following SMILES: *CC(C(=O)OCCCCCCCC)(C)*,-20.15,-45.15
+Predict the Tg of the following SMILES: O=C(C(C*)(C)*)OCCCCCCCC,-20.15,-65.15
+Predict the Tg of the following SMILES: *CC(C(OCCCCCCCC)=O)(*)C,-20.15,-65.15
+Predict the Tg of the following SMILES: C(C*)(C(=O)OCCCCCCCC)(C)*,-20.15,-45.15
+Predict the Tg of the following SMILES: *C(C*)(C)C(=O)OCCCCCCCC,-20.15,-45.15
+Predict the Tg of the following SMILES: *CC(C(=O)OCCCCCCCC)(C)*,-20.15,-45.15
+Predict the Tg of the following SMILES: C(CCCOC(=O)C(C*)(*)C)CCCC,-20.15,-65.15
+Predict the Tg of the following SMILES: C(CCCC)CCCOC(C(C*)(*)C)=O,-20.15,-65.15
+Predict the Tg of the following SMILES: C(=O)(C(C*)*)OC,7.85,-65.15
+Predict the Tg of the following SMILES: C(OC)(C(*)C*)=O,7.85,-65.15
+Predict the Tg of the following SMILES: C(C*)(C(OC)=O)*,7.85,-65.15
+Predict the Tg of the following SMILES: C(OC)(=O)C(*)C*,7.85,-65.15
+Predict the Tg of the following SMILES: C(C(=O)OC)(*)C*,7.85,-65.15
+Predict the Tg of the following SMILES: C(*)C(C(OC)=O)*,7.85,-65.15
+Predict the Tg of the following SMILES: COC(=O)C(C*)*,7.85,-45.15
+Predict the Tg of the following SMILES: O=C(OC)C(C*)*,7.85,-74.15
+Predict the Tg of the following SMILES: C(OC)(=O)C(*)C*,7.85,-65.15
+Predict the Tg of the following SMILES: C(C*)(C(OC)=O)*,7.85,-65.15
+Predict the Tg of the following SMILES: c1(C(F)(F)*)ccc(C(*)(F)F)cc1,89.85,121.85
+Predict the Tg of the following SMILES: c1cc(C(F)(*)F)ccc1C(F)(F)*,89.85,107.85
+Predict the Tg of the following SMILES: FC(F)(*)c1ccc(C(F)(*)F)cc1,89.85,121.85
+Predict the Tg of the following SMILES: FC(c1ccc(C(F)(*)F)cc1)(F)*,89.85,121.85
+Predict the Tg of the following SMILES: c1c(C(F)(F)*)ccc(C(*)(F)F)c1,89.85,121.85
+Predict the Tg of the following SMILES: FC(c1ccc(C(*)(F)F)cc1)(*)F,89.85,121.85
+Predict the Tg of the following SMILES: FC(*)(c1ccc(C(F)(F)*)cc1)F,89.85,121.85
+Predict the Tg of the following SMILES: C(*)(F)(c1ccc(C(F)(F)*)cc1)F,89.85,121.85
+Predict the Tg of the following SMILES: c1cc(C(F)(F)*)ccc1C(F)(*)F,89.85,107.85
+Predict the Tg of the following SMILES: c1c(C(*)(F)F)ccc(C(F)(*)F)c1,89.85,121.85
+Predict the Tg of the following SMILES: c1c(NC(=O)CCCC(=O)Nc2cc(*)ccc2)cccc1OCC(O)CO*,110.85,69.85
+Predict the Tg of the following SMILES: C(CCCC(=O)Nc1cc(*)ccc1)(=O)Nc1cc(OCC(O)CO*)ccc1,110.85,57.85
+Predict the Tg of the following SMILES: c1(*)cccc(NC(=O)CCCC(Nc2cccc(OCC(O)CO*)c2)=O)c1,110.85,57.85
+Predict the Tg of the following SMILES: c1c(NC(=O)CCCC(Nc2cc(OCC(O)CO*)ccc2)=O)cccc1*,110.85,57.85
+Predict the Tg of the following SMILES: c1ccc(*)cc1NC(=O)CCCC(=O)Nc1cccc(OCC(O)CO*)c1,110.85,63.85
+Predict the Tg of the following SMILES: c1c(NC(CCCC(=O)Nc2cc(*)ccc2)=O)cc(OCC(CO*)O)cc1,110.85,69.85
+Predict the Tg of the following SMILES: c1(NC(CCCC(Nc2cc(*)ccc2)=O)=O)cccc(OCC(O)CO*)c1,110.85,57.85
+Predict the Tg of the following SMILES: c1(NC(=O)CCCC(=O)Nc2cccc(*)c2)cc(OCC(CO*)O)ccc1,110.85,63.85
+Predict the Tg of the following SMILES: O=C(Nc1cc(*)ccc1)CCCC(Nc1cc(OCC(CO*)O)ccc1)=O,110.85,69.85
+Predict the Tg of the following SMILES: N(c1cc(*)ccc1)C(CCCC(Nc1cccc(OCC(O)CO*)c1)=O)=O,110.85,147.85
+Predict the Tg of the following SMILES: c1cc(C(C)(C)C)cc(C(*)C*)c1C,86.85,119.85
+Predict the Tg of the following SMILES: Cc1ccc(C(C)(C)C)cc1C(C*)*,86.85,149.85
+Predict the Tg of the following SMILES: C(C(c1c(C)ccc(C(C)(C)C)c1)*)*,86.85,119.85
+Predict the Tg of the following SMILES: C(*)C(c1cc(C(C)(C)C)ccc1C)*,86.85,119.85
+Predict the Tg of the following SMILES: *CC(c1cc(C(C)(C)C)ccc1C)*,86.85,119.85
+Predict the Tg of the following SMILES: C(C)(c1cc(C(C*)*)c(C)cc1)(C)C,86.85,119.85
+Predict the Tg of the following SMILES: C(c1c(C)ccc(C(C)(C)C)c1)(C*)*,86.85,119.85
+Predict the Tg of the following SMILES: CC(C)(C)c1cc(C(*)C*)c(C)cc1,86.85,119.85
+Predict the Tg of the following SMILES: c1cc(C(C)(C)C)cc(C(C*)*)c1C,86.85,119.85
+Predict the Tg of the following SMILES: *CC(*)c1cc(C(C)(C)C)ccc1C,86.85,119.85
+Predict the Tg of the following SMILES: CC(COC(C*)*)C,-22.15,-65.15
+Predict the Tg of the following SMILES: *C(OCC(C)C)C*,-22.15,-65.15
+Predict the Tg of the following SMILES: C(*)C(*)OCC(C)C,-22.15,-65.15
+Predict the Tg of the following SMILES: CC(C)COC(C*)*,-22.15,-65.15
+Predict the Tg of the following SMILES: O(CC(C)C)C(*)C*,-22.15,-45.15
+Predict the Tg of the following SMILES: CC(COC(*)C*)C,-22.15,-65.15
+Predict the Tg of the following SMILES: C(*)C(OCC(C)C)*,-22.15,-65.15
+Predict the Tg of the following SMILES: C(OC(*)C*)C(C)C,-22.15,-45.15
+Predict the Tg of the following SMILES: C(OC(C*)*)C(C)C,-22.15,-45.15
+Predict the Tg of the following SMILES: *CC(*)OCC(C)C,-22.15,-65.15
+Predict the Tg of the following SMILES: ClC(*)C*,74.85,-74.15
+Predict the Tg of the following SMILES: *CC(Cl)*,74.85,-45.15
+Predict the Tg of the following SMILES: ClC(*)C*,74.85,-74.15
+Predict the Tg of the following SMILES: *C(Cl)C*,74.85,-74.15
+Predict the Tg of the following SMILES: ClC(*)C*,74.85,-74.15
+Predict the Tg of the following SMILES: C(C*)(*)Cl,74.85,-74.15
+Predict the Tg of the following SMILES: C(*)C(*)Cl,74.85,-74.15
+Predict the Tg of the following SMILES: *C(Cl)C*,74.85,-74.15
+Predict the Tg of the following SMILES: C(Cl)(C*)*,74.85,-74.15
+Predict the Tg of the following SMILES: C(*)C(Cl)*,74.85,-65.15
+Predict the Tg of the following SMILES: C(CCC(=O)NCc1ccc(CN*)cc1)CCCCCC(*)=O,114.85,59.85
+Predict the Tg of the following SMILES: C(CCCCCCCC(NCc1ccc(CN*)cc1)=O)C(*)=O,114.85,81.85
+Predict the Tg of the following SMILES: C(CCCCCC(=O)*)CCC(=O)NCc1ccc(CN*)cc1,114.85,59.85
+Predict the Tg of the following SMILES: C(CCCCCC(*)=O)CCC(=O)NCc1ccc(CN*)cc1,114.85,59.85
+Predict the Tg of the following SMILES: C(CCCCCC(*)=O)CCC(NCc1ccc(CN*)cc1)=O,114.85,59.85
+Predict the Tg of the following SMILES: N(C(CCCCCCCCC(*)=O)=O)Cc1ccc(CN*)cc1,114.85,57.85
+Predict the Tg of the following SMILES: c1cc(CN*)ccc1CNC(CCCCCCCCC(=O)*)=O,114.85,87.84
+Predict the Tg of the following SMILES: c1c(CNC(=O)CCCCCCCCC(*)=O)ccc(CN*)c1,114.85,87.85
+Predict the Tg of the following SMILES: C(CCCCCCCC(=O)*)C(NCc1ccc(CN*)cc1)=O,114.85,79.85
+Predict the Tg of the following SMILES: C(CCC(*)=O)CCCCCC(=O)NCc1ccc(CN*)cc1,114.85,63.85
+Predict the Tg of the following SMILES: C(CCN1C(=O)c2c(cc(*)cc2)C1=O)CCCN1C(=O)c2cc(Oc3ccc(Oc4ccc(O*)cc4)cc3)ccc2C1=O,127.85,215
+Predict the Tg of the following SMILES: O(c1ccc(Oc2ccc(Oc3cc4c(cc3)C(=O)N(CCCCCCN3C(=O)c5ccc(*)cc5C3=O)C4=O)cc2)cc1)*,127.85,215
+Predict the Tg of the following SMILES: c1c(Oc2ccc(O*)cc2)ccc(Oc2cc3c(cc2)C(=O)N(CCCCCCN2C(=O)c4c(cc(*)cc4)C2=O)C3=O)c1,127.85,215
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(O*)cc2)ccc1Oc1ccc2c(c1)C(=O)N(CCCCCCN1C(=O)c3c(cc(*)cc3)C1=O)C2=O,127.85,215
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(O*)cc2)ccc1Oc1ccc2c(c1)C(=O)N(CCCCCCN1C(=O)c3ccc(*)cc3C1=O)C2=O,127.85,215
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3ccc(O*)cc3)cc2)cc2c1C(=O)N(CCCCCCN1C(=O)c3ccc(*)cc3C1=O)C2=O,127.85,215
+Predict the Tg of the following SMILES: c1c(O*)ccc(Oc2ccc(Oc3cc4c(cc3)C(=O)N(CCCCCCN3C(=O)c5c(ccc(*)c5)C3=O)C4=O)cc2)c1,127.85,215
+Predict the Tg of the following SMILES: c1(O*)ccc(Oc2ccc(Oc3ccc4c(c3)C(=O)N(CCCCCCN3C(=O)c5c(ccc(*)c5)C3=O)C4=O)cc2)cc1,127.85,215
+Predict the Tg of the following SMILES: c1cc(*)cc2c1C(=O)N(CCCCCCN1C(=O)c3c(ccc(Oc4ccc(Oc5ccc(O*)cc5)cc4)c3)C1=O)C2=O,127.85,215
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3cc4c(cc3)C(=O)N(CCCCCCN3C(=O)c5c(cc(*)cc5)C3=O)C4=O)cc2)ccc1O*,127.85,215
+Predict the Tg of the following SMILES: c12cc(Oc3ccc4c(c(-c5ccccc5)cc(-c5ccc(Oc6ccc(*)cc6)cc5)n4)c3)ccc1nc(*)cc2-c1ccccc1,265.85,307.85
+Predict the Tg of the following SMILES: n1c(-c2ccc(Oc3ccc(*)cc3)cc2)cc(-c2ccccc2)c2cc(Oc3cc4c(nc(*)cc4-c4ccccc4)cc3)ccc12,265.85,307.85
+Predict the Tg of the following SMILES: c1c(-c2cc(-c3ccc(Oc4ccc(*)cc4)cc3)nc3ccc(Oc4ccc5c(c(-c6ccccc6)cc(*)n5)c4)cc32)cccc1,265.85,304.85
+Predict the Tg of the following SMILES: c1cc2nc(-c3ccc(Oc4ccc(*)cc4)cc3)cc(-c3ccccc3)c2cc1Oc1ccc2c(c1)c(-c1ccccc1)cc(*)n2,265.85,307.85
+Predict the Tg of the following SMILES: c1c(-c2nc3ccc(Oc4cc5c(-c6ccccc6)cc(*)nc5cc4)cc3c(-c3ccccc3)c2)ccc(Oc2ccc(*)cc2)c1,265.85,344.85
+Predict the Tg of the following SMILES: c1c(-c2nc3c(cc(Oc4cc5c(-c6ccccc6)cc(*)nc5cc4)cc3)c(-c3ccccc3)c2)ccc(Oc2ccc(*)cc2)c1,265.85,344.85
+Predict the Tg of the following SMILES: c1c(*)nc2ccc(Oc3cc4c(cc3)nc(-c3ccc(Oc5ccc(*)cc5)cc3)cc4-c3ccccc3)cc2c1-c1ccccc1,265.85,307.85
+Predict the Tg of the following SMILES: *c1cc(-c2ccccc2)c2cc(Oc3cc4c(cc3)nc(-c3ccc(Oc5ccc(*)cc5)cc3)cc4-c3ccccc3)ccc2n1,265.85,307.85
+Predict the Tg of the following SMILES: c1c(Oc2ccc(*)cc2)ccc(-c2nc3c(cc(Oc4cc5c(cc4)nc(*)cc5-c4ccccc4)cc3)c(-c3ccccc3)c2)c1,265.85,307.85
+Predict the Tg of the following SMILES: c1ccccc1-c1cc(-c2ccc(Oc3ccc(*)cc3)cc2)nc2c1cc(Oc1ccc3nc(*)cc(-c4ccccc4)c3c1)cc2,265.85,307.85
+Predict the Tg of the following SMILES: O=S(=O)(c1ccc(O*)cc1)c1ccc(Oc2ccc(C(C)(c3ccc(*)cc3)C)cc2)cc1,184.85,214.85
+Predict the Tg of the following SMILES: C(c1ccc(*)cc1)(c1ccc(Oc2ccc(S(c3ccc(O*)cc3)(=O)=O)cc2)cc1)(C)C,184.85,214.85
+Predict the Tg of the following SMILES: c1c(C(c2ccc(*)cc2)(C)C)ccc(Oc2ccc(S(=O)(c3ccc(O*)cc3)=O)cc2)c1,184.85,214.85
+Predict the Tg of the following SMILES: *c1ccc(C(C)(c2ccc(Oc3ccc(S(=O)(=O)c4ccc(O*)cc4)cc3)cc2)C)cc1,184.85,214.85
+Predict the Tg of the following SMILES: O(c1ccc(C(C)(C)c2ccc(*)cc2)cc1)c1ccc(S(=O)(c2ccc(O*)cc2)=O)cc1,184.85,167.85
+Predict the Tg of the following SMILES: c1(*)ccc(C(C)(C)c2ccc(Oc3ccc(S(=O)(=O)c4ccc(O*)cc4)cc3)cc2)cc1,184.85,167.85
+Predict the Tg of the following SMILES: c1(Oc2ccc(C(c3ccc(*)cc3)(C)C)cc2)ccc(S(=O)(=O)c2ccc(O*)cc2)cc1,184.85,167.85
+Predict the Tg of the following SMILES: c1c(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)ccc(O*)c1,184.85,167.85
+Predict the Tg of the following SMILES: c1c(S(=O)(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)ccc(O*)c1,184.85,167.85
+Predict the Tg of the following SMILES: c1c(Oc2ccc(C(C)(c3ccc(*)cc3)C)cc2)ccc(S(=O)(c2ccc(O*)cc2)=O)c1,184.85,167.85
+Predict the Tg of the following SMILES: *CC(OCCCC)*,-52.15,-65.15
+Predict the Tg of the following SMILES: C(CCC)OC(C*)*,-52.15,-65.15
+Predict the Tg of the following SMILES: C(OC(C*)*)CCC,-52.15,-65.15
+Predict the Tg of the following SMILES: O(CCCC)C(C*)*,-52.15,-45.15
+Predict the Tg of the following SMILES: C(*)(C*)OCCCC,-52.15,-45.15
+Predict the Tg of the following SMILES: O(CCCC)C(C*)*,-52.15,-45.15
+Predict the Tg of the following SMILES: O(CCCC)C(*)C*,-52.15,-45.15
+Predict the Tg of the following SMILES: C(C*)(OCCCC)*,-52.15,-65.15
+Predict the Tg of the following SMILES: C(C)CCOC(C*)*,-52.15,-65.15
+Predict the Tg of the following SMILES: C(C*)(*)OCCCC,-52.15,-45.15
+Predict the Tg of the following SMILES: C(CCCCOCC(O*)C*)C,-85.15,-65.15
+Predict the Tg of the following SMILES: *OC(C*)COCCCCCC,-85.15,-78.15
+Predict the Tg of the following SMILES: C(C*)(O*)COCCCCCC,-85.15,-65.15
+Predict the Tg of the following SMILES: C(OCCCCCC)C(O*)C*,-85.15,-65.15
+Predict the Tg of the following SMILES: C(CCOCC(O*)C*)CCC,-85.15,-65.15
+Predict the Tg of the following SMILES: *CC(COCCCCCC)O*,-85.15,-65.15
+Predict the Tg of the following SMILES: C(CCCCOCC(C*)O*)C,-85.15,-65.15
+Predict the Tg of the following SMILES: *OC(C*)COCCCCCC,-85.15,-78.15
+Predict the Tg of the following SMILES: C(OCCCCCC)C(C*)O*,-85.15,-65.15
+Predict the Tg of the following SMILES: C(CCCOCC(O*)C*)CC,-85.15,-65.15
+Predict the Tg of the following SMILES: c1(*)ccc(C(C(C)C)c2ccc(OC(O*)=O)cc2)cc1,148.85,145.85
+Predict the Tg of the following SMILES: *OC(Oc1ccc(C(C(C)C)c2ccc(*)cc2)cc1)=O,148.85,145.85
+Predict the Tg of the following SMILES: CC(C(c1ccc(*)cc1)c1ccc(OC(=O)O*)cc1)C,148.85,145.85
+Predict the Tg of the following SMILES: O=C(O*)Oc1ccc(C(c2ccc(*)cc2)C(C)C)cc1,148.85,145.85
+Predict the Tg of the following SMILES: *c1ccc(C(C(C)C)c2ccc(OC(=O)O*)cc2)cc1,148.85,145.85
+Predict the Tg of the following SMILES: c1(C(c2ccc(*)cc2)C(C)C)ccc(OC(=O)O*)cc1,148.85,145.85
+Predict the Tg of the following SMILES: O(*)C(=O)Oc1ccc(C(c2ccc(*)cc2)C(C)C)cc1,148.85,145.85
+Predict the Tg of the following SMILES: c1cc(C(c2ccc(*)cc2)C(C)C)ccc1OC(O*)=O,148.85,145.85
+Predict the Tg of the following SMILES: *OC(=O)Oc1ccc(C(C(C)C)c2ccc(*)cc2)cc1,148.85,145.85
+Predict the Tg of the following SMILES: O=C(Oc1ccc(C(c2ccc(*)cc2)C(C)C)cc1)O*,148.85,145.85
+Predict the Tg of the following SMILES: C(C)C(C)(c1c(Cl)cc(OC(=O)O*)cc1)c1ccc(*)cc1Cl,141.85,145.85
+Predict the Tg of the following SMILES: Clc1c(C(C)(c2ccc(OC(O*)=O)cc2Cl)CC)ccc(*)c1,141.85,145.85
+Predict the Tg of the following SMILES: c1(*)ccc(C(CC)(c2c(Cl)cc(OC(O*)=O)cc2)C)c(Cl)c1,141.85,145.85
+Predict the Tg of the following SMILES: CCC(c1ccc(*)cc1Cl)(C)c1ccc(OC(=O)O*)cc1Cl,141.85,134.85
+Predict the Tg of the following SMILES: C(C(c1ccc(OC(=O)O*)cc1Cl)(C)c1ccc(*)cc1Cl)C,141.85,145.85
+Predict the Tg of the following SMILES: C(C)C(c1c(Cl)cc(OC(O*)=O)cc1)(c1ccc(*)cc1Cl)C,141.85,145.85
+Predict the Tg of the following SMILES: O=C(Oc1ccc(C(c2c(Cl)cc(*)cc2)(C)CC)c(Cl)c1)O*,141.85,119.85
+Predict the Tg of the following SMILES: c1(C(C)(CC)c2c(Cl)cc(OC(O*)=O)cc2)ccc(*)cc1Cl,141.85,145.85
+Predict the Tg of the following SMILES: *c1ccc(C(C)(CC)c2c(Cl)cc(OC(=O)O*)cc2)c(Cl)c1,141.85,145.85
+Predict the Tg of the following SMILES: c1cc(*)cc(Cl)c1C(CC)(C)c1c(Cl)cc(OC(=O)O*)cc1,141.85,145.85
+Predict the Tg of the following SMILES: c1c(CNC(CCCCC(*)=O)=O)cc(CN*)cc1,89.85,73.85
+Predict the Tg of the following SMILES: c1(CN*)cccc(CNC(CCCCC(*)=O)=O)c1,89.85,57.85
+Predict the Tg of the following SMILES: c1ccc(CN*)cc1CNC(CCCCC(*)=O)=O,89.85,69.85
+Predict the Tg of the following SMILES: N(C(CCCCC(*)=O)=O)Cc1cc(CN*)ccc1,89.85,59.85
+Predict the Tg of the following SMILES: C(CCC(NCc1cc(CN*)ccc1)=O)CC(*)=O,89.85,59.85
+Predict the Tg of the following SMILES: C(C(NCc1cccc(CN*)c1)=O)CCCC(=O)*,89.85,59.85
+Predict the Tg of the following SMILES: *NCc1cccc(CNC(CCCCC(=O)*)=O)c1,89.85,59.85
+Predict the Tg of the following SMILES: C(*)(CCCCC(=O)NCc1cccc(CN*)c1)=O,89.85,59.85
+Predict the Tg of the following SMILES: C(CC(*)=O)CCC(=O)NCc1cccc(CN*)c1,89.85,59.85
+Predict the Tg of the following SMILES: C(N*)c1cc(CNC(CCCCC(*)=O)=O)ccc1,89.85,69.85
+Predict the Tg of the following SMILES: c1(-c2nc3c(ccc(C(c4cc5c(ncc(*)n5)cc4)=O)c3)nc2)ccc(*)cc1,317.85,304.85
+Predict the Tg of the following SMILES: n1c2c(ncc1-c1ccc(*)cc1)ccc(C(c1ccc3ncc(*)nc3c1)=O)c2,317.85,399.85
+Predict the Tg of the following SMILES: c1c(C(c2ccc3c(nc(*)cn3)c2)=O)ccc2ncc(-c3ccc(*)cc3)nc12,317.85,399.85
+Predict the Tg of the following SMILES: *c1ccc(-c2nc3c(nc2)ccc(C(c2cc4c(cc2)ncc(*)n4)=O)c3)cc1,317.85,304.85
+Predict the Tg of the following SMILES: n1c2ccc(C(=O)c3ccc4c(nc(*)cn4)c3)cc2nc(-c2ccc(*)cc2)c1,317.85,399.85
+Predict the Tg of the following SMILES: c1nc2c(nc1-c1ccc(*)cc1)cc(C(c1ccc3c(nc(*)cn3)c1)=O)cc2,317.85,311.85
+Predict the Tg of the following SMILES: c1c(C(c2cc3c(cc2)ncc(-c2ccc(*)cc2)n3)=O)cc2nc(*)cnc2c1,317.85,399.85
+Predict the Tg of the following SMILES: c1cc(*)ccc1-c1nc2cc(C(c3ccc4c(nc(*)cn4)c3)=O)ccc2nc1,317.85,399.85
+Predict the Tg of the following SMILES: c12nc(-c3ccc(*)cc3)cnc1ccc(C(=O)c1ccc3c(nc(*)cn3)c1)c2,317.85,311.85
+Predict the Tg of the following SMILES: c1(C(c2ccc3ncc(-c4ccc(*)cc4)nc3c2)=O)cc2c(ncc(*)n2)cc1,317.85,399.85
+Predict the Tg of the following SMILES: O=C(c1cccc(*)c1)c1cc(N2C(=O)c3cc(C(c4cc5c(cc4)C(=O)N(*)C5=O)=O)ccc3C2=O)ccc1,239.85,287.8
+Predict the Tg of the following SMILES: C(c1cc(*)ccc1)(=O)c1cccc(N2C(=O)c3cc(C(=O)c4cc5c(cc4)C(=O)N(*)C5=O)ccc3C2=O)c1,239.85,287
+Predict the Tg of the following SMILES: N1(*)C(=O)c2c(cc(C(=O)c3ccc4c(c3)C(=O)N(c3cc(C(c5cc(*)ccc5)=O)ccc3)C4=O)cc2)C1=O,239.85,287.85
+Predict the Tg of the following SMILES: c1c(C(=O)c2ccc3c(c2)C(=O)N(*)C3=O)cc2c(c1)C(=O)N(c1cc(C(c3cc(*)ccc3)=O)ccc1)C2=O,239.85,287.85
+Predict the Tg of the following SMILES: C1(=O)c2cc(C(=O)c3cc4c(cc3)C(=O)N(c3cc(C(c5cc(*)ccc5)=O)ccc3)C4=O)ccc2C(=O)N1*,239.85,287.85
+Predict the Tg of the following SMILES: c1c(*)cc(C(=O)c2cc(N3C(=O)c4cc(C(c5ccc6c(c5)C(=O)N(*)C6=O)=O)ccc4C3=O)ccc2)cc1,239.85,287.8
+Predict the Tg of the following SMILES: c1(C(=O)c2ccc3c(c2)C(=O)N(*)C3=O)cc2c(cc1)C(=O)N(c1cc(C(=O)c3cccc(*)c3)ccc1)C2=O,239.85,287.8
+Predict the Tg of the following SMILES: C1(=O)c2c(cc(C(=O)c3cc4c(cc3)C(=O)N(*)C4=O)cc2)C(=O)N1c1cc(C(=O)c2cccc(*)c2)ccc1,239.85,287.85
+Predict the Tg of the following SMILES: c1(*)cccc(C(=O)c2cccc(N3C(=O)c4ccc(C(c5cc6c(cc5)C(=O)N(*)C6=O)=O)cc4C3=O)c2)c1,239.85,287.8
+Predict the Tg of the following SMILES: C1(=O)N(*)C(=O)c2c1ccc(C(=O)c1cc3c(cc1)C(=O)N(c1cccc(C(c4cccc(*)c4)=O)c1)C3=O)c2,239.85,287.85
+Predict the Tg of the following SMILES: CC(C(OCC)=O)(*)C*,50.85,-65.15
+Predict the Tg of the following SMILES: *CC(*)(C)C(=O)OCC,50.85,-65.15
+Predict the Tg of the following SMILES: O(C(C(C*)(*)C)=O)CC,50.85,-45.15
+Predict the Tg of the following SMILES: O(C(C(*)(C*)C)=O)CC,50.85,-45.15
+Predict the Tg of the following SMILES: C(C)OC(=O)C(C*)(*)C,50.85,-45.15
+Predict the Tg of the following SMILES: O(CC)C(C(C*)(C)*)=O,50.85,-65.15
+Predict the Tg of the following SMILES: O(CC)C(C(C*)(*)C)=O,50.85,-65.15
+Predict the Tg of the following SMILES: C(C(OCC)=O)(C)(C*)*,50.85,-65.15
+Predict the Tg of the following SMILES: C(OCC)(C(*)(C)C*)=O,50.85,-65.15
+Predict the Tg of the following SMILES: CC(C(=O)OCC)(C*)*,50.85,-65.15
+Predict the Tg of the following SMILES: c1c2c(ccc1C(c1ccc3c(c1)C(=O)N(*)C3=O)=O)C(=O)N(c1ccc(*)cc1)C2=O,332.85,311
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(cc(C(=O)c4cc5c(cc4)C(=O)N(*)C5=O)cc3)C2=O)ccc(*)c1,332.85,290
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(ccc(C(c4cc5c(cc4)C(=O)N(*)C5=O)=O)c3)C2=O)ccc1*,332.85,290
+Predict the Tg of the following SMILES: *N1C(=O)c2c(ccc(C(c3ccc4c(c3)C(=O)N(c3ccc(*)cc3)C4=O)=O)c2)C1=O,332.85,315
+Predict the Tg of the following SMILES: O=C1c2c(cc(C(c3ccc4c(c3)C(=O)N(c3ccc(*)cc3)C4=O)=O)cc2)C(=O)N1*,332.85,290
+Predict the Tg of the following SMILES: c1(C(c2cc3c(cc2)C(=O)N(c2ccc(*)cc2)C3=O)=O)ccc2c(c1)C(=O)N(*)C2=O,332.85,341
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3cc(C(c4cc5c(cc4)C(=O)N(*)C5=O)=O)ccc3C2=O)ccc(*)c1,332.85,287.8
+Predict the Tg of the following SMILES: c1cc2c(cc1C(c1ccc3c(c1)C(=O)N(*)C3=O)=O)C(=O)N(c1ccc(*)cc1)C2=O,332.85,315
+Predict the Tg of the following SMILES: c1(*)ccc(N2C(=O)c3cc(C(c4cc5c(cc4)C(=O)N(*)C5=O)=O)ccc3C2=O)cc1,332.85,287
+Predict the Tg of the following SMILES: c1c2c(ccc1C(=O)c1ccc3c(c1)C(=O)N(c1ccc(*)cc1)C3=O)C(=O)N(*)C2=O,332.85,341
+Predict the Tg of the following SMILES: C(C*)(*)SC,-1.15,-45.15
+Predict the Tg of the following SMILES: C(C(SC)*)*,-1.15,-45.15
+Predict the Tg of the following SMILES: S(C(*)C*)C,-1.15,-45.15
+Predict the Tg of the following SMILES: C(*)(C*)SC,-1.15,-45.15
+Predict the Tg of the following SMILES: C(C*)(SC)*,-1.15,-45.15
+Predict the Tg of the following SMILES: C(C*)(SC)*,-1.15,-45.15
+Predict the Tg of the following SMILES: C(SC)(C*)*,-1.15,-45.15
+Predict the Tg of the following SMILES: C(C*)(*)SC,-1.15,-45.15
+Predict the Tg of the following SMILES: *C(SC)C*,-1.15,-45.15
+Predict the Tg of the following SMILES: S(C(C*)*)C,-1.15,-45.15
+Predict the Tg of the following SMILES: c1(Cl)c(C*)ccc(C*)c1,79.85,119.85
+Predict the Tg of the following SMILES: C(*)c1cc(Cl)c(C*)cc1,79.85,116.85
+Predict the Tg of the following SMILES: *Cc1c(Cl)cc(C*)cc1,79.85,119.85
+Predict the Tg of the following SMILES: c1(C*)c(Cl)cc(C*)cc1,79.85,116.85
+Predict the Tg of the following SMILES: *Cc1ccc(C*)cc1Cl,79.85,115.85
+Predict the Tg of the following SMILES: Clc1c(C*)ccc(C*)c1,79.85,124.85
+Predict the Tg of the following SMILES: c1cc(C*)cc(Cl)c1C*,79.85,119.85
+Predict the Tg of the following SMILES: c1(C*)c(Cl)cc(C*)cc1,79.85,116.85
+Predict the Tg of the following SMILES: c1c(C*)cc(Cl)c(C*)c1,79.85,119.85
+Predict the Tg of the following SMILES: c1(C*)ccc(C*)c(Cl)c1,79.85,116.85
+Predict the Tg of the following SMILES: c12ccc(-c3cc4nc(*)cnc4cc3)cc1nc(-c1ccc(*)cc1)cn2,375.85,399.85
+Predict the Tg of the following SMILES: n1c2c(ccc(-c3ccc4ncc(*)nc4c3)c2)ncc1-c1ccc(*)cc1,375.85,399.85
+Predict the Tg of the following SMILES: n1c(-c2ccc(*)cc2)cnc2ccc(-c3ccc4c(nc(*)cn4)c3)cc12,375.85,399.85
+Predict the Tg of the following SMILES: c12ncc(*)nc1cc(-c1cc3c(cc1)ncc(-c1ccc(*)cc1)n3)cc2,375.85,399.85
+Predict the Tg of the following SMILES: c1(-c2ccc(*)cc2)cnc2c(n1)cc(-c1cc3nc(*)cnc3cc1)cc2,375.85,399.85
+Predict the Tg of the following SMILES: c12c(cc(-c3ccc4c(nc(*)cn4)c3)cc1)nc(-c1ccc(*)cc1)cn2,375.85,399.85
+Predict the Tg of the following SMILES: n1cc(-c2ccc(*)cc2)nc2c1ccc(-c1ccc3c(c1)nc(*)cn3)c2,375.85,399.85
+Predict the Tg of the following SMILES: c1c2nc(-c3ccc(*)cc3)cnc2ccc1-c1ccc2c(nc(*)cn2)c1,375.85,399.85
+Predict the Tg of the following SMILES: *c1nc2c(ccc(-c3cc4c(ncc(-c5ccc(*)cc5)n4)cc3)c2)nc1,375.85,304.85
+Predict the Tg of the following SMILES: n1c2ccc(-c3ccc4c(nc(*)cn4)c3)cc2nc(-c2ccc(*)cc2)c1,375.85,399.85
+Predict the Tg of the following SMILES: C(C*)(*)O,84.85,-70.15
+Predict the Tg of the following SMILES: C(C(*)O)*,84.85,-65.15
+Predict the Tg of the following SMILES: C(*)C(O)*,84.85,-65.15
+Predict the Tg of the following SMILES: *CC(O)*,84.85,-70.15
+Predict the Tg of the following SMILES: OC(C*)*,84.85,-65.15
+Predict the Tg of the following SMILES: C(*)C(*)O,84.85,-65.15
+Predict the Tg of the following SMILES: C(C(*)O)*,84.85,-65.15
+Predict the Tg of the following SMILES: *C(O)C*,84.85,-65.15
+Predict the Tg of the following SMILES: C(*)C(*)O,84.85,-65.15
+Predict the Tg of the following SMILES: C(*)(C*)O,84.85,-70.15
+Predict the Tg of the following SMILES: c1cc2c(cc1-c1cccc(Oc3ccc4c(c3)C(=O)N(C)C4=O)c1)C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,215,285
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3ccc(C)cc3)cc2)C(=O)c2ccc(-c3cc(Oc4cc5c(cc4)C(=O)N(C)C5=O)ccc3)cc2C1=O,215,215
+Predict the Tg of the following SMILES: Cc1ccc(Oc2ccc(N3C(=O)c4ccc(-c5cc(Oc6cc7c(cc6)C(=O)N(C)C7=O)ccc5)cc4C3=O)cc2)cc1,215,232
+Predict the Tg of the following SMILES: c12c(ccc(-c3cc(Oc4cc5c(cc4)C(=O)N(C)C5=O)ccc3)c1)C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,215,215
+Predict the Tg of the following SMILES: O=C1c2c(cc(-c3cc(Oc4ccc5c(c4)C(=O)N(C)C5=O)ccc3)cc2)C(=O)N1c1ccc(Oc2ccc(C)cc2)cc1,215,215
+Predict the Tg of the following SMILES: c1c(Oc2ccc(N3C(=O)c4c(cc(-c5cc(Oc6cc7c(cc6)C(=O)N(C)C7=O)ccc5)cc4)C3=O)cc2)ccc(C)c1,215,232
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(-c4cccc(Oc5cc6c(cc5)C(=O)N(C)C6=O)c4)cc3C2=O)ccc(Oc2ccc(C)cc2)c1,215,215
+Predict the Tg of the following SMILES: c1c2c(ccc1Oc1cccc(-c3cc4c(cc3)C(=O)N(c3ccc(Oc5ccc(C)cc5)cc3)C4=O)c1)C(=O)N(C)C2=O,215,215
+Predict the Tg of the following SMILES: c12ccc(-c3cccc(Oc4ccc5c(c4)C(=O)N(C)C5=O)c3)cc1C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,215,215
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(ccc(-c4cc(Oc5cc6c(cc5)C(=O)N(C)C6=O)ccc4)c3)C2=O)ccc(Oc2ccc(C)cc2)c1,215,232
+Predict the Tg of the following SMILES: c12ccc(Oc3ccc(S(=O)(c4cc(O*)ccc4)=O)cc3)cc1C(=O)N(c1cc(N3C(=O)c4cc(*)ccc4C3=O)ccc1)C2=O,265,245
+Predict the Tg of the following SMILES: C1(=O)c2ccc(*)cc2C(=O)N1c1cc(N2C(=O)c3cc(Oc4ccc(S(=O)(=O)c5cc(O*)ccc5)cc4)ccc3C2=O)ccc1,265,245
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(ccc(Oc4ccc(S(c5cc(O*)ccc5)(=O)=O)cc4)c3)C2=O)cc(N2C(=O)c3cc(*)ccc3C2=O)c1,265,226.85
+Predict the Tg of the following SMILES: c1c2c(cc(*)c1)C(=O)N(c1cc(N3C(=O)c4cc(Oc5ccc(S(c6cc(O*)ccc6)(=O)=O)cc5)ccc4C3=O)ccc1)C2=O,265,245
+Predict the Tg of the following SMILES: c1(S(=O)(=O)c2ccc(Oc3cc4c(cc3)C(=O)N(c3cccc(N5C(=O)c6c(cc(*)cc6)C5=O)c3)C4=O)cc2)cccc(O*)c1,265,245
+Predict the Tg of the following SMILES: N1(c2cc(N3C(=O)c4c(ccc(*)c4)C3=O)ccc2)C(=O)c2c(ccc(Oc3ccc(S(=O)(c4cccc(O*)c4)=O)cc3)c2)C1=O,265,245
+Predict the Tg of the following SMILES: c1(Oc2ccc(S(=O)(c3cccc(O*)c3)=O)cc2)ccc2c(c1)C(=O)N(c1cccc(N3C(=O)c4ccc(*)cc4C3=O)c1)C2=O,265,245
+Predict the Tg of the following SMILES: c1c2c(cc(Oc3ccc(S(=O)(c4cccc(O*)c4)=O)cc3)c1)C(=O)N(c1cccc(N3C(=O)c4c(cc(*)cc4)C3=O)c1)C2=O,265,245
+Predict the Tg of the following SMILES: N1(c2cc(N3C(=O)c4cc(*)ccc4C3=O)ccc2)C(=O)c2c(cc(Oc3ccc(S(=O)(=O)c4cc(O*)ccc4)cc3)cc2)C1=O,265,245
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1cccc(N3C(=O)c4cc(Oc5ccc(S(c6cccc(O*)c6)(=O)=O)cc5)ccc4C3=O)c1)C2=O,265,226.85
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cc(*)cc3)C2=O)cc(Oc2ccc(Oc3ccc(N4C(=O)c5c(ccc(O*)c5)C4=O)cc3)cc2)ccc1,245,226
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3cccc(N4C(=O)c5c(cc(*)cc5)C4=O)c3)cc2)ccc1N1C(=O)c2ccc(O*)cc2C1=O,245,245
+Predict the Tg of the following SMILES: O(c1ccc(N2C(=O)c3c(ccc(O*)c3)C2=O)cc1)c1ccc(Oc2cccc(N3C(=O)c4ccc(*)cc4C3=O)c2)cc1,245,226
+Predict the Tg of the following SMILES: O=C1N(c2cccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(ccc(O*)c6)C5=O)cc4)cc3)c2)C(=O)c2ccc(*)cc21,245,212
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(O*)cc3C2=O)ccc(Oc2ccc(Oc3cc(N4C(=O)c5c(ccc(*)c5)C4=O)ccc3)cc2)c1,245,224
+Predict the Tg of the following SMILES: O(c1ccc(Oc2cc(N3C(=O)c4cc(*)ccc4C3=O)ccc2)cc1)c1ccc(N2C(=O)c3c(ccc(O*)c3)C2=O)cc1,245,245
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3cc(N4C(=O)c5cc(*)ccc5C4=O)ccc3)cc2)ccc1N1C(=O)c2ccc(O*)cc2C1=O,245,224
+Predict the Tg of the following SMILES: c1c(O*)cc2c(c1)C(=O)N(c1ccc(Oc3ccc(Oc4cc(N5C(=O)c6c(cc(*)cc6)C5=O)ccc4)cc3)cc1)C2=O,245,245
+Predict the Tg of the following SMILES: c1c(Oc2ccc(Oc3cc(N4C(=O)c5c(ccc(*)c5)C4=O)ccc3)cc2)ccc(N2C(=O)c3c(cc(O*)cc3)C2=O)c1,245,224
+Predict the Tg of the following SMILES: c1c(*)cc2c(c1)C(=O)N(c1cccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cc(O*)cc6)C5=O)cc4)cc3)c1)C2=O,245,226
+Predict the Tg of the following SMILES: Fc1c2c(c(F)c(F)c1*)C(=O)N(c1c(F)c(F)c(Oc3c(F)c(F)c(N4C(=O)c5c(c(F)c(Oc6c(F)c(F)c(O*)c(F)c6F)c(F)c5F)C4=O)c(F)c3F)c(F)c1F)C2=O,300,277
+Predict the Tg of the following SMILES: c1(F)c(Oc2c(F)c(F)c(N3C(=O)c4c(c(F)c(F)c(*)c4F)C3=O)c(F)c2F)c(F)c(F)c(N2C(=O)c3c(c(F)c(F)c(Oc4c(F)c(F)c(O*)c(F)c4F)c3F)C2=O)c1F,300,278
+Predict the Tg of the following SMILES: O(c1c(F)c(F)c(O*)c(F)c1F)c1c(F)c(F)c2c(c1F)C(=O)N(c1c(F)c(F)c(Oc3c(F)c(F)c(N4C(=O)c5c(F)c(F)c(*)c(F)c5C4=O)c(F)c3F)c(F)c1F)C2=O,300,285
+Predict the Tg of the following SMILES: C1(=O)N(c2c(F)c(F)c(Oc3c(F)c(F)c(N4C(=O)c5c(F)c(Oc6c(F)c(F)c(O*)c(F)c6F)c(F)c(F)c5C4=O)c(F)c3F)c(F)c2F)C(=O)c2c(F)c(*)c(F)c(F)c21,300,278
+Predict the Tg of the following SMILES: Fc1c(F)c(N2C(=O)c3c(c(F)c(F)c(Oc4c(F)c(F)c(O*)c(F)c4F)c3F)C2=O)c(F)c(F)c1Oc1c(F)c(F)c(N2C(=O)c3c(c(F)c(F)c(*)c3F)C2=O)c(F)c1F,300,278
+Predict the Tg of the following SMILES: c12c(c(F)c(F)c(Oc3c(F)c(F)c(O*)c(F)c3F)c1F)C(=O)N(c1c(F)c(F)c(Oc3c(F)c(F)c(N4C(=O)c5c(F)c(F)c(*)c(F)c5C4=O)c(F)c3F)c(F)c1F)C2=O,300,335
+Predict the Tg of the following SMILES: Fc1c(F)c(Oc2c(F)c(F)c3c(c2F)C(=O)N(c2c(F)c(F)c(Oc4c(F)c(F)c(N5C(=O)c6c(c(F)c(F)c(*)c6F)C5=O)c(F)c4F)c(F)c2F)C3=O)c(F)c(F)c1O*,300,274
+Predict the Tg of the following SMILES: Fc1c(F)c(Oc2c(F)c(F)c(N3C(=O)c4c(F)c(Oc5c(F)c(F)c(O*)c(F)c5F)c(F)c(F)c4C3=O)c(F)c2F)c(F)c(F)c1N1C(=O)c2c(c(F)c(F)c(*)c2F)C1=O,300,274
+Predict the Tg of the following SMILES: O(c1c(F)c(F)c(N2C(=O)c3c(c(F)c(F)c(Oc4c(F)c(F)c(O*)c(F)c4F)c3F)C2=O)c(F)c1F)c1c(F)c(F)c(N2C(=O)c3c(F)c(*)c(F)c(F)c3C2=O)c(F)c1F,300,278
+Predict the Tg of the following SMILES: c1(F)c(Oc2c(F)c(F)c(N3C(=O)c4c(c(F)c(F)c(*)c4F)C3=O)c(F)c2F)c(F)c(F)c(N2C(=O)c3c(c(F)c(F)c(Oc4c(F)c(F)c(O*)c(F)c4F)c3F)C2=O)c1F,300,278
+Predict the Tg of the following SMILES: *Oc1cc(Oc2ccc(Oc3ccc4c(c3)C(=O)N(c3ccc(Oc5cccc(Oc6ccc(N7C(=O)c8c(ccc(*)c8)C7=O)cc6)c5)cc3)C4=O)cc2)ccc1,184,198
+Predict the Tg of the following SMILES: O(c1ccc(N2C(=O)c3c(ccc(Oc4ccc(Oc5cccc(O*)c5)cc4)c3)C2=O)cc1)c1cccc(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)c1,184,224
+Predict the Tg of the following SMILES: c1c(Oc2ccc(Oc3cc4c(cc3)C(=O)N(c3ccc(Oc5cc(Oc6ccc(N7C(=O)c8cc(*)ccc8C7=O)cc6)ccc5)cc3)C4=O)cc2)cc(O*)cc1,184,224
+Predict the Tg of the following SMILES: c1(N2C(=O)c3ccc(*)cc3C2=O)ccc(Oc2cccc(Oc3ccc(N4C(=O)c5ccc(Oc6ccc(Oc7cccc(O*)c7)cc6)cc5C4=O)cc3)c2)cc1,184,226.85
+Predict the Tg of the following SMILES: c1(Oc2ccc(Oc3cc(O*)ccc3)cc2)ccc2c(c1)C(=O)N(c1ccc(Oc3cc(Oc4ccc(N5C(=O)c6cc(*)ccc6C5=O)cc4)ccc3)cc1)C2=O,184,245
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4cc(*)ccc4C3=O)cc2)cc(Oc2ccc(N3C(=O)c4c(cc(Oc5ccc(Oc6cccc(O*)c6)cc5)cc4)C3=O)cc2)ccc1,184,224
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3cc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)ccc3)cc2)C(=O)c2c(ccc(Oc3ccc(Oc4cccc(O*)c4)cc3)c2)C1=O,184,204
+Predict the Tg of the following SMILES: O(c1ccc(N2C(=O)c3ccc(Oc4ccc(Oc5cc(O*)ccc5)cc4)cc3C2=O)cc1)c1cc(Oc2ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc2)ccc1,184,224
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3cc(Oc4ccc(N5C(=O)c6c(ccc(*)c6)C5=O)cc4)ccc3)cc2)C(=O)c2cc(Oc3ccc(Oc4cc(O*)ccc4)cc3)ccc2C1=O,184,206
+Predict the Tg of the following SMILES: O=C1c2c(ccc(Oc3ccc(Oc4cccc(O*)c4)cc3)c2)C(=O)N1c1ccc(Oc2cc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)ccc2)cc1,184,224
+Predict the Tg of the following SMILES: C(c1ccc2c(c1)C(=O)N(c1ccc(N3C(=O)c4cc(*)ccc4C3=O)c(C(F)(F)F)c1)C2=O)(C(F)(F)F)(*)C(F)(F)F,366,311
+Predict the Tg of the following SMILES: c1cc2c(cc1*)C(=O)N(c1c(C(F)(F)F)cc(N3C(=O)c4c(cc(C(*)(C(F)(F)F)C(F)(F)F)cc4)C3=O)cc1)C2=O,366,311
+Predict the Tg of the following SMILES: c12cc(*)ccc1C(=O)N(c1c(C(F)(F)F)cc(N3C(=O)c4c(ccc(C(C(F)(F)F)(C(F)(F)F)*)c4)C3=O)cc1)C2=O,366,326
+Predict the Tg of the following SMILES: N1(c2ccc(N3C(=O)c4c(cc(C(*)(C(F)(F)F)C(F)(F)F)cc4)C3=O)cc2C(F)(F)F)C(=O)c2c(cc(*)cc2)C1=O,366,326
+Predict the Tg of the following SMILES: FC(F)(F)C(C(F)(F)F)(c1cc2c(cc1)C(=O)N(c1ccc(N3C(=O)c4c(ccc(*)c4)C3=O)c(C(F)(F)F)c1)C2=O)*,366,326
+Predict the Tg of the following SMILES: c12c(cc(C(*)(C(F)(F)F)C(F)(F)F)cc1)C(=O)N(c1cc(C(F)(F)F)c(N3C(=O)c4ccc(*)cc4C3=O)cc1)C2=O,366,326
+Predict the Tg of the following SMILES: FC(F)(C(c1cc2c(cc1)C(=O)N(c1cc(C(F)(F)F)c(N3C(=O)c4cc(*)ccc4C3=O)cc1)C2=O)(*)C(F)(F)F)F,366,326
+Predict the Tg of the following SMILES: C(C(C(F)(F)F)(*)c1ccc2c(c1)C(=O)N(c1cc(C(F)(F)F)c(N3C(=O)c4cc(*)ccc4C3=O)cc1)C2=O)(F)(F)F,366,325
+Predict the Tg of the following SMILES: O=C1c2c(cc(*)cc2)C(=O)N1c1c(C(F)(F)F)cc(N2C(=O)c3c(cc(C(C(F)(F)F)(*)C(F)(F)F)cc3)C2=O)cc1,366,326
+Predict the Tg of the following SMILES: C(C(F)(F)F)(C(F)(F)F)(c1ccc2c(c1)C(=O)N(c1ccc(N3C(=O)c4ccc(*)cc4C3=O)c(C(F)(F)F)c1)C2=O)*,366,326
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4c(*)cccc4C3=O)cc2)ccc(N2C(=O)c3cccc(Oc4ccc(Sc5cc(O*)ccc5)cc4)c3C2=O)cc1,234,226.85
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3cccc(Oc4ccc(Sc5cc(O*)ccc5)cc4)c3C2=O)ccc1Oc1ccc(N2C(=O)c3c(c(*)ccc3)C2=O)cc1,234,226.85
+Predict the Tg of the following SMILES: O=C1c2c(c(Oc3ccc(Sc4cc(O*)ccc4)cc3)ccc2)C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4c(*)cccc4C3=O)cc2)cc1,234,212
+Predict the Tg of the following SMILES: c1(Oc2ccc(Sc3cccc(O*)c3)cc2)c2c(ccc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(cccc5*)C4=O)cc3)cc1)C2=O,234,226.85
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cccc3Oc3ccc(Sc4cc(O*)ccc4)cc3)C2=O)ccc(Oc2ccc(N3C(=O)c4cccc(*)c4C3=O)cc2)cc1,234,226.85
+Predict the Tg of the following SMILES: S(c1ccc(Oc2c3c(ccc2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6c(*)cccc6C5=O)cc4)cc2)C3=O)cc1)c1cccc(O*)c1,234,226.85
+Predict the Tg of the following SMILES: S(c1cc(O*)ccc1)c1ccc(Oc2c3c(ccc2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6cccc(*)c6C5=O)cc4)cc2)C3=O)cc1,234,206
+Predict the Tg of the following SMILES: *c1c2c(ccc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(cccc5Oc5ccc(Sc6cc(O*)ccc6)cc5)C4=O)cc3)cc1)C2=O,234,226.85
+Predict the Tg of the following SMILES: c1(O*)cc(Sc2ccc(Oc3c4c(ccc3)C(=O)N(c3ccc(Oc5ccc(N6C(=O)c7cccc(*)c7C6=O)cc5)cc3)C4=O)cc2)ccc1,234,206
+Predict the Tg of the following SMILES: c1c(Oc2ccc(Sc3cccc(O*)c3)cc2)c2c(cc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(c(*)ccc5)C4=O)cc3)cc1)C2=O,234,226.85
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(c(*)ccc3)C2=O)ccc1N1C(=O)c2c(cccc2S*)C1=O,330,283
+Predict the Tg of the following SMILES: c12c(*)cccc1C(=O)N(c1ccc(N3C(=O)c4c(S*)cccc4C3=O)cc1)C2=O,330,285
+Predict the Tg of the following SMILES: C1(=O)c2cccc(*)c2C(=O)N1c1ccc(N2C(=O)c3c(cccc3S*)C2=O)cc1,330,274
+Predict the Tg of the following SMILES: c1(*)c2c(ccc1)C(=O)N(c1ccc(N3C(=O)c4c(cccc4S*)C3=O)cc1)C2=O,330,311
+Predict the Tg of the following SMILES: c12cccc(*)c1C(=O)N(c1ccc(N3C(=O)c4c(c(S*)ccc4)C3=O)cc1)C2=O,330,274
+Predict the Tg of the following SMILES: c12c(c(*)ccc1)C(=O)N(c1ccc(N3C(=O)c4c(S*)cccc4C3=O)cc1)C2=O,330,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(cccc3S*)C2=O)ccc(N2C(=O)c3c(c(*)ccc3)C2=O)c1,330,283
+Predict the Tg of the following SMILES: O=C1N(c2ccc(N3C(=O)c4cccc(S*)c4C3=O)cc2)C(=O)c2cccc(*)c21,330,274
+Predict the Tg of the following SMILES: c1cc2c(c(S*)c1)C(=O)N(c1ccc(N3C(=O)c4cccc(*)c4C3=O)cc1)C2=O,330,285
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(N3C(=O)c4c(cccc4S*)C3=O)cc2)C(=O)c2c1c(*)ccc2,330,274
+Predict the Tg of the following SMILES: c1c2c(cc3c(=O)n(-c4ccc(-c5c(C)cc(*)cc5)c(C)c4)c(=O)c13)c(=O)n(*)c2=O,374,312
+Predict the Tg of the following SMILES: n1(-c2cc(C)c(-c3ccc(*)cc3C)cc2)c(=O)c2c(c1=O)cc1c(c(=O)n(*)c1=O)c2,374,399
+Predict the Tg of the following SMILES: c1cc(-c2c(C)cc(*)cc2)c(C)cc1-n1c(=O)c2cc3c(=O)n(*)c(=O)c3cc2c1=O,374,385
+Predict the Tg of the following SMILES: *n1c(=O)c2c(cc3c(c(=O)n(-c4ccc(-c5ccc(*)cc5C)c(C)c4)c3=O)c2)c1=O,374,399
+Predict the Tg of the following SMILES: c12cc3c(c(=O)n(*)c3=O)cc1c(=O)n(-c1ccc(-c3c(C)cc(*)cc3)c(C)c1)c2=O,374,311
+Predict the Tg of the following SMILES: c1cc(-c2c(C)cc(-n3c(=O)c4cc5c(cc4c3=O)c(=O)n(*)c5=O)cc2)c(C)cc1*,374,385
+Predict the Tg of the following SMILES: n1(*)c(=O)c2cc3c(=O)n(-c4cc(C)c(-c5c(C)cc(*)cc5)cc4)c(=O)c3cc2c1=O,374,364
+Predict the Tg of the following SMILES: c12c(cc3c(c(=O)n(*)c3=O)c1)c(=O)n(-c1ccc(-c3c(C)cc(*)cc3)c(C)c1)c2=O,374,312
+Predict the Tg of the following SMILES: c12c(cc3c(=O)n(-c4cc(C)c(-c5ccc(*)cc5C)cc4)c(=O)c3c1)c(=O)n(*)c2=O,374,341
+Predict the Tg of the following SMILES: c1(C)cc(-n2c(=O)c3c(c2=O)cc2c(=O)n(*)c(=O)c2c3)ccc1-c1ccc(*)cc1C,374,364
+Predict the Tg of the following SMILES: O=C1c2c(ccc(*)c2)C(=O)N1c1ccc(N2C(=O)c3c(c(*)ccc3)C2=O)cc1,405,285
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)C(=O)c2c1c(*)ccc2,405,285
+Predict the Tg of the following SMILES: c1ccc2c(c1*)C(=O)N(c1ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc1)C2=O,405,311
+Predict the Tg of the following SMILES: c12c(cccc1*)C(=O)N(c1ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc1)C2=O,405,315
+Predict the Tg of the following SMILES: c12c(cc(*)cc1)C(=O)N(c1ccc(N3C(=O)c4c(*)cccc4C3=O)cc1)C2=O,405,315
+Predict the Tg of the following SMILES: c1ccc2c(c1*)C(=O)N(c1ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc1)C2=O,405,311
+Predict the Tg of the following SMILES: c1c2c(c(*)cc1)C(=O)N(c1ccc(N3C(=O)c4c(cc(*)cc4)C3=O)cc1)C2=O,405,315
+Predict the Tg of the following SMILES: *c1c2c(ccc1)C(=O)N(c1ccc(N3C(=O)c4cc(*)ccc4C3=O)cc1)C2=O,405,315
+Predict the Tg of the following SMILES: C1(=O)c2c(*)cccc2C(=O)N1c1ccc(N2C(=O)c3ccc(*)cc3C2=O)cc1,405,285
+Predict the Tg of the following SMILES: c1cc(*)c2c(c1)C(=O)N(c1ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc1)C2=O,405,285
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cc(*)cc3)C2=O)ccc(Oc2ccc(C(c3ccc(Oc4ccc(N5C(=O)c6cc(C(*)(C(F)(F)F)C(F)(F)F)ccc6C5=O)cc4)cc3)(C)C)cc2)cc1,249,224
+Predict the Tg of the following SMILES: FC(F)(C(C(F)(F)F)(*)c1cc2c(cc1)C(=O)N(c1ccc(Oc3ccc(C(C)(C)c4ccc(Oc5ccc(N6C(=O)c7c(ccc(*)c7)C6=O)cc5)cc4)cc3)cc1)C2=O)F,249,224
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(ccc(C(*)(C(F)(F)F)C(F)(F)F)c3)C2=O)ccc(Oc2ccc(C(C)(C)c3ccc(Oc4ccc(N5C(=O)c6cc(*)ccc6C5=O)cc4)cc3)cc2)c1,249,224
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(C(C)(C)c4ccc(Oc5ccc(N6C(=O)c7ccc(C(C(F)(F)F)(*)C(F)(F)F)cc7C6=O)cc5)cc4)cc3)cc2)C(=O)c2cc(*)ccc21,249,226
+Predict the Tg of the following SMILES: c1cc(*)cc2c1C(=O)N(c1ccc(Oc3ccc(C(C)(C)c4ccc(Oc5ccc(N6C(=O)c7c(cc(C(C(F)(F)F)(C(F)(F)F)*)cc7)C6=O)cc5)cc4)cc3)cc1)C2=O,249,226
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(cc(*)cc3)C2=O)ccc1Oc1ccc(C(C)(c2ccc(Oc3ccc(N4C(=O)c5c(ccc(C(C(F)(F)F)(C(F)(F)F)*)c5)C4=O)cc3)cc2)C)cc1,249,226
+Predict the Tg of the following SMILES: O(c1ccc(N2C(=O)c3cc(C(C(F)(F)F)(C(F)(F)F)*)ccc3C2=O)cc1)c1ccc(C(C)(c2ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc2)C)cc1,249,226
+Predict the Tg of the following SMILES: c1cc(C(C(F)(F)F)(C(F)(F)F)*)cc2c1C(=O)N(c1ccc(Oc3ccc(C(C)(c4ccc(Oc5ccc(N6C(=O)c7cc(*)ccc7C6=O)cc5)cc4)C)cc3)cc1)C2=O,249,226
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3ccc(C(C)(c4ccc(Oc5ccc(N6C(=O)c7c(ccc(*)c7)C6=O)cc5)cc4)C)cc3)cc2)C(=O)c2c(cc(C(C(F)(F)F)(*)C(F)(F)F)cc2)C1=O,249,224
+Predict the Tg of the following SMILES: *c1cc2c(cc1)C(=O)N(c1ccc(Oc3ccc(C(C)(C)c4ccc(Oc5ccc(N6C(=O)c7ccc(C(C(F)(F)F)(*)C(F)(F)F)cc7C6=O)cc5)cc4)cc3)cc1)C2=O,249,224
+Predict the Tg of the following SMILES: c12c(cc(O*)cc1)C(=O)N(c1cc(N3C(=O)c4ccc(*)cc4C3=O)ccc1)C2=O,261,285
+Predict the Tg of the following SMILES: c12cc(O*)ccc1C(=O)N(c1cc(N3C(=O)c4c(ccc(*)c4)C3=O)ccc1)C2=O,261,285
+Predict the Tg of the following SMILES: N1(c2cccc(N3C(=O)c4c(cc(O*)cc4)C3=O)c2)C(=O)c2c(ccc(*)c2)C1=O,261,285
+Predict the Tg of the following SMILES: C1(=O)c2cc(*)ccc2C(=O)N1c1cccc(N2C(=O)c3c(cc(O*)cc3)C2=O)c1,261,285
+Predict the Tg of the following SMILES: N1(c2cc(N3C(=O)c4cc(O*)ccc4C3=O)ccc2)C(=O)c2c(cc(*)cc2)C1=O,261,245
+Predict the Tg of the following SMILES: c1(N2C(=O)c3cc(*)ccc3C2=O)cc(N2C(=O)c3ccc(O*)cc3C2=O)ccc1,261,285
+Predict the Tg of the following SMILES: c1c(*)ccc2c1C(=O)N(c1cc(N3C(=O)c4cc(O*)ccc4C3=O)ccc1)C2=O,261,285
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1cc(N3C(=O)c4cc(O*)ccc4C3=O)ccc1)C2=O,261,285
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cc(O*)cc3)C2=O)cccc(N2C(=O)c3c(ccc(*)c3)C2=O)c1,261,285
+Predict the Tg of the following SMILES: c12ccc(*)cc1C(=O)N(c1cc(N3C(=O)c4c(cc(O*)cc4)C3=O)ccc1)C2=O,261,285
+Predict the Tg of the following SMILES: c1c(C(=O)*)ccc2c1C(=O)N(c1ccc(Cc3cc(N4C(=O)c5cc(*)ccc5C4=O)ccc3)cc1)C2=O,292,285
+Predict the Tg of the following SMILES: c1c(C(=O)*)ccc2c1C(=O)N(c1ccc(Cc3cccc(N4C(=O)c5ccc(*)cc5C4=O)c3)cc1)C2=O,292,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3cc(*)ccc3C2=O)cccc1Cc1ccc(N2C(=O)c3ccc(C(*)=O)cc3C2=O)cc1,292,289
+Predict the Tg of the following SMILES: C1(=O)c2c(ccc(C(*)=O)c2)C(=O)N1c1ccc(Cc2cc(N3C(=O)c4cc(*)ccc4C3=O)ccc2)cc1,292,245
+Predict the Tg of the following SMILES: c1c2c(ccc1C(=O)*)C(=O)N(c1ccc(Cc3cc(N4C(=O)c5cc(*)ccc5C4=O)ccc3)cc1)C2=O,292,285
+Predict the Tg of the following SMILES: O=C1c2c(ccc(C(*)=O)c2)C(=O)N1c1ccc(Cc2cccc(N3C(=O)c4cc(*)ccc4C3=O)c2)cc1,292,274
+Predict the Tg of the following SMILES: O=C(*)c1cc2c(cc1)C(=O)N(c1ccc(Cc3cccc(N4C(=O)c5c(cc(*)cc5)C4=O)c3)cc1)C2=O,292,274
+Predict the Tg of the following SMILES: c1c2c(cc(C(=O)*)c1)C(=O)N(c1ccc(Cc3cc(N4C(=O)c5cc(*)ccc5C4=O)ccc3)cc1)C2=O,292,285
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1cccc(Cc3ccc(N4C(=O)c5ccc(C(=O)*)cc5C4=O)cc3)c1)C2=O,292,289
+Predict the Tg of the following SMILES: c1cc2c(cc1C(=O)*)C(=O)N(c1ccc(Cc3cccc(N4C(=O)c5c(ccc(*)c5)C4=O)c3)cc1)C2=O,292,285
+Predict the Tg of the following SMILES: O=C1N(c2ccc(Oc3cccc(Oc4ccc(N5C(=O)c6c(ccc(*)c6)C5=O)cc4)c3)cc2)C(=O)c2cc(Oc3ccc(Sc4cccc(O*)c4)cc3)ccc21,219,224
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3cc(Oc4ccc(N5C(=O)c6c(ccc(Oc7ccc(Sc8cc(O*)ccc8)cc7)c6)C5=O)cc4)ccc3)cc2)C(=O)c2c(ccc(*)c2)C1=O,219,226.85
+Predict the Tg of the following SMILES: c1c(Oc2ccc(Sc3cccc(O*)c3)cc2)cc2c(c1)C(=O)N(c1ccc(Oc3cc(Oc4ccc(N5C(=O)c6c(ccc(*)c6)C5=O)cc4)ccc3)cc1)C2=O,219,226.85
+Predict the Tg of the following SMILES: c1c(Sc2cc(O*)ccc2)ccc(Oc2ccc3c(c2)C(=O)N(c2ccc(Oc4cc(Oc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)ccc4)cc2)C3=O)c1,219,206
+Predict the Tg of the following SMILES: c1ccc(O*)cc1Sc1ccc(Oc2cc3c(cc2)C(=O)N(c2ccc(Oc4cc(Oc5ccc(N6C(=O)c7c(cc(*)cc7)C6=O)cc5)ccc4)cc2)C3=O)cc1,219,206
+Predict the Tg of the following SMILES: c1c(Oc2cccc(Oc3ccc(N4C(=O)c5cc(Oc6ccc(Sc7cccc(O*)c7)cc6)ccc5C4=O)cc3)c2)ccc(N2C(=O)c3cc(*)ccc3C2=O)c1,219,224
+Predict the Tg of the following SMILES: c1c2c(cc(*)c1)C(=O)N(c1ccc(Oc3cccc(Oc4ccc(N5C(=O)c6ccc(Oc7ccc(Sc8cc(O*)ccc8)cc7)cc6C5=O)cc4)c3)cc1)C2=O,219,226.85
+Predict the Tg of the following SMILES: c1cc2c(cc1Oc1ccc(Sc3cccc(O*)c3)cc1)C(=O)N(c1ccc(Oc3cccc(Oc4ccc(N5C(=O)c6c(cc(*)cc6)C5=O)cc4)c3)cc1)C2=O,219,226.85
+Predict the Tg of the following SMILES: c1(Oc2cc3c(cc2)C(=O)N(c2ccc(Oc4cc(Oc5ccc(N6C(=O)c7c(ccc(*)c7)C6=O)cc5)ccc4)cc2)C3=O)ccc(Sc2cc(O*)ccc2)cc1,219,198
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc2)cc(Oc2ccc(N3C(=O)c4c(cc(Oc5ccc(Sc6cccc(O*)c6)cc5)cc4)C3=O)cc2)ccc1,219,224
+Predict the Tg of the following SMILES: c12ccc(*)cc1C(=O)N(c1c(CC)cc(Cc3cc(CC)c(N4C(=O)c5c(ccc(C(=O)*)c5)C4=O)c(CC)c3Cl)c(Cl)c1CC)C2=O,300,315
+Predict the Tg of the following SMILES: c1c2c(cc(*)c1)C(=O)N(c1c(CC)c(Cl)c(Cc3cc(CC)c(N4C(=O)c5c(cc(C(=O)*)cc5)C4=O)c(CC)c3Cl)cc1CC)C2=O,300,315
+Predict the Tg of the following SMILES: c1(Cl)c(CC)c(N2C(=O)c3cc(C(*)=O)ccc3C2=O)c(CC)cc1Cc1cc(CC)c(N2C(=O)c3c(ccc(*)c3)C2=O)c(CC)c1Cl,300,285
+Predict the Tg of the following SMILES: CCc1c(N2C(=O)c3ccc(C(=O)*)cc3C2=O)c(CC)cc(Cc2c(Cl)c(CC)c(N3C(=O)c4cc(*)ccc4C3=O)c(CC)c2)c1Cl,300,293
+Predict the Tg of the following SMILES: C1(=O)c2c(ccc(*)c2)C(=O)N1c1c(CC)c(Cl)c(Cc2cc(CC)c(N3C(=O)c4cc(C(*)=O)ccc4C3=O)c(CC)c2Cl)cc1CC,300,285
+Predict the Tg of the following SMILES: C(c1cc(CC)c(N2C(=O)c3c(cc(C(*)=O)cc3)C2=O)c(CC)c1Cl)c1cc(CC)c(N2C(=O)c3ccc(*)cc3C2=O)c(CC)c1Cl,300,285
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1c(CC)c(Cl)c(Cc3cc(CC)c(N4C(=O)c5c(cc(C(*)=O)cc5)C4=O)c(CC)c3Cl)cc1CC)C2=O,300,315
+Predict the Tg of the following SMILES: c1(C(=O)*)cc2c(cc1)C(=O)N(c1c(CC)c(Cl)c(Cc3c(Cl)c(CC)c(N4C(=O)c5cc(*)ccc5C4=O)c(CC)c3)cc1CC)C2=O,300,315
+Predict the Tg of the following SMILES: C1(=O)c2cc(C(=O)*)ccc2C(=O)N1c1c(CC)c(Cl)c(Cc2c(Cl)c(CC)c(N3C(=O)c4ccc(*)cc4C3=O)c(CC)c2)cc1CC,300,285
+Predict the Tg of the following SMILES: c1c(*)cc2c(c1)C(=O)N(c1c(CC)cc(Cc3c(Cl)c(CC)c(N4C(=O)c5c(ccc(C(*)=O)c5)C4=O)c(CC)c3)c(Cl)c1CC)C2=O,300,285
+Predict the Tg of the following SMILES: FC(F)(F)C(C(F)(F)F)(c1cc2c(cc1)C(=O)N(c1cc(C)c(N3C(=O)c4cc(*)ccc4C3=O)cc1C)C2=O)*,379,341
+Predict the Tg of the following SMILES: c1(C)cc(N2C(=O)c3cc(*)ccc3C2=O)c(C)cc1N1C(=O)c2ccc(C(C(F)(F)F)(*)C(F)(F)F)cc2C1=O,379,325
+Predict the Tg of the following SMILES: C(F)(F)(C(C(F)(F)F)(*)c1ccc2c(c1)C(=O)N(c1cc(C)c(N3C(=O)c4c(cc(*)cc4)C3=O)cc1C)C2=O)F,379,341
+Predict the Tg of the following SMILES: O=C1c2cc(*)ccc2C(=O)N1c1cc(C)c(N2C(=O)c3c(cc(C(C(F)(F)F)(C(F)(F)F)*)cc3)C2=O)cc1C,379,343
+Predict the Tg of the following SMILES: C1(=O)N(c2c(C)cc(N3C(=O)c4cc(C(*)(C(F)(F)F)C(F)(F)F)ccc4C3=O)c(C)c2)C(=O)c2cc(*)ccc21,379,335
+Predict the Tg of the following SMILES: c1(C)c(N2C(=O)c3c(ccc(*)c3)C2=O)cc(C)c(N2C(=O)c3ccc(C(C(F)(F)F)(C(F)(F)F)*)cc3C2=O)c1,379,326
+Predict the Tg of the following SMILES: FC(F)(C(*)(C(F)(F)F)c1ccc2c(c1)C(=O)N(c1c(C)cc(N3C(=O)c4c(ccc(*)c4)C3=O)c(C)c1)C2=O)F,379,341
+Predict the Tg of the following SMILES: C1(=O)c2cc(*)ccc2C(=O)N1c1cc(C)c(N2C(=O)c3c(cc(C(C(F)(F)F)(*)C(F)(F)F)cc3)C2=O)cc1C,379,343
+Predict the Tg of the following SMILES: Cc1c(N2C(=O)c3cc(*)ccc3C2=O)cc(C)c(N2C(=O)c3cc(C(*)(C(F)(F)F)C(F)(F)F)ccc3C2=O)c1,379,325
+Predict the Tg of the following SMILES: c1c(C(C(F)(F)F)(*)C(F)(F)F)cc2c(c1)C(=O)N(c1cc(C)c(N3C(=O)c4c(cc(*)cc4)C3=O)cc1C)C2=O,379,311
+Predict the Tg of the following SMILES: c1ccc(N2C(=O)c3cc4c(cc3C2=O)CN(*)C4=O)c(Oc2ccc(*)cc2)c1,386,287
+Predict the Tg of the following SMILES: *c1ccc(Oc2c(N3C(=O)c4cc5c(cc4C3=O)CN(*)C5=O)cccc2)cc1,386,190
+Predict the Tg of the following SMILES: c12cc3c(cc1C(=O)N(c1c(Oc4ccc(*)cc4)cccc1)C2=O)C(=O)N(*)C3,386,333
+Predict the Tg of the following SMILES: c1cccc(Oc2ccc(*)cc2)c1N1C(=O)c2c(cc3c(c2)CN(*)C3=O)C1=O,386,312
+Predict the Tg of the following SMILES: O=C1c2cc3c(cc2C(=O)N1c1ccccc1Oc1ccc(*)cc1)CN(*)C3=O,386,310.85
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3cc4c(cc3C2=O)C(=O)N(*)C4)c(Oc2ccc(*)cc2)cc1,386,310
+Predict the Tg of the following SMILES: c12cc3c(cc1C(=O)N(c1c(Oc4ccc(*)cc4)cccc1)C2=O)C(=O)N(*)C3,386,333
+Predict the Tg of the following SMILES: N1(*)Cc2c(cc3c(c2)C(=O)N(c2ccccc2Oc2ccc(*)cc2)C3=O)C1=O,386,341
+Predict the Tg of the following SMILES: c12cc3c(cc1C(=O)N(c1ccccc1Oc1ccc(*)cc1)C2=O)CN(*)C3=O,386,190
+Predict the Tg of the following SMILES: O(c1ccc(*)cc1)c1c(N2C(=O)c3cc4c(cc3C2=O)C(=O)N(*)C4)cccc1,386,311
+Predict the Tg of the following SMILES: c1cc(C(C(F)(F)F)(*)C(F)(F)F)cc2c1C(=O)N(c1ccc(Oc3ccc(C(c4ccc(Oc5ccc(N6C(=O)c7c(cc(*)cc7)C6=O)cc5)cc4)(C(F)(F)F)C(F)(F)F)cc3)cc1)C2=O,234,226
+Predict the Tg of the following SMILES: c1(*)cc2c(cc1)C(=O)N(c1ccc(Oc3ccc(C(C(F)(F)F)(c4ccc(Oc5ccc(N6C(=O)c7cc(C(*)(C(F)(F)F)C(F)(F)F)ccc7C6=O)cc5)cc4)C(F)(F)F)cc3)cc1)C2=O,234,226
+Predict the Tg of the following SMILES: C(F)(F)(C(C(F)(F)F)(*)c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(C(C(F)(F)F)(C(F)(F)F)c4ccc(Oc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc4)cc3)cc1)C2=O)F,234,226
+Predict the Tg of the following SMILES: C(C(c1ccc(Oc2ccc(N3C(=O)c4ccc(C(C(F)(F)F)(*)C(F)(F)F)cc4C3=O)cc2)cc1)(C(F)(F)F)c1ccc(Oc2ccc(N3C(=O)c4cc(*)ccc4C3=O)cc2)cc1)(F)(F)F,234,226
+Predict the Tg of the following SMILES: C1(=O)c2ccc(C(C(F)(F)F)(C(F)(F)F)*)cc2C(=O)N1c1ccc(Oc2ccc(C(C(F)(F)F)(C(F)(F)F)c3ccc(Oc4ccc(N5C(=O)c6c(ccc(*)c6)C5=O)cc4)cc3)cc2)cc1,234,226
+Predict the Tg of the following SMILES: c1(C(*)(C(F)(F)F)C(F)(F)F)ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(C(c4ccc(Oc5ccc(N6C(=O)c7c(ccc(*)c7)C6=O)cc5)cc4)(C(F)(F)F)C(F)(F)F)cc3)cc1)C2=O,234,224
+Predict the Tg of the following SMILES: c1c(*)ccc2c1C(=O)N(c1ccc(Oc3ccc(C(C(F)(F)F)(C(F)(F)F)c4ccc(Oc5ccc(N6C(=O)c7ccc(C(*)(C(F)(F)F)C(F)(F)F)cc7C6=O)cc5)cc4)cc3)cc1)C2=O,234,226
+Predict the Tg of the following SMILES: c1c(Oc2ccc(N3C(=O)c4c(ccc(*)c4)C3=O)cc2)ccc(C(C(F)(F)F)(c2ccc(Oc3ccc(N4C(=O)c5c(ccc(C(C(F)(F)F)(C(F)(F)F)*)c5)C4=O)cc3)cc2)C(F)(F)F)c1,234,226
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(C(c4ccc(Oc5ccc(N6C(=O)c7c(cc(C(*)(C(F)(F)F)C(F)(F)F)cc7)C6=O)cc5)cc4)(C(F)(F)F)C(F)(F)F)cc3)cc2)C(=O)c2ccc(*)cc21,234,226
+Predict the Tg of the following SMILES: c12c(ccc(C(C(F)(F)F)(*)C(F)(F)F)c1)C(=O)N(c1ccc(Oc3ccc(C(C(F)(F)F)(c4ccc(Oc5ccc(N6C(=O)c7cc(*)ccc7C6=O)cc5)cc4)C(F)(F)F)cc3)cc1)C2=O,234,226
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3ccc(Oc4ccc5c(c4)C(=O)N(C)C5=O)cc3C2=O)ccc1Oc1ccc(C)cc1,272,215
+Predict the Tg of the following SMILES: c1c2c(cc(Oc3cc4c(cc3)C(=O)N(C)C4=O)c1)C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,272,285
+Predict the Tg of the following SMILES: Cc1ccc(Oc2ccc(N3C(=O)c4ccc(Oc5cc6c(cc5)C(=O)N(C)C6=O)cc4C3=O)cc2)cc1,272,215
+Predict the Tg of the following SMILES: O=C1N(C)C(=O)c2ccc(Oc3ccc4c(c3)C(=O)N(c3ccc(Oc5ccc(C)cc5)cc3)C4=O)cc21,272,215
+Predict the Tg of the following SMILES: O(c1ccc(N2C(=O)c3c(cc(Oc4cc5c(cc4)C(=O)N(C)C5=O)cc3)C2=O)cc1)c1ccc(C)cc1,272,215
+Predict the Tg of the following SMILES: c12c(cc(Oc3ccc4c(c3)C(=O)N(C)C4=O)cc1)C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,272,215
+Predict the Tg of the following SMILES: c1c(Oc2cc3c(cc2)C(=O)N(C)C3=O)cc2c(c1)C(=O)N(c1ccc(Oc3ccc(C)cc3)cc1)C2=O,272,285
+Predict the Tg of the following SMILES: O=C1c2cc(Oc3cc4c(cc3)C(=O)N(c3ccc(Oc5ccc(C)cc5)cc3)C4=O)ccc2C(=O)N1C,272,215
+Predict the Tg of the following SMILES: O(c1ccc(C)cc1)c1ccc(N2C(=O)c3ccc(Oc4ccc5c(c4)C(=O)N(C)C5=O)cc3C2=O)cc1,272,215
+Predict the Tg of the following SMILES: c1(Oc2ccc(C)cc2)ccc(N2C(=O)c3c(ccc(Oc4cc5c(cc4)C(=O)N(C)C5=O)c3)C2=O)cc1,272,215
+Predict the Tg of the following SMILES: c1(C(C)(C)c2ccc(Oc3cc4c(cc3)C(=O)N(c3ccc(Oc5ccc(N6C(=O)c7c(ccc(*)c7)C6=O)cc5)cc3)C4=O)cc2)cccc(O*)c1,223,224
+Predict the Tg of the following SMILES: c1c(Oc2ccc(C(C)(C)c3cc(O*)ccc3)cc2)cc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc1)C2=O,223,226.85
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(N4C(=O)c5ccc(*)cc5C4=O)cc3)cc2)C(=O)c2c1ccc(Oc1ccc(C(C)(c3cc(O*)ccc3)C)cc1)c2,223,226
+Predict the Tg of the following SMILES: c1c2c(ccc1Oc1ccc(C(C)(C)c3cc(O*)ccc3)cc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc1)C2=O,223,226.85
+Predict the Tg of the following SMILES: C1(=O)c2cc(*)ccc2C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4cc(Oc5ccc(C(C)(C)c6cc(O*)ccc6)cc5)ccc4C3=O)cc2)cc1,223,226.85
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(Oc4ccc(C(C)(c5cccc(O*)c5)C)cc4)cc3C2=O)ccc(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)c1,223,224
+Predict the Tg of the following SMILES: O=C1N(c2ccc(Oc3ccc(N4C(=O)c5c(ccc(Oc6ccc(C(C)(C)c7cc(O*)ccc7)cc6)c5)C4=O)cc3)cc2)C(=O)c2cc(*)ccc21,223,226.85
+Predict the Tg of the following SMILES: N1(c2ccc(Oc3ccc(N4C(=O)c5c(cc(Oc6ccc(C(C)(c7cc(O*)ccc7)C)cc6)cc5)C4=O)cc3)cc2)C(=O)c2cc(*)ccc2C1=O,223,226
+Predict the Tg of the following SMILES: c1c(Oc2ccc(N3C(=O)c4c(cc(*)cc4)C3=O)cc2)ccc(N2C(=O)c3cc(Oc4ccc(C(C)(C)c5cc(O*)ccc5)cc4)ccc3C2=O)c1,223,226
+Predict the Tg of the following SMILES: c1c2c(ccc1Oc1ccc(C(C)(c3cccc(O*)c3)C)cc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(cc(*)cc5)C4=O)cc3)cc1)C2=O,223,226.85
+Predict the Tg of the following SMILES: c1c(*)c2c(cc1)C(=O)N(c1cc(S(=O)(=O)c3cccc(N4C(=O)c5c(O*)cccc5C4=O)c3)ccc1)C2=O,241,285
+Predict the Tg of the following SMILES: *c1c2c(ccc1)C(=O)N(c1cc(S(c3cc(N4C(=O)c5c(c(O*)ccc5)C4=O)ccc3)(=O)=O)ccc1)C2=O,241,285
+Predict the Tg of the following SMILES: c1ccc(S(=O)(=O)c2cccc(N3C(=O)c4c(*)cccc4C3=O)c2)cc1N1C(=O)c2cccc(O*)c2C1=O,241,293
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(c(*)ccc3)C2=O)cc(S(c2cc(N3C(=O)c4c(O*)cccc4C3=O)ccc2)(=O)=O)cc1,241,285
+Predict the Tg of the following SMILES: c12c(c(O*)ccc1)C(=O)N(c1cc(S(=O)(=O)c3cccc(N4C(=O)c5c(*)cccc5C4=O)c3)ccc1)C2=O,241,245
+Predict the Tg of the following SMILES: C1(=O)N(c2cccc(S(c3cccc(N4C(=O)c5cccc(O*)c5C4=O)c3)(=O)=O)c2)C(=O)c2c(*)cccc21,241,274
+Predict the Tg of the following SMILES: S(c1cccc(N2C(=O)c3cccc(O*)c3C2=O)c1)(=O)(c1cc(N2C(=O)c3cccc(*)c3C2=O)ccc1)=O,241,289
+Predict the Tg of the following SMILES: c12c(cccc1*)C(=O)N(c1cc(S(=O)(c3cc(N4C(=O)c5c(cccc5O*)C4=O)ccc3)=O)ccc1)C2=O,241,285
+Predict the Tg of the following SMILES: N1(c2cccc(S(c3cccc(N4C(=O)c5c(cccc5*)C4=O)c3)(=O)=O)c2)C(=O)c2c(O*)cccc2C1=O,241,287
+Predict the Tg of the following SMILES: O=C1c2c(c(*)ccc2)C(=O)N1c1cc(S(c2cccc(N3C(=O)c4cccc(O*)c4C3=O)c2)(=O)=O)ccc1,241,245
+Predict the Tg of the following SMILES: c1c2c(cc(-c3cc4c(cc3)C(=O)N(*)C4=O)c1)C(=O)N(c1ccc(Oc3ccc(P(=O)(c4ccc(Oc5cc(*)ccc5)cc4)c4ccccc4)cc3)cc1)C2=O,241,210
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(ccc(-c4ccc5c(c4)C(=O)N(*)C5=O)c3)C2=O)ccc1Oc1ccc(P(c2ccc(Oc3cc(*)ccc3)cc2)(=O)c2ccccc2)cc1,241,232
+Predict the Tg of the following SMILES: c1(*)cccc(Oc2ccc(P(=O)(c3ccccc3)c3ccc(Oc4ccc(N5C(=O)c6ccc(-c7ccc8c(c7)C(=O)N(*)C8=O)cc6C5=O)cc4)cc3)cc2)c1,241,232
+Predict the Tg of the following SMILES: C1(=O)c2c(ccc(-c3cc4c(cc3)C(=O)N(*)C4=O)c2)C(=O)N1c1ccc(Oc2ccc(P(c3ccc(Oc4cccc(*)c4)cc3)(=O)c3ccccc3)cc2)cc1,241,212.85
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(P(c3ccccc3)(=O)c3ccc(Oc4cccc(*)c4)cc3)cc2)ccc1N1C(=O)c2c(cc(-c3cc4c(cc3)C(=O)N(*)C4=O)cc2)C1=O,241,290
+Predict the Tg of the following SMILES: N1(*)C(=O)c2c(ccc(-c3cc4c(cc3)C(=O)N(c3ccc(Oc5ccc(P(=O)(c6ccccc6)c6ccc(Oc7cccc(*)c7)cc6)cc5)cc3)C4=O)c2)C1=O,241,215
+Predict the Tg of the following SMILES: c1c(*)cc(Oc2ccc(P(=O)(c3ccc(Oc4ccc(N5C(=O)c6cc(-c7ccc8c(c7)C(=O)N(*)C8=O)ccc6C5=O)cc4)cc3)c3ccccc3)cc2)cc1,241,208.85
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4c(ccc(-c5cc6c(cc5)C(=O)N(*)C6=O)c4)C3=O)cc2)ccc(P(c2ccccc2)(=O)c2ccc(Oc3cc(*)ccc3)cc2)cc1,241,210
+Predict the Tg of the following SMILES: c1(-c2cc3c(cc2)C(=O)N(*)C3=O)ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(P(c4ccccc4)(=O)c4ccc(Oc5cccc(*)c5)cc4)cc3)cc1)C2=O,241,215
+Predict the Tg of the following SMILES: O=C1N(c2ccc(Oc3ccc(P(=O)(c4ccc(Oc5cc(*)ccc5)cc4)c4ccccc4)cc3)cc2)C(=O)c2c1cc(-c1ccc3c(c1)C(=O)N(*)C3=O)cc2,241,215
+Predict the Tg of the following SMILES: O=C1c2c(O*)cccc2C(=O)N1c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5c(c(*)ccc5)C4=O)cc3)cc2)cc1,263,226
+Predict the Tg of the following SMILES: O=C1c2c(c(*)ccc2)C(=O)N1c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5c(c(O*)ccc5)C4=O)cc3)cc2)cc1,263,226
+Predict the Tg of the following SMILES: c1cc(O*)c2c(c1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(*)cccc6C5=O)cc4)cc3)cc1)C2=O,263,226
+Predict the Tg of the following SMILES: c1(Oc2ccc(Oc3ccc(N4C(=O)c5c(c(O*)ccc5)C4=O)cc3)cc2)ccc(N2C(=O)c3c(cccc3*)C2=O)cc1,263,245
+Predict the Tg of the following SMILES: c1ccc2c(c1*)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6O*)C5=O)cc4)cc3)cc1)C2=O,263,226
+Predict the Tg of the following SMILES: c1cc(*)c2c(c1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6O*)C5=O)cc4)cc3)cc1)C2=O,263,226
+Predict the Tg of the following SMILES: c1c2c(c(*)cc1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6O*)C5=O)cc4)cc3)cc1)C2=O,263,226
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6*)C5=O)cc4)cc3)cc2)C(=O)c2c(O*)cccc21,263,226
+Predict the Tg of the following SMILES: c1ccc2c(c1*)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6cccc(O*)c6C5=O)cc4)cc3)cc1)C2=O,263,226
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3c(O*)cccc3C2=O)ccc(Oc2ccc(Oc3ccc(N4C(=O)c5c(c(*)ccc5)C4=O)cc3)cc2)c1,263,206
+Predict the Tg of the following SMILES: Fc1c(F)c(Oc2ccc(N3C(=O)c4c(ccc(C(C(F)(F)F)(*)C(F)(F)F)c4)C3=O)cc2)c(F)c(F)c1-c1c(F)c(F)c(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)c(F)c1F,271.2,226
+Predict the Tg of the following SMILES: c1(Oc2c(F)c(F)c(-c3c(F)c(F)c(Oc4ccc(N5C(=O)c6ccc(C(C(F)(F)F)(*)C(F)(F)F)cc6C5=O)cc4)c(F)c3F)c(F)c2F)ccc(N2C(=O)c3ccc(*)cc3C2=O)cc1,271.2,263
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3ccc(*)cc3C2=O)ccc1Oc1c(F)c(F)c(-c2c(F)c(F)c(Oc3ccc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)cc3)c(F)c2F)c(F)c1F,271.2,263
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cc(C(C(F)(F)F)(C(F)(F)F)*)cc3)C2=O)ccc(Oc2c(F)c(F)c(-c3c(F)c(F)c(Oc4ccc(N5C(=O)c6c(ccc(*)c6)C5=O)cc4)c(F)c3F)c(F)c2F)cc1,271.2,226
+Predict the Tg of the following SMILES: Fc1c(-c2c(F)c(F)c(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)c(F)c2F)c(F)c(F)c(Oc2ccc(N3C(=O)c4c(cc(C(*)(C(F)(F)F)C(F)(F)F)cc4)C3=O)cc2)c1F,271.2,226
+Predict the Tg of the following SMILES: c1(F)c(-c2c(F)c(F)c(Oc3ccc(N4C(=O)c5c(cc(*)cc5)C4=O)cc3)c(F)c2F)c(F)c(F)c(Oc2ccc(N3C(=O)c4cc(C(C(F)(F)F)(C(F)(F)F)*)ccc4C3=O)cc2)c1F,271.2,226
+Predict the Tg of the following SMILES: O=C1N(c2ccc(Oc3c(F)c(F)c(-c4c(F)c(F)c(Oc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)c(F)c4F)c(F)c3F)cc2)C(=O)c2ccc(C(C(F)(F)F)(C(F)(F)F)*)cc21,271.2,263
+Predict the Tg of the following SMILES: *C(C(F)(F)F)(C(F)(F)F)c1ccc2c(c1)C(=O)N(c1ccc(Oc3c(F)c(F)c(-c4c(F)c(F)c(Oc5ccc(N6C(=O)c7cc(*)ccc7C6=O)cc5)c(F)c4F)c(F)c3F)cc1)C2=O,271.2,226
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)c(F)c(F)c(-c2c(F)c(F)c(Oc3ccc(N4C(=O)c5cc(C(C(F)(F)F)(*)C(F)(F)F)ccc5C4=O)cc3)c(F)c2F)c(F)c1F,271.2,226
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3ccc(C(*)(C(F)(F)F)C(F)(F)F)cc3C2=O)ccc1Oc1c(F)c(F)c(-c2c(F)c(F)c(Oc3ccc(N4C(=O)c5c(cc(*)cc5)C4=O)cc3)c(F)c2F)c(F)c1F,271.2,263
+Predict the Tg of the following SMILES: c1(C(F)(F)F)cc(N2C(=O)c3ccc(*)cc3C2=O)ccc1-c1c(C(F)(F)F)cc(N2C(=O)c3c(ccc(S(=O)(*)=O)c3)C2=O)cc1,320,283
+Predict the Tg of the following SMILES: c1(N2C(=O)c3ccc(*)cc3C2=O)ccc(-c2c(C(F)(F)F)cc(N3C(=O)c4ccc(S(*)(=O)=O)cc4C3=O)cc2)c(C(F)(F)F)c1,320,283
+Predict the Tg of the following SMILES: C1(=O)N(c2cc(C(F)(F)F)c(-c3c(C(F)(F)F)cc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc2)C(=O)c2ccc(S(=O)(*)=O)cc21,320,287
+Predict the Tg of the following SMILES: c1(N2C(=O)c3ccc(*)cc3C2=O)ccc(-c2c(C(F)(F)F)cc(N3C(=O)c4c(cc(S(=O)(=O)*)cc4)C3=O)cc2)c(C(F)(F)F)c1,320,289
+Predict the Tg of the following SMILES: c1c(*)cc2c(c1)C(=O)N(c1cc(C(F)(F)F)c(-c3c(C(F)(F)F)cc(N4C(=O)c5cc(S(*)(=O)=O)ccc5C4=O)cc3)cc1)C2=O,320,287
+Predict the Tg of the following SMILES: C1(=O)N(c2cc(C(F)(F)F)c(-c3ccc(N4C(=O)c5cc(S(=O)(=O)*)ccc5C4=O)cc3C(F)(F)F)cc2)C(=O)c2cc(*)ccc21,320,287
+Predict the Tg of the following SMILES: *S(=O)(c1cc2c(cc1)C(=O)N(c1cc(C(F)(F)F)c(-c3c(C(F)(F)F)cc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc1)C2=O)=O,320,285
+Predict the Tg of the following SMILES: c1c(*)cc2c(c1)C(=O)N(c1ccc(-c3ccc(N4C(=O)c5c(cc(S(=O)(=O)*)cc5)C4=O)cc3C(F)(F)F)c(C(F)(F)F)c1)C2=O,320,279
+Predict the Tg of the following SMILES: O=C1N(c2cc(C(F)(F)F)c(-c3c(C(F)(F)F)cc(N4C(=O)c5c(cc(S(=O)(=O)*)cc5)C4=O)cc3)cc2)C(=O)c2c1ccc(*)c2,320,283
+Predict the Tg of the following SMILES: FC(c1cc(N2C(=O)c3cc(*)ccc3C2=O)ccc1-c1c(C(F)(F)F)cc(N2C(=O)c3cc(S(*)(=O)=O)ccc3C2=O)cc1)(F)F,320,287
+Predict the Tg of the following SMILES: Clc1cc(C(C)(C)c2cc(Cl)c(*)c(Cl)c2)cc(Cl)c1OC1=C(Cl)C(=O)N(c2ccc(Cc3ccc(N4C(=O)C(Cl)=C(*)C4=O)cc3)cc2)C1=O,200,224
+Predict the Tg of the following SMILES: c1(C(C)(c2cc(Cl)c(*)c(Cl)c2)C)cc(Cl)c(OC2=C(Cl)C(=O)N(c3ccc(Cc4ccc(N5C(=O)C(Cl)=C(*)C5=O)cc4)cc3)C2=O)c(Cl)c1,200,224
+Predict the Tg of the following SMILES: N1(c2ccc(Cc3ccc(N4C(=O)C(Cl)=C(Oc5c(Cl)cc(C(c6cc(Cl)c(*)c(Cl)c6)(C)C)cc5Cl)C4=O)cc3)cc2)C(=O)C(*)=C(Cl)C1=O,200,224
+Predict the Tg of the following SMILES: O=C1C(*)=C(Cl)C(=O)N1c1ccc(Cc2ccc(N3C(=O)C(Oc4c(Cl)cc(C(C)(c5cc(Cl)c(*)c(Cl)c5)C)cc4Cl)=C(Cl)C3=O)cc2)cc1,200,224
+Predict the Tg of the following SMILES: C1(Oc2c(Cl)cc(C(C)(C)c3cc(Cl)c(*)c(Cl)c3)cc2Cl)=C(Cl)C(=O)N(c2ccc(Cc3ccc(N4C(=O)C(Cl)=C(*)C4=O)cc3)cc2)C1=O,200,224
+Predict the Tg of the following SMILES: Clc1cc(C(C)(c2cc(Cl)c(OC3=C(Cl)C(=O)N(c4ccc(Cc5ccc(N6C(=O)C(Cl)=C(*)C6=O)cc5)cc4)C3=O)c(Cl)c2)C)cc(Cl)c1*,200,224
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Cc3ccc(N4C(=O)C(Cl)=C(Oc5c(Cl)cc(C(C)(C)c6cc(Cl)c(*)c(Cl)c6)cc5Cl)C4=O)cc3)cc2)C(=O)C(*)=C1Cl,200,224
+Predict the Tg of the following SMILES: c1cc(N2C(=O)C(Cl)=C(Oc3c(Cl)cc(C(C)(C)c4cc(Cl)c(*)c(Cl)c4)cc3Cl)C2=O)ccc1Cc1ccc(N2C(=O)C(Cl)=C(*)C2=O)cc1,200,224
+Predict the Tg of the following SMILES: c1c(Cl)c(OC2=C(Cl)C(=O)N(c3ccc(Cc4ccc(N5C(=O)C(Cl)=C(*)C5=O)cc4)cc3)C2=O)c(Cl)cc1C(C)(C)c1cc(Cl)c(*)c(Cl)c1,200,224
+Predict the Tg of the following SMILES: *c1c(Cl)cc(C(c2cc(Cl)c(OC3=C(Cl)C(=O)N(c4ccc(Cc5ccc(N6C(=O)C(*)=C(Cl)C6=O)cc5)cc4)C3=O)c(Cl)c2)(C)C)cc1Cl,200,224
+Predict the Tg of the following SMILES: O=C1c2ccc(*)cc2C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4c(cc(O*)cc4)C3=O)cc2)cc1,242,245
+Predict the Tg of the following SMILES: c1(O*)ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)cc1)C2=O,242,245
+Predict the Tg of the following SMILES: C1(=O)c2ccc(*)cc2C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4c(cc(O*)cc4)C3=O)cc2)cc1,242,245
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(ccc(*)c3)C2=O)ccc(Oc2ccc(N3C(=O)c4c(cc(O*)cc4)C3=O)cc2)cc1,242,245
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(ccc(*)c3)C2=O)ccc(Oc2ccc(N3C(=O)c4c(cc(O*)cc4)C3=O)cc2)cc1,242,245
+Predict the Tg of the following SMILES: C1(=O)c2c(cc(O*)cc2)C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4cc(*)ccc4C3=O)cc2)cc1,242,245
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)ccc1N1C(=O)c2c(ccc(O*)c2)C1=O,242,245
+Predict the Tg of the following SMILES: c1(O*)ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)cc1)C2=O,242,245
+Predict the Tg of the following SMILES: c12cc(O*)ccc1C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(cc(*)cc5)C4=O)cc3)cc1)C2=O,242,245
+Predict the Tg of the following SMILES: *c1cc2c(cc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5ccc(O*)cc5C4=O)cc3)cc1)C2=O,242,245
+Predict the Tg of the following SMILES: C1(=O)N(c2ccccc2C(c2cc(N3C(=O)c4c(cc(C(*)=O)cc4)C3=O)ccc2)=O)C(=O)c2ccc(*)cc21,259,287
+Predict the Tg of the following SMILES: c1cc2c(cc1*)C(=O)N(c1c(C(=O)c3cc(N4C(=O)c5ccc(C(*)=O)cc5C4=O)ccc3)cccc1)C2=O,259,287
+Predict the Tg of the following SMILES: c1(C(*)=O)cc2c(cc1)C(=O)N(c1cc(C(=O)c3ccccc3N3C(=O)c4ccc(*)cc4C3=O)ccc1)C2=O,259,287
+Predict the Tg of the following SMILES: c1cc(C(=O)c2cccc(N3C(=O)c4c(cc(C(=O)*)cc4)C3=O)c2)c(N2C(=O)c3cc(*)ccc3C2=O)cc1,259,287
+Predict the Tg of the following SMILES: c1cccc(C(=O)c2cccc(N3C(=O)c4c(ccc(C(=O)*)c4)C3=O)c2)c1N1C(=O)c2c(cc(*)cc2)C1=O,259,287
+Predict the Tg of the following SMILES: O=C(c1c(N2C(=O)c3c(ccc(*)c3)C2=O)cccc1)c1cc(N2C(=O)c3ccc(C(*)=O)cc3C2=O)ccc1,259,289
+Predict the Tg of the following SMILES: c12ccc(C(*)=O)cc1C(=O)N(c1cc(C(=O)c3ccccc3N3C(=O)c4ccc(*)cc4C3=O)ccc1)C2=O,259,287
+Predict the Tg of the following SMILES: c1ccc(C(c2ccccc2N2C(=O)c3cc(*)ccc3C2=O)=O)cc1N1C(=O)c2c(cc(C(=O)*)cc2)C1=O,259,289
+Predict the Tg of the following SMILES: c1(C(c2ccccc2N2C(=O)c3c(ccc(*)c3)C2=O)=O)cccc(N2C(=O)c3ccc(C(*)=O)cc3C2=O)c1,259,289
+Predict the Tg of the following SMILES: c1(C(=O)*)cc2c(cc1)C(=O)N(c1cccc(C(=O)c3ccccc3N3C(=O)c4c(cc(*)cc4)C3=O)c1)C2=O,259,287
+Predict the Tg of the following SMILES: c12c(cc(C(=O)*)cc1)C(=O)N(c1c(C(=O)c3ccccc3N3C(=O)c4c(ccc(*)c4)C3=O)cccc1)C2=O,289,285
+Predict the Tg of the following SMILES: C1(=O)N(c2c(C(c3ccccc3N3C(=O)c4ccc(C(*)=O)cc4C3=O)=O)cccc2)C(=O)c2cc(*)ccc21,289,287
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1ccccc1C(c1ccccc1N1C(=O)c3ccc(C(=O)*)cc3C1=O)=O)C2=O,289,289
+Predict the Tg of the following SMILES: c1c2c(cc(C(=O)*)c1)C(=O)N(c1ccccc1C(c1c(N3C(=O)c4c(ccc(*)c4)C3=O)cccc1)=O)C2=O,289,285
+Predict the Tg of the following SMILES: c1(*)cc2c(cc1)C(=O)N(c1c(C(=O)c3c(N4C(=O)c5c(cc(C(=O)*)cc5)C4=O)cccc3)cccc1)C2=O,289,285
+Predict the Tg of the following SMILES: O=C(c1cc2c(cc1)C(=O)N(c1ccccc1C(c1ccccc1N1C(=O)c3c(cc(*)cc3)C1=O)=O)C2=O)*,289,287.8
+Predict the Tg of the following SMILES: c1(C(=O)c2ccccc2N2C(=O)c3c(ccc(*)c3)C2=O)ccccc1N1C(=O)c2ccc(C(*)=O)cc2C1=O,289,285
+Predict the Tg of the following SMILES: *c1cc2c(cc1)C(=O)N(c1c(C(=O)c3c(N4C(=O)c5ccc(C(=O)*)cc5C4=O)cccc3)cccc1)C2=O,289,287
+Predict the Tg of the following SMILES: O=C1N(c2c(C(c3c(N4C(=O)c5c(ccc(C(=O)*)c5)C4=O)cccc3)=O)cccc2)C(=O)c2cc(*)ccc21,289,285
+Predict the Tg of the following SMILES: c12ccc(*)cc1C(=O)N(c1c(C(c3ccccc3N3C(=O)c4c(ccc(C(=O)*)c4)C3=O)=O)cccc1)C2=O,289,287
+Predict the Tg of the following SMILES: C1(=O)N(c2cc(S(=O)(c3cccc(N4C(=O)c5cc(*)ccc5C4=O)c3)=O)ccc2)C(=O)c2c1cc(O*)cc2,253,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3cc(O*)ccc3C2=O)cccc1S(=O)(c1cc(N2C(=O)c3cc(*)ccc3C2=O)ccc1)=O,253,285
+Predict the Tg of the following SMILES: c1(O*)ccc2c(c1)C(=O)N(c1cccc(S(=O)(c3cc(N4C(=O)c5c(cc(*)cc5)C4=O)ccc3)=O)c1)C2=O,253,285
+Predict the Tg of the following SMILES: O=C1N(c2cccc(S(=O)(c3cccc(N4C(=O)c5c(cc(O*)cc5)C4=O)c3)=O)c2)C(=O)c2ccc(*)cc21,253,279
+Predict the Tg of the following SMILES: O=C1N(c2cccc(S(=O)(c3cccc(N4C(=O)c5cc(O*)ccc5C4=O)c3)=O)c2)C(=O)c2ccc(*)cc21,253,279
+Predict the Tg of the following SMILES: c1c2c(ccc1O*)C(=O)N(c1cccc(S(c3cccc(N4C(=O)c5cc(*)ccc5C4=O)c3)(=O)=O)c1)C2=O,253,279
+Predict the Tg of the following SMILES: c1(O*)ccc2c(c1)C(=O)N(c1cccc(S(=O)(=O)c3cccc(N4C(=O)c5ccc(*)cc5C4=O)c3)c1)C2=O,253,285
+Predict the Tg of the following SMILES: c1cc2c(cc1O*)C(=O)N(c1cc(S(c3cccc(N4C(=O)c5ccc(*)cc5C4=O)c3)(=O)=O)ccc1)C2=O,253,285
+Predict the Tg of the following SMILES: c1ccc(S(=O)(=O)c2cccc(N3C(=O)c4c(cc(*)cc4)C3=O)c2)cc1N1C(=O)c2c(ccc(O*)c2)C1=O,253,245
+Predict the Tg of the following SMILES: *Oc1cc2c(cc1)C(=O)N(c1cc(S(c3cc(N4C(=O)c5c(ccc(*)c5)C4=O)ccc3)(=O)=O)ccc1)C2=O,253,285
+Predict the Tg of the following SMILES: C1(=O)N(c2cccc(N3C(=O)c4c(c(Oc5ccc(S(=O)(c6cccc(O*)c6)=O)cc5)ccc4)C3=O)c2)C(=O)c2c1cccc2*,266,245
+Predict the Tg of the following SMILES: c1c(Oc2c3c(ccc2)C(=O)N(c2cc(N4C(=O)c5c(cccc5*)C4=O)ccc2)C3=O)ccc(S(=O)(=O)c2cc(O*)ccc2)c1,266,245
+Predict the Tg of the following SMILES: c1(*)cccc2c1C(=O)N(c1cc(N3C(=O)c4c(cccc4Oc4ccc(S(c5cc(O*)ccc5)(=O)=O)cc4)C3=O)ccc1)C2=O,266,245
+Predict the Tg of the following SMILES: c1ccc(N2C(=O)c3c(c(Oc4ccc(S(=O)(=O)c5cc(O*)ccc5)cc4)ccc3)C2=O)cc1N1C(=O)c2c(c(*)ccc2)C1=O,266,245
+Predict the Tg of the following SMILES: c1(S(c2ccc(Oc3c4c(ccc3)C(=O)N(c3cc(N5C(=O)c6c(cccc6*)C5=O)ccc3)C4=O)cc2)(=O)=O)cc(O*)ccc1,266,245
+Predict the Tg of the following SMILES: N1(c2cc(N3C(=O)c4c(cccc4Oc4ccc(S(c5cccc(O*)c5)(=O)=O)cc4)C3=O)ccc2)C(=O)c2c(*)cccc2C1=O,266,245
+Predict the Tg of the following SMILES: c1c(S(c2ccc(Oc3c4c(ccc3)C(=O)N(c3cccc(N5C(=O)c6c(cccc6*)C5=O)c3)C4=O)cc2)(=O)=O)cccc1O*,266,245
+Predict the Tg of the following SMILES: c1(O*)cccc(S(c2ccc(Oc3cccc4c3C(=O)N(c3cc(N5C(=O)c6cccc(*)c6C5=O)ccc3)C4=O)cc2)(=O)=O)c1,266,245
+Predict the Tg of the following SMILES: c1cc2c(c(Oc3ccc(S(c4cc(O*)ccc4)(=O)=O)cc3)c1)C(=O)N(c1cc(N3C(=O)c4cccc(*)c4C3=O)ccc1)C2=O,266,245
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3cccc(Oc4ccc(S(=O)(=O)c5cccc(O*)c5)cc4)c3C2=O)cccc1N1C(=O)c2cccc(*)c2C1=O,266,245
+Predict the Tg of the following SMILES: O=C1c2c(ccc(*)c2)C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4c(*)cccc4C3=O)cc2)cc1,319,245
+Predict the Tg of the following SMILES: O=C1N(c2ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc2)C(=O)c2c(*)cccc21,319,245
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(ccc(*)c3)C2=O)ccc1Oc1ccc(N2C(=O)c3c(*)cccc3C2=O)cc1,319,245
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3cccc(*)c3C2=O)ccc1Oc1ccc(N2C(=O)c3cc(*)ccc3C2=O)cc1,319,285
+Predict the Tg of the following SMILES: *c1cccc2c1C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)cc1)C2=O,319,245
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(N4C(=O)c5c(cc(*)cc5)C4=O)cc3)cc2)C(=O)c2c1cccc2*,319,245
+Predict the Tg of the following SMILES: c1(*)c2c(ccc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc1)C2=O,319,245
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(cccc3*)C2=O)ccc1Oc1ccc(N2C(=O)c3c(ccc(*)c3)C2=O)cc1,319,245
+Predict the Tg of the following SMILES: O=C1c2c(cc(*)cc2)C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4cccc(*)c4C3=O)cc2)cc1,319,245
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3cc(*)ccc3C2=O)ccc(Oc2ccc(N3C(=O)c4c(c(*)ccc4)C3=O)cc2)c1,319,245
+Predict the Tg of the following SMILES: c1(C(*)=O)cc2c(cc1)C(=O)N(c1cc(N3C(=O)c4c(ccc(*)c4)C3=O)ccc1)C2=O,300,285
+Predict the Tg of the following SMILES: c1(C(*)=O)cc2c(cc1)C(=O)N(c1cc(N3C(=O)c4c(cc(*)cc4)C3=O)ccc1)C2=O,300,285
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(ccc(C(=O)*)c3)C2=O)cc(N2C(=O)c3c(cc(*)cc3)C2=O)ccc1,300,285
+Predict the Tg of the following SMILES: c12c(cc(*)cc1)C(=O)N(c1cc(N3C(=O)c4cc(C(=O)*)ccc4C3=O)ccc1)C2=O,300,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(*)cc3C2=O)cccc1N1C(=O)c2c(ccc(C(*)=O)c2)C1=O,300,285
+Predict the Tg of the following SMILES: c12c(ccc(*)c1)C(=O)N(c1cccc(N3C(=O)c4c(cc(C(=O)*)cc4)C3=O)c1)C2=O,300,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(C(*)=O)cc3C2=O)cc(N2C(=O)c3c(cc(*)cc3)C2=O)cc1,300,285
+Predict the Tg of the following SMILES: *C(c1cc2c(cc1)C(=O)N(c1cccc(N3C(=O)c4ccc(*)cc4C3=O)c1)C2=O)=O,300,285
+Predict the Tg of the following SMILES: c1c(N2C(=O)c3ccc(C(=O)*)cc3C2=O)cccc1N1C(=O)c2c(cc(*)cc2)C1=O,300,285
+Predict the Tg of the following SMILES: c1(*)ccc2c(c1)C(=O)N(c1cc(N3C(=O)c4cc(C(=O)*)ccc4C3=O)ccc1)C2=O,300,285
+Predict the Tg of the following SMILES: c1ccc(C)cc1-n1c(=O)c2c(cc3c(c2)c(=O)n(C)c3=O)c1=O,442,341
+Predict the Tg of the following SMILES: O=c1n(-c2cc(C)ccc2)c(=O)c2c1cc1c(c(=O)n(C)c1=O)c2,442,311
+Predict the Tg of the following SMILES: c1c(-n2c(=O)c3cc4c(=O)n(C)c(=O)c4cc3c2=O)cc(C)cc1,442,341
+Predict the Tg of the following SMILES: O=c1n(C)c(=O)c2c1cc1c(c(=O)n(-c3cccc(C)c3)c1=O)c2,442,351
+Predict the Tg of the following SMILES: c1c2c(=O)n(C)c(=O)c2cc2c(=O)n(-c3cccc(C)c3)c(=O)c12,442,399
+Predict the Tg of the following SMILES: n1(-c2cccc(C)c2)c(=O)c2c(cc3c(=O)n(C)c(=O)c3c2)c1=O,442,341
+Predict the Tg of the following SMILES: Cn1c(=O)c2cc3c(c(=O)n(-c4cc(C)ccc4)c3=O)cc2c1=O,442,399
+Predict the Tg of the following SMILES: Cc1cc(-n2c(=O)c3cc4c(cc3c2=O)c(=O)n(C)c4=O)ccc1,442,341
+Predict the Tg of the following SMILES: Cc1cccc(-n2c(=O)c3c(cc4c(c3)c(=O)n(C)c4=O)c2=O)c1,442,341
+Predict the Tg of the following SMILES: O=c1n(C)c(=O)c2c1cc1c(=O)n(-c3cc(C)ccc3)c(=O)c1c2,442,351
+Predict the Tg of the following SMILES: O(c1ccc(Oc2cc3c(cc2)C(=O)N(c2ccc(Oc4c(-c5c6ccccc6ccc5Oc5c(C(F)(F)F)cc(N6C(=O)c7cc(*)ccc7C6=O)cc5)c5c(cccc5)cc4)c(C(F)(F)F)c2)C3=O)cc1)*,256,226
+Predict the Tg of the following SMILES: c1c(C(F)(F)F)c(Oc2c(-c3c4c(cccc4)ccc3Oc3ccc(N4C(=O)c5c(ccc(Oc6ccc(O*)cc6)c5)C4=O)cc3C(F)(F)F)c3c(cc2)cccc3)ccc1N1C(=O)c2ccc(*)cc2C1=O,256,226
+Predict the Tg of the following SMILES: c1c2c(ccc1*)C(=O)N(c1cc(C(F)(F)F)c(Oc3ccc4ccccc4c3-c3c(Oc4c(C(F)(F)F)cc(N5C(=O)c6ccc(Oc7ccc(O*)cc7)cc6C5=O)cc4)ccc4ccccc43)cc1)C2=O,256,226
+Predict the Tg of the following SMILES: c1c(*)ccc2c1C(=O)N(c1ccc(Oc3c(-c4c(Oc5c(C(F)(F)F)cc(N6C(=O)c7c(cc(Oc8ccc(O*)cc8)cc7)C6=O)cc5)ccc5c4cccc5)c4c(cccc4)cc3)c(C(F)(F)F)c1)C2=O,256,226
+Predict the Tg of the following SMILES: c1ccc2c(c(-c3c(Oc4c(C(F)(F)F)cc(N5C(=O)c6c(cc(*)cc6)C5=O)cc4)ccc4ccccc34)c(Oc3ccc(N4C(=O)c5c(cc(Oc6ccc(O*)cc6)cc5)C4=O)cc3C(F)(F)F)cc2)c1,256,226
+Predict the Tg of the following SMILES: c1(Oc2ccc3c(c2-c2c(Oc4c(C(F)(F)F)cc(N5C(=O)c6ccc(*)cc6C5=O)cc4)ccc4ccccc42)cccc3)ccc(N2C(=O)c3c(cc(Oc4ccc(O*)cc4)cc3)C2=O)cc1C(F)(F)F,256,226
+Predict the Tg of the following SMILES: c1(C(F)(F)F)c(Oc2ccc3ccccc3c2-c2c(Oc3c(C(F)(F)F)cc(N4C(=O)c5cc(*)ccc5C4=O)cc3)ccc3c2cccc3)ccc(N2C(=O)c3cc(Oc4ccc(O*)cc4)ccc3C2=O)c1,256,226
+Predict the Tg of the following SMILES: c1cc2c(cccc2)c(-c2c(Oc3c(C(F)(F)F)cc(N4C(=O)c5cc(*)ccc5C4=O)cc3)ccc3ccccc32)c1Oc1c(C(F)(F)F)cc(N2C(=O)c3c(ccc(Oc4ccc(O*)cc4)c3)C2=O)cc1,256,226
+Predict the Tg of the following SMILES: O(c1c(-c2c3c(ccc2Oc2c(C(F)(F)F)cc(N4C(=O)c5c(cc(*)cc5)C4=O)cc2)cccc3)c2c(cc1)cccc2)c1c(C(F)(F)F)cc(N2C(=O)c3c(cc(Oc4ccc(O*)cc4)cc3)C2=O)cc1,256,226
+Predict the Tg of the following SMILES: c1cc2c(ccc(Oc3ccc(N4C(=O)c5ccc(*)cc5C4=O)cc3C(F)(F)F)c2-c2c3c(cccc3)ccc2Oc2c(C(F)(F)F)cc(N3C(=O)c4c(cc(Oc5ccc(O*)cc5)cc4)C3=O)cc2)cc1,256,226
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)ccc1N1C(=O)c2cc(C(=O)*)ccc2C1=O,306,245
+Predict the Tg of the following SMILES: O=C(*)c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5cc(*)ccc5C4=O)cc3)cc1)C2=O,306,245
+Predict the Tg of the following SMILES: c1(N2C(=O)c3cc(*)ccc3C2=O)ccc(Oc2ccc(N3C(=O)c4cc(C(=O)*)ccc4C3=O)cc2)cc1,306,245
+Predict the Tg of the following SMILES: *C(c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5ccc(*)cc5C4=O)cc3)cc1)C2=O)=O,306,245
+Predict the Tg of the following SMILES: O=C1c2c(cc(*)cc2)C(=O)N1c1ccc(Oc2ccc(N3C(=O)c4c(cc(C(=O)*)cc4)C3=O)cc2)cc1,306,245
+Predict the Tg of the following SMILES: c1(C(*)=O)cc2c(cc1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)cc1)C2=O,306,245
+Predict the Tg of the following SMILES: c1cc(N2C(=O)c3c(ccc(C(=O)*)c3)C2=O)ccc1Oc1ccc(N2C(=O)c3ccc(*)cc3C2=O)cc1,306,285
+Predict the Tg of the following SMILES: c1c2c(ccc1C(=O)*)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5c(ccc(*)c5)C4=O)cc3)cc1)C2=O,306,245
+Predict the Tg of the following SMILES: c1(Oc2ccc(N3C(=O)c4ccc(*)cc4C3=O)cc2)ccc(N2C(=O)c3ccc(C(=O)*)cc3C2=O)cc1,306,289
+Predict the Tg of the following SMILES: c1c(*)cc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5ccc(C(*)=O)cc5C4=O)cc3)cc1)C2=O,306,274
+Predict the Tg of the following SMILES: *c1cccc2c1C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6cccc(*)c6C5=O)cc4)cc3)cc1)C2=O,293,226
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(c(*)ccc6)C5=O)cc4)cc3)cc2)C(=O)c2c(*)cccc21,293,226
+Predict the Tg of the following SMILES: c1(*)c2c(ccc1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6*)C5=O)cc4)cc3)cc1)C2=O,293,206
+Predict the Tg of the following SMILES: c12c(cccc1*)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(*)cccc6C5=O)cc4)cc3)cc1)C2=O,293,226
+Predict the Tg of the following SMILES: c1cc2c(c(*)c1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(c(*)ccc6)C5=O)cc4)cc3)cc1)C2=O,293,226
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(Oc4ccc(N5C(=O)c6cccc(*)c6C5=O)cc4)cc3)cc2)C(=O)c2c(*)cccc21,293,245
+Predict the Tg of the following SMILES: c1cc(*)c2c(c1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(c(*)ccc6)C5=O)cc4)cc3)cc1)C2=O,293,226
+Predict the Tg of the following SMILES: c1cc(Oc2ccc(Oc3ccc(N4C(=O)c5c(cccc5*)C4=O)cc3)cc2)ccc1N1C(=O)c2c(cccc2*)C1=O,293,205
+Predict the Tg of the following SMILES: C1(=O)N(c2ccc(Oc3ccc(Oc4ccc(N5C(=O)c6c(cccc6*)C5=O)cc4)cc3)cc2)C(=O)c2cccc(*)c21,293,215
+Predict the Tg of the following SMILES: c1c(Oc2ccc(Oc3ccc(N4C(=O)c5c(*)cccc5C4=O)cc3)cc2)ccc(N2C(=O)c3c(*)cccc3C2=O)c1,293,245
+Predict the Tg of the following SMILES: c1(N2C(=O)c3c(cccc3*)C2=O)cc(Oc2cccc(N3C(=O)c4c(cc(*)cc4)C3=O)c2)ccc1,245,245
+Predict the Tg of the following SMILES: C1(=O)c2c(*)cccc2C(=O)N1c1cc(Oc2cccc(N3C(=O)c4ccc(*)cc4C3=O)c2)ccc1,245,245
+Predict the Tg of the following SMILES: c1(*)ccc2c(c1)C(=O)N(c1cccc(Oc3cc(N4C(=O)c5c(cccc5*)C4=O)ccc3)c1)C2=O,245,245
+Predict the Tg of the following SMILES: c12c(cccc1*)C(=O)N(c1cc(Oc3cc(N4C(=O)c5c(cc(*)cc5)C4=O)ccc3)ccc1)C2=O,245,245
+Predict the Tg of the following SMILES: c12c(cc(*)cc1)C(=O)N(c1cccc(Oc3cc(N4C(=O)c5c(*)cccc5C4=O)ccc3)c1)C2=O,245,245
+Predict the Tg of the following SMILES: C1(=O)N(c2cc(Oc3cc(N4C(=O)c5c(c(*)ccc5)C4=O)ccc3)ccc2)C(=O)c2cc(*)ccc21,245,245
+Predict the Tg of the following SMILES: *c1ccc2c(c1)C(=O)N(c1cc(Oc3cc(N4C(=O)c5cccc(*)c5C4=O)ccc3)ccc1)C2=O,245,245
+Predict the Tg of the following SMILES: c1cc(*)c2c(c1)C(=O)N(c1cccc(Oc3cc(N4C(=O)c5cc(*)ccc5C4=O)ccc3)c1)C2=O,245,245
+Predict the Tg of the following SMILES: C1(=O)c2cccc(*)c2C(=O)N1c1cccc(Oc2cccc(N3C(=O)c4ccc(*)cc4C3=O)c2)c1,245,245
+Predict the Tg of the following SMILES: C1(=O)N(c2cccc(Oc3cc(N4C(=O)c5c(c(*)ccc5)C4=O)ccc3)c2)C(=O)c2c1ccc(*)c2,245,245
+Predict the bandgap crystal of the following SMILES: C(#N)C(CC(C#N)(C(C#N)C(*)(C#N)C#N)C#N)(C#N)CC(C#N)(C#N)C*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(CC(C(C#N)C(C#N)(*)C#N)(C#N)C#N)(CC(C*)(C#N)C#N)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(*)(C(C#N)C(C#N)(C#N)CC(C#N)(CC(C#N)(C#N)C*)C#N)C#N)#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C(C#N)C(C#N)(CC(C#N)(CC(C#N)(C*)C#N)C#N)C#N)(*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(CC(C(C(*)(C#N)C#N)C#N)(C#N)C#N)(CC(C#N)(C*)C#N)C#N)#N,6.4504,6.4504
+Predict the bandgap crystal of the following SMILES: C(C#N)(C#N)(C(C(C#N)(C#N)CC(C#N)(C#N)CC(C*)(C#N)C#N)C#N)*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C(C#N)C(C#N)(*)C#N)CC(C#N)(CC(C#N)(C#N)C*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(CC(CC(C#N)(C(C#N)C(*)(C#N)C#N)C#N)(C#N)C#N)C*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(#N)C(C(C#N)(*)C#N)C(C#N)(C#N)CC(C#N)(C#N)CC(C#N)(C*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C*)CC(CC(C#N)(C#N)C(C(*)(C#N)C#N)C#N)(C#N)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)(CC(C#N)(C*)C#N)C#N)C(C#N)(C(C#N)C(C#N)(*)C#N)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(#N)C(CC(C#N)(CC(C*)(C#N)C#N)C#N)(C(C(C#N)(C#N)*)C#N)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C(C#N)(C#N)*)C(C#N)(C#N)CC(C#N)(C#N)CC(C#N)(C*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C#N)(CC(CC(C#N)(C#N)C(C#N)C(*)(C#N)C#N)(C#N)C#N)(C*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C#N)(C(C#N)(CC(C#N)(C#N)CC(C*)(C#N)C#N)C#N)C(C#N)(*)C#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C(C(C#N)(CC(C#N)(CC(C*)(C#N)C#N)C#N)C#N)C#N)(C#N)*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)(CC(C#N)(CC(C#N)(C#N)C(C#N)C(C#N)(C#N)*)C#N)C#N)*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)(C(C#N)C(*)(C#N)C#N)CC(C#N)(C#N)CC(C*)(C#N)C#N)#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)(C(C#N)C(*)(C#N)C#N)CC(C#N)(C#N)CC(C#N)(C#N)C*)#N,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C(C#N)C(CC(CC(C#N)(C#N)C*)(C#N)C#N)(C#N)C#N)*,6.4504,6.5308
+Predict the bandgap crystal of the following SMILES: C(ON*)(=S)O*,3.9632,3.0386
+Predict the bandgap crystal of the following SMILES: *NOC(=S)O*,3.9632,2.3681
+Predict the bandgap crystal of the following SMILES: S=C(O*)ON*,3.9632,4.3365
+Predict the bandgap crystal of the following SMILES: *OC(=S)ON*,3.9632,4.3365
+Predict the bandgap crystal of the following SMILES: *OC(=S)ON*,3.9632,4.3365
+Predict the bandgap crystal of the following SMILES: O(*)C(=S)ON*,3.9632,1.8117
+Predict the bandgap crystal of the following SMILES: O(C(ON*)=S)*,3.9632,3.0652
+Predict the bandgap crystal of the following SMILES: O(N*)C(=S)O*,3.9632,3.6701
+Predict the bandgap crystal of the following SMILES: N(OC(O*)=S)*,3.9632,3.6701
+Predict the bandgap crystal of the following SMILES: O(*)C(=S)ON*,3.9632,1.8117
+Predict the bandgap crystal of the following SMILES: *OC(=S)ON*,3.9632,4.3365
+Predict the bandgap crystal of the following SMILES: O(N*)C(=S)O*,3.9632,3.6701
+Predict the bandgap crystal of the following SMILES: O(C(=S)O*)N*,3.9632,3.6901
+Predict the bandgap crystal of the following SMILES: C(O*)(=S)ON*,3.9632,1.8203
+Predict the bandgap crystal of the following SMILES: O(*)C(ON*)=S,3.9632,1.8117
+Predict the bandgap crystal of the following SMILES: *NOC(=S)O*,3.9632,2.3681
+Predict the bandgap crystal of the following SMILES: S=C(O*)ON*,3.9632,4.3365
+Predict the bandgap crystal of the following SMILES: C(ON*)(=S)O*,3.9632,3.0386
+Predict the bandgap crystal of the following SMILES: N(*)OC(O*)=S,3.9632,2.3365
+Predict the bandgap crystal of the following SMILES: C(ON*)(=S)O*,3.9632,3.0386
+Predict the bandgap crystal of the following SMILES: O=C(N1CCC(*)CC1)SSCCCCSSC(N1CCC(CCC*)CC1)=O,4.297,4.7777
+Predict the bandgap crystal of the following SMILES: C1CC(CCC*)CCN1C(=O)SSCCCCSSC(=O)N1CCC(*)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C1N(C(SSCCCCSSC(N2CCC(*)CC2)=O)=O)CCC(CCC*)C1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: O=C(N1CCC(*)CC1)SSCCCCSSC(N1CCC(CCC*)CC1)=O,4.297,4.7777
+Predict the bandgap crystal of the following SMILES: C1(*)CCN(C(=O)SSCCCCSSC(=O)N2CCC(CCC*)CC2)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C(SSCCCCSSC(=O)N1CCC(CCC*)CC1)(=O)N1CCC(*)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: N1(C(=O)SSCCCCSSC(=O)N2CCC(CCC*)CC2)CCC(*)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C(SSC(N1CCC(CCC*)CC1)=O)CCCSSC(=O)N1CCC(*)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C(CCCSSC(N1CCC(CCC*)CC1)=O)SSC(N1CCC(*)CC1)=O,4.297,4.4708
+Predict the bandgap crystal of the following SMILES: C1CC(*)CCN1C(SSCCCCSSC(=O)N1CCC(CCC*)CC1)=O,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C(SSC(N1CCC(CCC*)CC1)=O)CCCSSC(N1CCC(*)CC1)=O,4.297,4.4708
+Predict the bandgap crystal of the following SMILES: C(SSCCCCSSC(N1CCC(CCC*)CC1)=O)(N1CCC(*)CC1)=O,4.297,4.2401
+Predict the bandgap crystal of the following SMILES: C1CN(C(SSCCCCSSC(N2CCC(*)CC2)=O)=O)CCC1CCC*,4.297,4.7777
+Predict the bandgap crystal of the following SMILES: *CCCC1CCN(C(SSCCCCSSC(N2CCC(*)CC2)=O)=O)CC1,4.297,4.5408
+Predict the bandgap crystal of the following SMILES: *C1CCN(C(SSCCCCSSC(N2CCC(CCC*)CC2)=O)=O)CC1,4.297,4.4808
+Predict the bandgap crystal of the following SMILES: S(CCCCSSC(N1CCC(CCC*)CC1)=O)SC(N1CCC(*)CC1)=O,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C(CCSSC(=O)N1CCC(CCC*)CC1)CSSC(N1CCC(*)CC1)=O,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C1N(C(SSCCCCSSC(N2CCC(CCC*)CC2)=O)=O)CCC(*)C1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: C1(*)CCN(C(SSCCCCSSC(=O)N2CCC(CCC*)CC2)=O)CC1,4.297,4.2199
+Predict the bandgap crystal of the following SMILES: *C1CCN(C(SSCCCCSSC(N2CCC(CCC*)CC2)=O)=O)CC1,4.297,4.4808
+Predict the bandgap crystal of the following SMILES: C(OCC(F)(F)F)(=O)OC(C*)*,7.9003,6.3385
+Predict the bandgap crystal of the following SMILES: C(F)(F)(F)COC(OC(*)C*)=O,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: FC(COC(OC(C*)*)=O)(F)F,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: FC(COC(OC(C*)*)=O)(F)F,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: FC(F)(F)COC(OC(*)C*)=O,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: C(OC(OC(C*)*)=O)C(F)(F)F,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: *CC(OC(=O)OCC(F)(F)F)*,7.9003,6.0328
+Predict the bandgap crystal of the following SMILES: FC(F)(F)COC(=O)OC(C*)*,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: C(C(OC(OCC(F)(F)F)=O)*)*,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: O=C(OC(*)C*)OCC(F)(F)F,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: FC(F)(F)COC(OC(C*)*)=O,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: *CC(*)OC(=O)OCC(F)(F)F,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: O=C(OC(C*)*)OCC(F)(F)F,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: *CC(OC(OCC(F)(F)F)=O)*,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: C(OC(OCC(F)(F)F)=O)(*)C*,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: FC(F)(COC(OC(C*)*)=O)F,7.9003,6.7224
+Predict the bandgap crystal of the following SMILES: O(C(*)C*)C(=O)OCC(F)(F)F,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: O(C(OCC(F)(F)F)=O)C(*)C*,7.9003,6.2722
+Predict the bandgap crystal of the following SMILES: C(F)(F)(COC(OC(*)C*)=O)F,7.9003,6.0228
+Predict the bandgap crystal of the following SMILES: O(C(=O)OCC(F)(F)F)C(*)C*,7.9003,6.3982
+Predict the bandgap crystal of the following SMILES: C1N(C(*)C*)C(=O)CC1,5.5902,5.3681
+Predict the bandgap crystal of the following SMILES: *CC(N1CCCC1=O)*,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: C(*)C(N1CCCC1=O)*,5.5902,5.6712
+Predict the bandgap crystal of the following SMILES: C(*)(N1CCCC1=O)C*,5.5902,6.4714
+Predict the bandgap crystal of the following SMILES: C(C*)(N1CCCC1=O)*,5.5902,5.6712
+Predict the bandgap crystal of the following SMILES: C1C(=O)N(C(C*)*)CC1,5.5902,6.2424
+Predict the bandgap crystal of the following SMILES: *CC(N1C(=O)CCC1)*,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: C1CCC(=O)N1C(*)C*,5.5902,6.3647
+Predict the bandgap crystal of the following SMILES: C1CCN(C(*)C*)C1=O,5.5902,5.3681
+Predict the bandgap crystal of the following SMILES: C1(=O)CCCN1C(*)C*,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: C1C(=O)N(C(*)C*)CC1,5.5902,6.4753
+Predict the bandgap crystal of the following SMILES: C1(=O)CCCN1C(*)C*,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: N1(C(C*)*)C(=O)CCC1,5.5902,5.5853
+Predict the bandgap crystal of the following SMILES: C1CCN(C(C*)*)C1=O,5.5902,5.3681
+Predict the bandgap crystal of the following SMILES: *CC(*)N1C(=O)CCC1,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: *C(N1C(=O)CCC1)C*,5.5902,5.6753
+Predict the bandgap crystal of the following SMILES: O=C1N(C(*)C*)CCC1,5.5902,5.3683
+Predict the bandgap crystal of the following SMILES: C(C*)(*)N1CCCC1=O,5.5902,6.3683
+Predict the bandgap crystal of the following SMILES: C(*)(C*)N1CCCC1=O,5.5902,5.6712
+Predict the bandgap crystal of the following SMILES: C1(=O)N(C(*)C*)CCC1,5.5902,5.3683
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C(C#N)C(C#N)(C(C#N)C(C#N)(C#N)C(C(C*)(C#N)C#N)C#N)C#N)*,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C(C(C#N)(C(C#N)C(*)(C#N)C#N)C#N)C#N)C(C(C#N)(C*)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C(C(C(C#N)(C#N)C(C#N)C(C#N)(C*)C#N)C#N)(C#N)C#N)C(*)(C#N)C#N)#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C#N)(C(C#N)C(C*)(C#N)C#N)(C#N)C(C(C(C#N)C(C#N)(*)C#N)(C#N)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C#N)(C(C(C#N)(C*)C#N)C#N)(C(C#N)C(C#N)(C#N)C(C#N)C(C#N)(*)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C(C(C#N)(C(C(C#N)(C(C#N)C(C#N)(*)C#N)C#N)C#N)C#N)C#N)(C*)C#N)#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)C(C#N)(*)C#N)(C(C(C#N)(C#N)C(C#N)C(C*)(C#N)C#N)C#N)(C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: *CC(C#N)(C(C(C(C(C#N)(C(C(C#N)(*)C#N)C#N)C#N)C#N)(C#N)C#N)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C(C#N)(C#N)C(C#N)C(C#N)(C(C#N)C(C*)(C#N)C#N)C#N)C(C#N)(C#N)*)#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)C(C#N)(C#N)C(C(*)(C#N)C#N)C#N)(C#N)(C#N)C(C(C*)(C#N)C#N)C#N,5.9056,6.4504
+Predict the bandgap crystal of the following SMILES: N#CC(C(C#N)C(C#N)(*)C#N)(C(C#N)C(C#N)(C#N)C(C(C*)(C#N)C#N)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(#N)C(C(C(C(C(C*)(C#N)C#N)C#N)(C#N)C#N)C#N)(C(C(*)(C#N)C#N)C#N)C#N,5.9056,6.4504
+Predict the bandgap crystal of the following SMILES: N#CC(C#N)(C*)C(C(C#N)(C(C(C#N)(C#N)C(C#N)C(C#N)(*)C#N)C#N)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C(C#N)C(C#N)(*)C#N)(C#N)C(C#N)C(C(C(C#N)(C#N)C*)C#N)(C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(C#N)(C#N)*)(C(C#N)(C#N)C(C(C#N)(C(C(C#N)(C*)C#N)C#N)C#N)C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C(*)(C#N)C#N)(C#N)C(C#N)(C(C(C#N)(C#N)C(C(C*)(C#N)C#N)C#N)C#N)C#N,5.9056,6.4504
+Predict the bandgap crystal of the following SMILES: C(C*)(C#N)(C#N)C(C#N)C(C#N)(C(C#N)C(C(C(C#N)(C#N)*)C#N)(C#N)C#N)C#N,5.9056,6.4504
+Predict the bandgap crystal of the following SMILES: C(C(C(C(C(C*)(C#N)C#N)C#N)(C#N)C#N)C(C#N)(C#N)C(C(C#N)(C#N)*)C#N)#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: C(C*)(C(C#N)C(C#N)(C(C(C(C(C#N)(*)C#N)C#N)(C#N)C#N)C#N)C#N)(C#N)C#N,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: N#CC(C(C(C(C(C(C#N)(C*)C#N)C#N)(C#N)C#N)C#N)(C#N)C#N)C(C#N)(C#N)*,5.9056,6.5308
+Predict the bandgap crystal of the following SMILES: c1c(*)c2cccccc-2c1-c1c(C)cc(-c2sc(*)c(C)c2)s1,1.3327,2.1951
+Predict the bandgap crystal of the following SMILES: s1c(*)c(C)cc1-c1sc(-c2cc(*)c3cccccc2-3)c(C)c1,1.3327,2.3434
+Predict the bandgap crystal of the following SMILES: s1c(-c2sc(-c3cc(*)c4cccccc3-4)c(C)c2)cc(C)c1*,1.3327,2.3434
+Predict the bandgap crystal of the following SMILES: c1c2c(-c3c(C)cc(-c4sc(*)c(C)c4)s3)cc(*)c-2cccc1,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: c12c(*)cc(-c3c(C)cc(-c4sc(*)c(C)c4)s3)c-1ccccc2,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: c1(C)cc(-c2cc(C)c(*)s2)sc1-c1c2cccccc-2c(*)c1,1.3327,1.9696
+Predict the bandgap crystal of the following SMILES: c1(-c2sc(-c3cc(C)c(*)s3)cc2C)cc(*)c2cccccc1-2,1.3327,2.1951
+Predict the bandgap crystal of the following SMILES: c1(-c2c(C)cc(-c3cc(C)c(*)s3)s2)cc(*)c2cccccc1-2,1.3327,2.1951
+Predict the bandgap crystal of the following SMILES: c1ccc2c(-c3sc(-c4sc(*)c(C)c4)cc3C)cc(*)c-2cc1,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: s1c(-c2sc(*)c(C)c2)cc(C)c1-c1c2cccccc-2c(*)c1,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: c1(-c2cc(C)c(*)s2)sc(-c2c3cccccc-3c(*)c2)c(C)c1,1.3327,2.3434
+Predict the bandgap crystal of the following SMILES: Cc1cc(-c2cc(C)c(*)s2)sc1-c1cc(*)c2cccccc1-2,1.3327,2.1951
+Predict the bandgap crystal of the following SMILES: c1ccc2c(*)cc(-c3sc(-c4sc(*)c(C)c4)cc3C)c-2cc1,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: Cc1c(*)sc(-c2cc(C)c(-c3c4cccccc-4c(*)c3)s2)c1,1.3327,2.2793
+Predict the bandgap crystal of the following SMILES: c1cc2c(-c3sc(-c4sc(*)c(C)c4)cc3C)cc(*)c-2ccc1,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: c1(C)c(-c2c3cccccc-3c(*)c2)sc(-c2cc(C)c(*)s2)c1,1.3327,2.3434
+Predict the bandgap crystal of the following SMILES: Cc1c(*)sc(-c2sc(-c3c4cccccc-4c(*)c3)c(C)c2)c1,1.3327,2.2793
+Predict the bandgap crystal of the following SMILES: *c1c(C)cc(-c2sc(-c3c4cccccc-4c(*)c3)c(C)c2)s1,1.3327,2.2793
+Predict the bandgap crystal of the following SMILES: Cc1cc(-c2sc(*)c(C)c2)sc1-c1cc(*)c2cccccc1-2,1.3327,2.3234
+Predict the bandgap crystal of the following SMILES: c1(-c2cc(C)c(-c3cc(*)c4cccccc3-4)s2)sc(*)c(C)c1,1.3327,2.1981
+Predict the bandgap crystal of the following SMILES: *C(C#N)(C*)C(=O)OCC,6.1989,5.4071
+Predict the bandgap crystal of the following SMILES: C(*)C(C#N)(*)C(=O)OCC,6.1989,5.8301
+Predict the bandgap crystal of the following SMILES: C(C(C*)(*)C#N)(=O)OCC,6.1989,5.9674
+Predict the bandgap crystal of the following SMILES: *C(C*)(C#N)C(OCC)=O,6.1989,5.4071
+Predict the bandgap crystal of the following SMILES: O(CC)C(=O)C(*)(C*)C#N,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: CCOC(=O)C(C#N)(*)C*,6.1989,5.8301
+Predict the bandgap crystal of the following SMILES: N#CC(*)(C(=O)OCC)C*,6.1989,5.3385
+Predict the bandgap crystal of the following SMILES: *CC(C(OCC)=O)(C#N)*,6.1989,5.8071
+Predict the bandgap crystal of the following SMILES: C(C(*)(C*)C(=O)OCC)#N,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: O(CC)C(C(C#N)(C*)*)=O,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: O(C(=O)C(C#N)(*)C*)CC,6.1989,6.4808
+Predict the bandgap crystal of the following SMILES: N#CC(C*)(*)C(OCC)=O,6.1989,5.4847
+Predict the bandgap crystal of the following SMILES: C(C(C*)(C(=O)OCC)*)#N,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: *CC(*)(C(OCC)=O)C#N,6.1989,5.8071
+Predict the bandgap crystal of the following SMILES: *CC(*)(C#N)C(=O)OCC,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: C(C)OC(C(C#N)(C*)*)=O,6.1989,5.8301
+Predict the bandgap crystal of the following SMILES: C(#N)C(C*)(*)C(=O)OCC,6.1989,5.8901
+Predict the bandgap crystal of the following SMILES: O(CC)C(C(C*)(C#N)*)=O,6.1989,6.2424
+Predict the bandgap crystal of the following SMILES: CCOC(C(C#N)(*)C*)=O,6.1989,5.8301
+Predict the bandgap crystal of the following SMILES: C(*)C(C#N)(C(OCC)=O)*,6.1989,5.8071
+Predict the bandgap crystal of the following SMILES: C(CC*)CCCOC(NCCSCCCCCSCCNC(=O)O*)=O,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(CCCC*)COC(=O)NCCSCCCCCSCCNC(O*)=O,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: N(C(O*)=O)CCSCCCCCSCCNC(=O)OCCCCCC*,5.1327,5.1612
+Predict the bandgap crystal of the following SMILES: C(CCCCOC(NCCSCCCCCSCCNC(O*)=O)=O)C*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: N(C(=O)OCCCCCC*)CCSCCCCCSCCNC(=O)O*,5.1327,5.1612
+Predict the bandgap crystal of the following SMILES: C(CCCCCOC(NCCSCCCCCSCCNC(=O)O*)=O)*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(CCCSCCNC(O*)=O)CSCCNC(OCCCCCC*)=O,5.1327,4.0707
+Predict the bandgap crystal of the following SMILES: S(CCCCCSCCNC(=O)OCCCCCC*)CCNC(=O)O*,5.1327,5.1609
+Predict the bandgap crystal of the following SMILES: *OC(NCCSCCCCCSCCNC(OCCCCCC*)=O)=O,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(SCCCCCSCCNC(=O)OCCCCCC*)CNC(=O)O*,5.1327,4.7777
+Predict the bandgap crystal of the following SMILES: C(SCCNC(=O)O*)CCCCSCCNC(OCCCCCC*)=O,5.1327,5.6706
+Predict the bandgap crystal of the following SMILES: C(SCCNC(=O)OCCCCCC*)CCCCSCCNC(=O)O*,5.1327,5.1612
+Predict the bandgap crystal of the following SMILES: C(=O)(NCCSCCCCCSCCNC(O*)=O)OCCCCCC*,5.1327,5.0812
+Predict the bandgap crystal of the following SMILES: O(CCCCCC*)C(NCCSCCCCCSCCNC(=O)O*)=O,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(CC*)CCCOC(=O)NCCSCCCCCSCCNC(=O)O*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(CC*)CCCOC(=O)NCCSCCCCCSCCNC(=O)O*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: O=C(O*)NCCSCCCCCSCCNC(=O)OCCCCCC*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(COC(NCCSCCCCCSCCNC(=O)O*)=O)CCCC*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(NC(OCCCCCC*)=O)CSCCCCCSCCNC(=O)O*,5.1327,5.0712
+Predict the bandgap crystal of the following SMILES: C(SCCNC(=O)OCCCCCC*)CCCCSCCNC(O*)=O,5.1327,5.1612
+Predict the bandgap crystal of the following SMILES: *CCC1C2C3CC(C2C(*)C1)CC3CC,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: *CCC1CC(*)C2C1C1CC2CC1CC,7.528,5.9546
+Predict the bandgap crystal of the following SMILES: C1C(CC)C2C3C(C(*)CC3CC*)C1C2,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: C1(CC*)C2C(C(*)C1)C1CC2C(CC)C1,7.528,7.4705
+Predict the bandgap crystal of the following SMILES: *C1C2C3CC(C(CC)C3)C2C(CC*)C1,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: *CCC1CC(*)C2C1C1CC2CC1CC,7.528,5.9546
+Predict the bandgap crystal of the following SMILES: C(C1CC2C3C(C(CC*)CC3*)C1C2)C,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: C(*)CC1CC(*)C2C3CC(C(CC)C3)C12,7.528,5.7415
+Predict the bandgap crystal of the following SMILES: *C1CC(CC*)C2C3CC(CC3CC)C21,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: C1(CC)CC2C3C(*)CC(CC*)C3C1C2,7.528,5.7615
+Predict the bandgap crystal of the following SMILES: CCC1CC2CC1C1C(CC*)CC(*)C21,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: C12C(C3CC(CC)C1C3)C(*)CC2CC*,7.528,7.4705
+Predict the bandgap crystal of the following SMILES: C1(*)CC(CC*)C2C1C1CC2C(CC)C1,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: C(C)C1CC2C3C(C(CC*)CC3*)C1C2,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: C1(CC*)CC(*)C2C3CC(CC)C(C12)C3,7.528,5.7615
+Predict the bandgap crystal of the following SMILES: C(C1C2C3CC(CC3CC)C2C(*)C1)C*,7.528,5.7615
+Predict the bandgap crystal of the following SMILES: C1C(CC*)C2C3CC(CC3CC)C2C1*,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: C12C(C(CC*)CC1*)C1C(CC)CC2C1,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: C(C)C1CC2C3C(*)CC(CC*)C3C1C2,7.528,5.7965
+Predict the bandgap crystal of the following SMILES: C1(CC)CC2CC1C1C(CC*)CC(*)C21,7.528,5.7905
+Predict the bandgap crystal of the following SMILES: *C(S*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: *C(=S)S*,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: *C(S*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: *C(S*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: S(C(=S)*)*,1.7109,3.0652
+Predict the bandgap crystal of the following SMILES: S=C(S*)*,1.7109,1.8122
+Predict the bandgap crystal of the following SMILES: C(*)(=S)S*,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: *C(=S)S*,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: S(*)C(*)=S,1.7109,3.0346
+Predict the bandgap crystal of the following SMILES: S=C(S*)*,1.7109,1.8122
+Predict the bandgap crystal of the following SMILES: C(=S)(*)S*,1.7109,2.3637
+Predict the bandgap crystal of the following SMILES: C(S*)(*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: *C(S*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: C(=S)(*)S*,1.7109,2.3637
+Predict the bandgap crystal of the following SMILES: *SC(=S)*,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: S(*)C(*)=S,1.7109,3.0346
+Predict the bandgap crystal of the following SMILES: S=C(*)S*,1.7109,3.9365
+Predict the bandgap crystal of the following SMILES: S=C(S*)*,1.7109,1.8122
+Predict the bandgap crystal of the following SMILES: S=C(*)S*,1.7109,3.9365
+Predict the bandgap crystal of the following SMILES: *C(S*)=S,1.7109,2.3636
+Predict the bandgap crystal of the following SMILES: C(COC(=O)CCCCC(=O)O*)(C)(C)C*,6.5878,6.4974
+Predict the bandgap crystal of the following SMILES: C(CC(OCC(C)(C*)C)=O)CCC(O*)=O,6.5878,5.4908
+Predict the bandgap crystal of the following SMILES: O=C(O*)CCCCC(OCC(C)(C)C*)=O,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: *CC(COC(CCCCC(O*)=O)=O)(C)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(C(C)(COC(=O)CCCCC(O*)=O)C)*,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(CCC(=O)O*)CC(=O)OCC(C)(C*)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(C(C)(C)C*)OC(CCCCC(O*)=O)=O,6.5878,5.7906
+Predict the bandgap crystal of the following SMILES: C(CCC(=O)O*)CC(=O)OCC(C)(C)C*,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(*)C(C)(COC(CCCCC(O*)=O)=O)C,6.5878,6.4974
+Predict the bandgap crystal of the following SMILES: C(CCCCC(O*)=O)(=O)OCC(C)(C)C*,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: O(C(CCCCC(=O)OCC(C*)(C)C)=O)*,6.5878,6.5974
+Predict the bandgap crystal of the following SMILES: C(CCC(O*)=O)CC(=O)OCC(C)(C*)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: *CC(C)(COC(CCCCC(O*)=O)=O)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(C)(COC(CCCCC(=O)O*)=O)(C)C*,6.5878,6.4974
+Predict the bandgap crystal of the following SMILES: O=C(CCCCC(=O)O*)OCC(C*)(C)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: C(C)(COC(=O)CCCCC(=O)O*)(C)C*,6.5878,6.4974
+Predict the bandgap crystal of the following SMILES: CC(C*)(C)COC(=O)CCCCC(=O)O*,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: *OC(=O)CCCCC(OCC(C)(C*)C)=O,6.5878,6.7224
+Predict the bandgap crystal of the following SMILES: C(CCC(O*)=O)CC(=O)OCC(C)(C*)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: *CC(C)(COC(=O)CCCCC(O*)=O)C,6.5878,6.4908
+Predict the bandgap crystal of the following SMILES: CC(C(*)=O)S*,3.8079,4.2199
+Predict the bandgap crystal of the following SMILES: S(C(C(*)=O)C)*,3.8079,6.2201
+Predict the bandgap crystal of the following SMILES: S(C(C(=O)*)C)*,3.8079,6.7401
+Predict the bandgap crystal of the following SMILES: *SC(C(*)=O)C,3.8079,1.8117
+Predict the bandgap crystal of the following SMILES: S(*)C(C)C(*)=O,3.8079,5.8853
+Predict the bandgap crystal of the following SMILES: CC(C(*)=O)S*,3.8079,4.2199
+Predict the bandgap crystal of the following SMILES: C(C(S*)C)(=O)*,3.8079,1.8117
+Predict the bandgap crystal of the following SMILES: C(C)(S*)C(*)=O,3.8079,6.4401
+Predict the bandgap crystal of the following SMILES: C(=O)(*)C(S*)C,3.8079,3.05
+Predict the bandgap crystal of the following SMILES: C(C)(C(*)=O)S*,3.8079,3.6501
+Predict the bandgap crystal of the following SMILES: CC(C(=O)*)S*,3.8079,4.2199
+Predict the bandgap crystal of the following SMILES: C(C(*)=O)(C)S*,3.8079,6.4401
+Predict the bandgap crystal of the following SMILES: C(C(*)=O)(S*)C,3.8079,3.05
+Predict the bandgap crystal of the following SMILES: *SC(C)C(*)=O,3.8079,1.8117
+Predict the bandgap crystal of the following SMILES: *C(=O)C(S*)C,3.8079,3.05
+Predict the bandgap crystal of the following SMILES: C(C(*)=O)(S*)C,3.8079,3.05
+Predict the bandgap crystal of the following SMILES: S(C(C(*)=O)C)*,3.8079,6.2201
+Predict the bandgap crystal of the following SMILES: C(S*)(C(=O)*)C,3.8079,3.9199
+Predict the bandgap crystal of the following SMILES: *SC(C)C(=O)*,3.8079,1.8117
+Predict the bandgap crystal of the following SMILES: *SC(C)C(=O)*,3.8079,1.8117
+Predict the bandgap crystal of the following SMILES: C(C*)(O*)C,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: C(C*)(C)O*,6.9903,7.4592
+Predict the bandgap crystal of the following SMILES: CC(O*)C*,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: O(C(C)C*)*,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: O(*)C(C)C*,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: C(C(O*)C)*,6.9903,6.1179
+Predict the bandgap crystal of the following SMILES: CC(C*)O*,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: *CC(O*)C,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: *OC(C*)C,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: C(*)C(C)O*,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: C(C*)(O*)C,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: *OC(C)C*,6.9903,6.7224
+Predict the bandgap crystal of the following SMILES: *CC(C)O*,6.9903,7.4592
+Predict the bandgap crystal of the following SMILES: CC(O*)C*,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: *OC(C*)C,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: C(*)C(O*)C,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: *CC(C)O*,6.9903,7.4592
+Predict the bandgap crystal of the following SMILES: *CC(C)O*,6.9903,7.4592
+Predict the bandgap crystal of the following SMILES: O(C(C)C*)*,6.9903,6.7501
+Predict the bandgap crystal of the following SMILES: O(C(C*)C)*,6.9903,6.5974
+Predict the bandgap crystal of the following SMILES: c1cc(*)sc1-c1sc(-c2nc(*)ccc2)cc1,2.0464,2.3494
+Predict the bandgap crystal of the following SMILES: n1c(*)cccc1-c1sc(-c2sc(*)cc2)cc1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: s1c(-c2sc(*)cc2)ccc1-c1nc(*)ccc1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1(*)cccc(-c2ccc(-c3sc(*)cc3)s2)n1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1c(-c2sc(-c3ccc(*)s3)cc2)nc(*)cc1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1ccc(-c2sc(-c3ccc(*)s3)cc2)nc1*,2.0464,2.1963
+Predict the bandgap crystal of the following SMILES: c1(-c2sc(-c3cccc(*)n3)cc2)ccc(*)s1,2.0464,2.1898
+Predict the bandgap crystal of the following SMILES: c1(*)ccc(-c2sc(-c3cccc(*)n3)cc2)s1,2.0464,2.3494
+Predict the bandgap crystal of the following SMILES: s1c(-c2cccc(*)n2)ccc1-c1ccc(*)s1,2.0464,2.1912
+Predict the bandgap crystal of the following SMILES: c1ccc(*)nc1-c1ccc(-c2ccc(*)s2)s1,2.0464,1.9494
+Predict the bandgap crystal of the following SMILES: c1(*)sc(-c2ccc(-c3cccc(*)n3)s2)cc1,2.0464,2.3494
+Predict the bandgap crystal of the following SMILES: c1c(-c2ccc(-c3cccc(*)n3)s2)sc(*)c1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1(-c2sc(*)cc2)sc(-c2nc(*)ccc2)cc1,2.0464,2.3494
+Predict the bandgap crystal of the following SMILES: c1cc(-c2sc(-c3nc(*)ccc3)cc2)sc1*,2.0464,1.9494
+Predict the bandgap crystal of the following SMILES: c1ccc(*)nc1-c1sc(-c2ccc(*)s2)cc1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1cc(*)nc(-c2sc(-c3sc(*)cc3)cc2)c1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1(*)cccc(-c2ccc(-c3sc(*)cc3)s2)n1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: c1(-c2ccc(-c3ccc(*)s3)s2)nc(*)ccc1,2.0464,2.3234
+Predict the bandgap crystal of the following SMILES: *c1ccc(-c2sc(-c3nc(*)ccc3)cc2)s1,2.0464,2.3239
+Predict the bandgap crystal of the following SMILES: n1c(*)cccc1-c1sc(-c2ccc(*)s2)cc1,2.0464,2.1963
+Predict the bandgap crystal of the following SMILES: C1CC(*)CC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: *SC1CCCC(*)C1,5.2199,5.6753
+Predict the bandgap crystal of the following SMILES: C1(S*)CC(*)CCC1,5.2199,4.9199
+Predict the bandgap crystal of the following SMILES: C1(*)CCCC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: C1(*)CCCC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: C1(S*)CC(*)CCC1,5.2199,4.9199
+Predict the bandgap crystal of the following SMILES: S(C1CC(*)CCC1)*,5.2199,5.9514
+Predict the bandgap crystal of the following SMILES: *C1CCCC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: *SC1CC(*)CCC1,5.2199,5.6743
+Predict the bandgap crystal of the following SMILES: *SC1CCCC(*)C1,5.2199,5.6753
+Predict the bandgap crystal of the following SMILES: S(*)C1CC(*)CCC1,5.2199,5.9514
+Predict the bandgap crystal of the following SMILES: C1CCC(S*)CC1*,5.2199,5.3365
+Predict the bandgap crystal of the following SMILES: S(C1CC(*)CCC1)*,5.2199,5.9514
+Predict the bandgap crystal of the following SMILES: C1CC(*)CC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: S(*)C1CCCC(*)C1,5.2199,5.9515
+Predict the bandgap crystal of the following SMILES: C1CCC(*)CC1S*,5.2199,5.3365
+Predict the bandgap crystal of the following SMILES: C1CC(*)CC(S*)C1,5.2199,4.8117
+Predict the bandgap crystal of the following SMILES: *SC1CCCC(*)C1,5.2199,5.6753
+Predict the bandgap crystal of the following SMILES: *C1CC(S*)CCC1,5.2199,5.3328
+Predict the bandgap crystal of the following SMILES: C1(*)CC(S*)CCC1,5.2199,5.3328
+Predict the bandgap crystal of the following SMILES: *CC(C#N)*,7.4435,7.1859
+Predict the bandgap crystal of the following SMILES: C(#N)C(*)C*,7.4435,6.2447
+Predict the bandgap crystal of the following SMILES: C(*)C(C#N)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(C(C#N)*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: *C(C#N)C*,7.4435,7.1859
+Predict the bandgap crystal of the following SMILES: C(C(C#N)*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(*)(C*)C#N,7.4435,7.1863
+Predict the bandgap crystal of the following SMILES: C(#N)C(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: *C(C*)C#N,7.4435,7.1859
+Predict the bandgap crystal of the following SMILES: N#CC(*)C*,7.4435,5.8601
+Predict the bandgap crystal of the following SMILES: C(C#N)(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: N#CC(*)C*,7.4435,5.8601
+Predict the bandgap crystal of the following SMILES: C(C#N)(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(#N)C(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(C(C*)*)#N,7.4435,7.1859
+Predict the bandgap crystal of the following SMILES: C(C#N)(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(C(C#N)*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C(#N)C(*)C*,7.4435,6.2447
+Predict the bandgap crystal of the following SMILES: C(#N)C(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: N#CC(C*)*,7.4435,7.1853
+Predict the bandgap crystal of the following SMILES: C1(C=C*)CC(CCC)(C#N)C(*)C1,5.8705,5.4843
+Predict the bandgap crystal of the following SMILES: C(C1(CCC)CC(C=C*)CC1*)#N,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(C1(CCC)CC(C=C*)CC1*)#N,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(*)=CC1CC(CCC)(C#N)C(*)C1,5.8705,5.4853
+Predict the bandgap crystal of the following SMILES: CCCC1(C#N)CC(C=C*)CC1*,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: *C1CC(C=C*)CC1(CCC)C#N,5.8705,5.4708
+Predict the bandgap crystal of the following SMILES: C1(*)C(C#N)(CCC)CC(C=C*)C1,5.8705,5.4708
+Predict the bandgap crystal of the following SMILES: C(C1(CCC)CC(C=C*)CC1*)#N,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(C1(C#N)CC(C=C*)CC1*)CC,5.8705,5.2723
+Predict the bandgap crystal of the following SMILES: C(#N)C1(CCC)C(*)CC(C=C*)C1,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: CCCC1(C#N)CC(C=C*)CC1*,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C1C(C=C*)CC(*)C1(C#N)CCC,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(CC)C1(C#N)C(*)CC(C=C*)C1,5.8705,5.4843
+Predict the bandgap crystal of the following SMILES: N#CC1(CCC)CC(C=C*)CC1*,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: *C=CC1CC(*)C(C#N)(CCC)C1,5.8705,5.4708
+Predict the bandgap crystal of the following SMILES: N#CC1(CCC)C(*)CC(C=C*)C1,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(#N)C1(CCC)CC(C=C*)CC1*,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C(=CC1CC(*)C(CCC)(C#N)C1)*,5.8705,5.4843
+Predict the bandgap crystal of the following SMILES: C1C(C=C*)CC(*)C1(CCC)C#N,5.8705,5.4753
+Predict the bandgap crystal of the following SMILES: C1(C=C*)CC(CCC)(C#N)C(*)C1,5.8705,5.4843
+Predict the bandgap crystal of the following SMILES: c1(C=C*)ccc(*)n1CCCCCC,1.3683,1.7567
+Predict the bandgap crystal of the following SMILES: c1c(C=C*)n(CCCCCC)c(*)c1,1.3683,1.85
+Predict the bandgap crystal of the following SMILES: c1c(*)n(CCCCCC)c(C=C*)c1,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: c1(C=C*)ccc(*)n1CCCCCC,1.3683,1.7567
+Predict the bandgap crystal of the following SMILES: C(CCn1c(C=C*)ccc1*)CCC,1.3683,1.7813
+Predict the bandgap crystal of the following SMILES: CCCCCCn1c(*)ccc1C=C*,1.3683,1.8601
+Predict the bandgap crystal of the following SMILES: C(CCCCn1c(*)ccc1C=C*)C,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: n1(CCCCCC)c(*)ccc1C=C*,1.3683,1.85
+Predict the bandgap crystal of the following SMILES: c1c(*)n(CCCCCC)c(C=C*)c1,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: *c1n(CCCCCC)c(C=C*)cc1,1.3683,1.85
+Predict the bandgap crystal of the following SMILES: C(CCC)CCn1c(C=C*)ccc1*,1.3683,1.7494
+Predict the bandgap crystal of the following SMILES: CCCCCCn1c(C=C*)ccc1*,1.3683,1.8601
+Predict the bandgap crystal of the following SMILES: C(CCCC)Cn1c(*)ccc1C=C*,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: C(CCCC)Cn1c(*)ccc1C=C*,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: C(c1n(CCCCCC)c(*)cc1)=C*,1.3683,0.75
+Predict the bandgap crystal of the following SMILES: C(C)CCCCn1c(*)ccc1C=C*,1.3683,1.7494
+Predict the bandgap crystal of the following SMILES: C(CCCn1c(*)ccc1C=C*)CC,1.3683,1.7494
+Predict the bandgap crystal of the following SMILES: c1c(C=C*)n(CCCCCC)c(*)c1,1.3683,1.85
+Predict the bandgap crystal of the following SMILES: C(n1c(*)ccc1C=C*)CCCCC,1.3683,1.9494
+Predict the bandgap crystal of the following SMILES: C(CCn1c(C=C*)ccc1*)CCC,1.3683,1.7813
+Predict the bandgap crystal of the following SMILES: C(*)(O*)CCl,7.1982,5.6753
+Predict the bandgap crystal of the following SMILES: ClCC(O*)*,7.1982,6.7501
+Predict the bandgap crystal of the following SMILES: C(O*)(CCl)*,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: *C(CCl)O*,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: *C(O*)CCl,7.1982,5.8653
+Predict the bandgap crystal of the following SMILES: *C(CCl)O*,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: C(C(*)O*)Cl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: C(C(*)O*)Cl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: *C(O*)CCl,7.1982,5.8653
+Predict the bandgap crystal of the following SMILES: C(Cl)C(*)O*,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: C(C(O*)*)Cl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: C(C(O*)*)Cl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: C(*)(O*)CCl,7.1982,5.6753
+Predict the bandgap crystal of the following SMILES: ClCC(O*)*,7.1982,6.7501
+Predict the bandgap crystal of the following SMILES: O(*)C(*)CCl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: *OC(*)CCl,7.1982,5.6753
+Predict the bandgap crystal of the following SMILES: C(C(*)O*)Cl,7.1982,6.5974
+Predict the bandgap crystal of the following SMILES: *C(O*)CCl,7.1982,5.8653
+Predict the bandgap crystal of the following SMILES: ClCC(O*)*,7.1982,6.7501
+Predict the bandgap crystal of the following SMILES: *C(O*)CCl,7.1982,5.8653
+Predict the bandgap crystal of the following SMILES: n1c(*)sc(*)c1,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: s1c(*)cnc1*,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: c1(*)cnc(*)s1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: s1c(*)cnc1*,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: s1c(*)ncc1*,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: *c1ncc(*)s1,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: c1(*)ncc(*)s1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: c1c(*)sc(*)n1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: *c1sc(*)cn1,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: c1nc(*)sc1*,1.7987,1.9898
+Predict the bandgap crystal of the following SMILES: c1(*)ncc(*)s1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: *c1ncc(*)s1,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: n1cc(*)sc1*,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: c1(*)sc(*)nc1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: c1nc(*)sc1*,1.7987,1.9898
+Predict the bandgap crystal of the following SMILES: c1(*)sc(*)nc1,1.7987,2.0594
+Predict the bandgap crystal of the following SMILES: c1nc(*)sc1*,1.7987,1.9898
+Predict the bandgap crystal of the following SMILES: *c1cnc(*)s1,1.7987,2.3299
+Predict the bandgap crystal of the following SMILES: *c1sc(*)cn1,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: n1cc(*)sc1*,1.7987,1.9494
+Predict the bandgap crystal of the following SMILES: C1(*)(F)OC(C(Cl)(F)F)(C(F)(F)F)OC1(*)F,7.8208,8.0982
+Predict the bandgap crystal of the following SMILES: FC1(*)C(F)(*)OC(C(F)(F)F)(C(F)(F)Cl)O1,7.8208,6.0985
+Predict the bandgap crystal of the following SMILES: FC(Cl)(F)C1(C(F)(F)F)OC(F)(*)C(F)(*)O1,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: FC(C1(C(F)(F)Cl)OC(F)(*)C(F)(*)O1)(F)F,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: C(C1(C(Cl)(F)F)OC(F)(*)C(F)(*)O1)(F)(F)F,7.8208,8.0286
+Predict the bandgap crystal of the following SMILES: C(F)(F)(F)C1(C(F)(F)Cl)OC(*)(F)C(F)(*)O1,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: C(F)(F)(C1(C(F)(F)F)OC(*)(F)C(F)(*)O1)Cl,7.8208,8.0985
+Predict the bandgap crystal of the following SMILES: O1C(*)(F)C(*)(F)OC1(C(F)(F)F)C(F)(F)Cl,7.8208,6.3385
+Predict the bandgap crystal of the following SMILES: C1(F)(*)OC(C(Cl)(F)F)(C(F)(F)F)OC1(F)*,7.8208,8.0982
+Predict the bandgap crystal of the following SMILES: FC1(*)C(*)(F)OC(C(F)(F)F)(C(Cl)(F)F)O1,7.8208,6.9544
+Predict the bandgap crystal of the following SMILES: O1C(*)(F)C(F)(*)OC1(C(F)(F)F)C(F)(F)Cl,7.8208,6.0228
+Predict the bandgap crystal of the following SMILES: C1(C(Cl)(F)F)(C(F)(F)F)OC(*)(F)C(*)(F)O1,7.8208,8.0985
+Predict the bandgap crystal of the following SMILES: C(F)(F)(C1(C(F)(Cl)F)OC(*)(F)C(F)(*)O1)F,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: FC1(*)C(F)(*)OC(C(F)(F)F)(C(F)(F)Cl)O1,7.8208,6.0985
+Predict the bandgap crystal of the following SMILES: *C1(F)C(F)(*)OC(C(F)(F)Cl)(C(F)(F)F)O1,7.8208,8.0985
+Predict the bandgap crystal of the following SMILES: FC1(*)OC(C(F)(F)Cl)(C(F)(F)F)OC1(*)F,7.8208,8.0982
+Predict the bandgap crystal of the following SMILES: C1(*)(F)OC(C(F)(F)F)(C(F)(F)Cl)OC1(*)F,7.8208,8.0985
+Predict the bandgap crystal of the following SMILES: FC(F)(Cl)C1(C(F)(F)F)OC(F)(*)C(F)(*)O1,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: C(C1(C(F)(F)Cl)OC(F)(*)C(F)(*)O1)(F)(F)F,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: FC(C1(C(F)(F)F)OC(F)(*)C(*)(F)O1)(F)Cl,7.8208,8.0285
+Predict the bandgap crystal of the following SMILES: *CCOCCOCCOC(=O)CCCCCCC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(OC(=O)CCCCCCC(=O)O*)COCCOCC*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(C(OCCOCCOCC*)=O)CCCCCC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(CCCCC(O*)=O)CC(=O)OCCOCCOCC*,6.184,6.6301
+Predict the bandgap crystal of the following SMILES: C(CCCC(O*)=O)CCC(=O)OCCOCCOCC*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(COCCOCC*)OC(=O)CCCCCCC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(COCC*)OCCOC(CCCCCCC(=O)O*)=O,6.184,6.4908
+Predict the bandgap crystal of the following SMILES: *CCOCCOCCOC(CCCCCCC(=O)O*)=O,6.184,6.4908
+Predict the bandgap crystal of the following SMILES: C(OC(=O)CCCCCCC(=O)O*)COCCOCC*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: O=C(CCCCCCC(=O)O*)OCCOCCOCC*,6.184,6.4908
+Predict the bandgap crystal of the following SMILES: C(CCCCCC(=O)O*)C(=O)OCCOCCOCC*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(CC(=O)OCCOCCOCC*)CCCCC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: O(C(=O)CCCCCCC(OCCOCCOCC*)=O)*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(CCCCC(=O)OCCOCCOCC*)CC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(CCCCC(=O)OCCOCCOCC*)CC(=O)O*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(COCCOC(CCCCCCC(=O)O*)=O)OCC*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: O(*)C(CCCCCCC(=O)OCCOCCOCC*)=O,6.184,6.4908
+Predict the bandgap crystal of the following SMILES: C(CC(=O)OCCOCCOCC*)CCCCC(O*)=O,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: O=C(CCCCCCC(=O)OCCOCCOCC*)O*,6.184,6.2681
+Predict the bandgap crystal of the following SMILES: C(COCC*)OCCOC(=O)CCCCCCC(=O)O*,6.184,6.7224
+Predict the bandgap crystal of the following SMILES: C(CCCCC*)(S*)=O,5.0001,4.7777
+Predict the bandgap crystal of the following SMILES: C(C*)CCCC(=O)S*,5.0001,5.0737
+Predict the bandgap crystal of the following SMILES: S(*)C(CCCCC*)=O,5.0001,5.3183
+Predict the bandgap crystal of the following SMILES: *CCCCCC(=O)S*,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: C(CCCC(S*)=O)C*,5.0001,5.3183
+Predict the bandgap crystal of the following SMILES: C(CCC*)CC(S*)=O,5.0001,4.7199
+Predict the bandgap crystal of the following SMILES: C(CCCC*)C(S*)=O,5.0001,4.7777
+Predict the bandgap crystal of the following SMILES: O=C(S*)CCCCC*,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: C(CCCC(=O)S*)C*,5.0001,4.2199
+Predict the bandgap crystal of the following SMILES: *CCCCCC(S*)=O,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: S(C(CCCCC*)=O)*,5.0001,4.7777
+Predict the bandgap crystal of the following SMILES: C(CCCCC(=O)S*)*,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: *CCCCCC(S*)=O,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: C(CCCCC*)(=O)S*,5.0001,4.7777
+Predict the bandgap crystal of the following SMILES: C(CC*)CCC(=O)S*,5.0001,5.0365
+Predict the bandgap crystal of the following SMILES: C(C(=O)S*)CCCC*,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: *CCCCCC(=O)S*,5.0001,4.3365
+Predict the bandgap crystal of the following SMILES: C(CC*)CCC(S*)=O,5.0001,5.0365
+Predict the bandgap crystal of the following SMILES: S(C(=O)CCCCC*)*,5.0001,5.0179
+Predict the bandgap crystal of the following SMILES: S(*)C(CCCCC*)=O,5.0001,5.3183
+Predict the atomization energy of the following SMILES: c1cc(Cc2ccc(O*)cc2)ccc1*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(Cc2ccc(*)cc2)ccc(O*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Cc2ccc(O*)cc2)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1Cc1ccc(O*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Cc2ccc(O*)cc2)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(Cc2ccc(*)cc2)ccc(O*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(Cc2ccc(*)cc2)ccc(O*)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: *c1ccc(Cc2ccc(O*)cc2)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: *c1ccc(Cc2ccc(O*)cc2)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: O(c1ccc(Cc2ccc(*)cc2)cc1)*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(Cc2ccc(O*)cc2)ccc(*)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(Cc2ccc(O*)cc2)ccc(*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: *Oc1ccc(Cc2ccc(*)cc2)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(Cc2ccc(*)cc2)ccc(O*)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Cc2ccc(O*)cc2)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(O*)ccc(-c2ccc(C(=O)*)cc2)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(C(=O)*)cc2)ccc1O*,-6.44,-6.29
+Predict the atomization energy of the following SMILES: c1(C(*)=O)ccc(-c2ccc(O*)cc2)cc1,-6.44,-6.29
+Predict the atomization energy of the following SMILES: C(*)(c1ccc(-c2ccc(O*)cc2)cc1)=O,-6.44,-6.29
+Predict the atomization energy of the following SMILES: c1(C(*)=O)ccc(-c2ccc(O*)cc2)cc1,-6.44,-6.29
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(-c2ccc(O*)cc2)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1(-c2ccc(O*)cc2)ccc(C(=O)*)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(*)=O)cc2)ccc(O*)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1(O*)ccc(-c2ccc(C(=O)*)cc2)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(O*)cc2)ccc(C(=O)*)c1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: C(=O)(c1ccc(-c2ccc(O*)cc2)cc1)*,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(=O)*)cc2)ccc(O*)cc1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: c1cc(C(*)=O)ccc1-c1ccc(O*)cc1,-6.44,-6.38
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(C(*)=O)cc2)ccc1O*,-6.44,-6.29
+Predict the atomization energy of the following SMILES: c1c(C(=O)*)ccc(-c2ccc(O*)cc2)c1,-6.44,-6.34
+Predict the atomization energy of the following SMILES: *NCCC*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: C(*)CCN*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: C(N*)CC*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: *CCCN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: C(*)CCN*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: C(CC*)N*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: N(*)CCC*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: C(*)CCN*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: C(C*)CN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: *NCCC*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: *CCCN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: C(CC*)N*,-5.18,-5.21
+Predict the atomization energy of the following SMILES: *CCCN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: *CCCN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: *CCCN*,-5.18,-5.22
+Predict the atomization energy of the following SMILES: O=C(NO*)NOC(NC*)=O,-5.82,-5.67
+Predict the atomization energy of the following SMILES: C(NOC(=O)NC*)(=O)NO*,-5.82,-5.67
+Predict the atomization energy of the following SMILES: C(NO*)(NOC(NC*)=O)=O,-5.82,-5.67
+Predict the atomization energy of the following SMILES: N(C(NOC(NC*)=O)=O)O*,-5.82,-5.66
+Predict the atomization energy of the following SMILES: N(C(=O)NO*)OC(=O)NC*,-5.82,-5.66
+Predict the atomization energy of the following SMILES: *ONC(NOC(NC*)=O)=O,-5.82,-5.66
+Predict the atomization energy of the following SMILES: *ONC(=O)NOC(=O)NC*,-5.82,-5.67
+Predict the atomization energy of the following SMILES: C(NC(ONC(NO*)=O)=O)*,-5.82,-5.59
+Predict the atomization energy of the following SMILES: O=C(NOC(=O)NC*)NO*,-5.82,-5.67
+Predict the atomization energy of the following SMILES: N(C(NO*)=O)OC(=O)NC*,-5.82,-5.62
+Predict the atomization energy of the following SMILES: O=C(ONC(=O)NO*)NC*,-5.82,-5.67
+Predict the atomization energy of the following SMILES: *ONC(NOC(=O)NC*)=O,-5.82,-5.67
+Predict the atomization energy of the following SMILES: C(*)NC(=O)ONC(=O)NO*,-5.82,-5.62
+Predict the atomization energy of the following SMILES: C(NOC(=O)NC*)(NO*)=O,-5.82,-5.67
+Predict the atomization energy of the following SMILES: *ONC(=O)NOC(NC*)=O,-5.82,-5.66
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(N*)=O)cc2)ccc(*)cc1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: O=C(c1ccc(-c2ccc(*)cc2)cc1)N*,-6.4,-6.31
+Predict the atomization energy of the following SMILES: C(=O)(c1ccc(-c2ccc(*)cc2)cc1)N*,-6.4,-6.29
+Predict the atomization energy of the following SMILES: *NC(c1ccc(-c2ccc(*)cc2)cc1)=O,-6.4,-6.26
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(*)cc2)ccc1C(=O)N*,-6.4,-6.31
+Predict the atomization energy of the following SMILES: O=C(N*)c1ccc(-c2ccc(*)cc2)cc1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(C(N*)=O)cc2)ccc(*)c1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(*)cc2)ccc1C(=O)N*,-6.4,-6.31
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1-c1ccc(C(N*)=O)cc1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(C(N*)=O)cc2)cc1,-6.4,-6.34
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(*)cc2)ccc1C(N*)=O,-6.4,-6.29
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(C(=O)N*)cc2)ccc(*)c1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(C(=O)N*)cc2)cc1,-6.4,-6.34
+Predict the atomization energy of the following SMILES: c1(*)ccc(-c2ccc(C(=O)N*)cc2)cc1,-6.4,-6.29
+Predict the atomization energy of the following SMILES: C(N*)(c1ccc(-c2ccc(*)cc2)cc1)=O,-6.4,-6.31
+Predict the atomization energy of the following SMILES: c1(C(=S)C(Nc2ccc(-c3ccc(*)s3)cc2)=O)ccc(C(=S)c2sc(*)cc2)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(NC(=O)C(=S)c2ccc(C(c3sc(*)cc3)=S)s2)ccc(-c2ccc(*)s2)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1cc(C(=S)c2ccc(*)s2)sc1C(=S)C(=O)Nc1ccc(-c2ccc(*)s2)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: S=C(c1sc(*)cc1)c1ccc(C(C(=O)Nc2ccc(-c3ccc(*)s3)cc2)=S)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: C(=S)(c1sc(*)cc1)c1sc(C(C(=O)Nc2ccc(-c3sc(*)cc3)cc2)=S)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1c(C(=S)c2ccc(C(=S)C(=O)Nc3ccc(-c4ccc(*)s4)cc3)s2)sc(*)c1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(*)sc(-c2ccc(NC(=O)C(c3ccc(C(=S)c4sc(*)cc4)s3)=S)cc2)cc1,-6.19,-6.12
+Predict the atomization energy of the following SMILES: c1(-c2ccc(*)s2)ccc(NC(C(c2ccc(C(=S)c3ccc(*)s3)s2)=S)=O)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(C(=O)Nc2ccc(-c3sc(*)cc3)cc2)=S)sc(C(c2ccc(*)s2)=S)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(c2ccc(*)s2)=S)sc(C(C(=O)Nc2ccc(-c3sc(*)cc3)cc2)=S)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(=S)c2ccc(C(C(Nc3ccc(-c4sc(*)cc4)cc3)=O)=S)s2)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(=S)c2sc(C(=S)C(Nc3ccc(-c4ccc(*)s4)cc3)=O)cc2)ccc(*)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1cc(NC(C(=S)c2sc(C(=S)c3ccc(*)s3)cc2)=O)ccc1-c1sc(*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: s1c(C(=S)C(Nc2ccc(-c3sc(*)cc3)cc2)=O)ccc1C(=S)c1sc(*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(*)s2)ccc1NC(C(=S)c1ccc(C(c2ccc(*)s2)=S)s1)=O,-6.19,-6.22
+Predict the atomization energy of the following SMILES: S=C(*)OC(c1ccc(*)s1)=S,-5.95,-5.87
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(=S)OC(*)=S)s1,-5.95,-6.05
+Predict the atomization energy of the following SMILES: C(c1ccc(*)s1)(OC(*)=S)=S,-5.95,-5.87
+Predict the atomization energy of the following SMILES: C(=S)(c1sc(*)cc1)OC(=S)*,-5.95,-5.89
+Predict the atomization energy of the following SMILES: S=C(c1ccc(*)s1)OC(*)=S,-5.95,-6.05
+Predict the atomization energy of the following SMILES: c1cc(C(OC(=S)*)=S)sc1*,-5.95,-5.87
+Predict the atomization energy of the following SMILES: C(OC(=S)c1ccc(*)s1)(*)=S,-5.95,-5.89
+Predict the atomization energy of the following SMILES: *C(=S)OC(=S)c1sc(*)cc1,-5.95,-5.89
+Predict the atomization energy of the following SMILES: c1cc(*)sc1C(OC(=S)*)=S,-5.95,-5.87
+Predict the atomization energy of the following SMILES: C(OC(c1sc(*)cc1)=S)(*)=S,-5.95,-5.89
+Predict the atomization energy of the following SMILES: *c1sc(C(=S)OC(*)=S)cc1,-5.95,-5.87
+Predict the atomization energy of the following SMILES: s1c(C(OC(*)=S)=S)ccc1*,-5.95,-5.84
+Predict the atomization energy of the following SMILES: O(C(*)=S)C(c1sc(*)cc1)=S,-5.95,-5.89
+Predict the atomization energy of the following SMILES: S=C(*)OC(c1ccc(*)s1)=S,-5.95,-5.87
+Predict the atomization energy of the following SMILES: c1c(C(=S)OC(*)=S)sc(*)c1,-5.95,-6.05
+Predict the atomization energy of the following SMILES: c1c(C(N*)=O)sc(C(*)=O)c1,-6.4,-6.35
+Predict the atomization energy of the following SMILES: C(c1sc(C(=O)*)cc1)(N*)=O,-6.4,-6.22
+Predict the atomization energy of the following SMILES: c1(C(N*)=O)ccc(C(=O)*)s1,-6.4,-6.21
+Predict the atomization energy of the following SMILES: c1c(C(N*)=O)sc(C(=O)*)c1,-6.4,-6.35
+Predict the atomization energy of the following SMILES: C(c1sc(C(N*)=O)cc1)(=O)*,-6.4,-6.22
+Predict the atomization energy of the following SMILES: C(=O)(*)c1sc(C(N*)=O)cc1,-6.4,-6.22
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(C(N*)=O)s1,-6.4,-6.21
+Predict the atomization energy of the following SMILES: *NC(=O)c1ccc(C(*)=O)s1,-6.4,-6.22
+Predict the atomization energy of the following SMILES: O=C(N*)c1ccc(C(=O)*)s1,-6.4,-6.21
+Predict the atomization energy of the following SMILES: *C(c1sc(C(=O)N*)cc1)=O,-6.4,-6.22
+Predict the atomization energy of the following SMILES: *NC(c1sc(C(*)=O)cc1)=O,-6.4,-6.22
+Predict the atomization energy of the following SMILES: s1c(C(N*)=O)ccc1C(=O)*,-6.4,-6.21
+Predict the atomization energy of the following SMILES: C(c1ccc(C(N*)=O)s1)(=O)*,-6.4,-6.35
+Predict the atomization energy of the following SMILES: O=C(c1sc(C(=O)*)cc1)N*,-6.4,-6.22
+Predict the atomization energy of the following SMILES: O=C(c1ccc(C(*)=O)s1)N*,-6.4,-6.21
+Predict the atomization energy of the following SMILES: c1(C(=S)c2ccc(*)cc2)ccc(N*)s1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1c(*)ccc(C(=S)c2ccc(N*)s2)c1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1(N*)sc(C(c2ccc(*)cc2)=S)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1c(C(c2ccc(*)cc2)=S)sc(N*)c1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: *c1ccc(C(c2sc(N*)cc2)=S)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1c(N*)sc(C(c2ccc(*)cc2)=S)c1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1(C(=S)c2ccc(N*)s2)ccc(*)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: N(*)c1sc(C(=S)c2ccc(*)cc2)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: N(*)c1ccc(C(=S)c2ccc(*)cc2)s1,-6.15,-6.14
+Predict the atomization energy of the following SMILES: S=C(c1sc(N*)cc1)c1ccc(*)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: S=C(c1ccc(*)cc1)c1sc(N*)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1(C(c2ccc(N*)s2)=S)ccc(*)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1c(N*)sc(C(c2ccc(*)cc2)=S)c1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1(C(=S)c2ccc(N*)s2)ccc(*)cc1,-6.15,-6.17
+Predict the atomization energy of the following SMILES: C(c1ccc(N*)s1)(c1ccc(*)cc1)=S,-6.15,-6.15
+Predict the atomization energy of the following SMILES: c1cc(C*)ccc1Nc1ccc(*)s1,-6.04,-5.9
+Predict the atomization energy of the following SMILES: C(c1ccc(Nc2ccc(*)s2)cc1)*,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1cc(*)sc1Nc1ccc(C*)cc1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1cc(Nc2sc(*)cc2)ccc1C*,-6.04,-5.99
+Predict the atomization energy of the following SMILES: c1cc(Nc2sc(*)cc2)ccc1C*,-6.04,-5.99
+Predict the atomization energy of the following SMILES: c1cc(C*)ccc1Nc1sc(*)cc1,-6.04,-5.9
+Predict the atomization energy of the following SMILES: N(c1ccc(C*)cc1)c1sc(*)cc1,-6.04,-6.08
+Predict the atomization energy of the following SMILES: c1cc(C*)ccc1Nc1ccc(*)s1,-6.04,-5.9
+Predict the atomization energy of the following SMILES: c1cc(*)sc1Nc1ccc(C*)cc1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1(Nc2ccc(*)s2)ccc(C*)cc1,-6.04,-5.99
+Predict the atomization energy of the following SMILES: N(c1ccc(C*)cc1)c1ccc(*)s1,-6.04,-6.08
+Predict the atomization energy of the following SMILES: *c1ccc(Nc2ccc(C*)cc2)s1,-6.04,-5.98
+Predict the atomization energy of the following SMILES: c1cc(C*)ccc1Nc1sc(*)cc1,-6.04,-5.9
+Predict the atomization energy of the following SMILES: c1(*)ccc(Nc2ccc(C*)cc2)s1,-6.04,-5.92
+Predict the atomization energy of the following SMILES: c1cc(Nc2ccc(*)s2)ccc1C*,-6.04,-5.99
+Predict the atomization energy of the following SMILES: *c1ccc(Oc2ccc(N*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: *Nc1ccc(Oc2ccc(*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: N(*)c1ccc(Oc2ccc(*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1Oc1ccc(N*)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1(*)ccc(Oc2ccc(N*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1(*)ccc(Oc2ccc(N*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1(Oc2ccc(N*)cc2)ccc(*)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(*)cc2)ccc(N*)c1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1cc(Oc2ccc(*)cc2)ccc1N*,-6.26,-6.21
+Predict the atomization energy of the following SMILES: O(c1ccc(N*)cc1)c1ccc(*)cc1,-6.26,-6.21
+Predict the atomization energy of the following SMILES: c1(N*)ccc(Oc2ccc(*)cc2)cc1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Oc2ccc(N*)cc2)c1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: O(c1ccc(*)cc1)c1ccc(N*)cc1,-6.26,-6.24
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(*)cc2)ccc(N*)c1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(*)cc2)ccc(N*)c1,-6.26,-6.14
+Predict the atomization energy of the following SMILES: C(c1ccc(*)cc1)(C(C*)=O)=S,-6.15,-6.22
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(=S)C(C*)=O)cc1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1cc(C(C(=O)C*)=S)ccc1*,-6.15,-6.21
+Predict the atomization energy of the following SMILES: O=C(C(=S)c1ccc(*)cc1)C*,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1C(=S)C(=O)C*,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1c(*)ccc(C(=S)C(=O)C*)c1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: *CC(=O)C(=S)c1ccc(*)cc1,-6.15,-6.22
+Predict the atomization energy of the following SMILES: c1(C(C(C*)=O)=S)ccc(*)cc1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: S=C(c1ccc(*)cc1)C(=O)C*,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1c(*)ccc(C(=S)C(C*)=O)c1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1C(=S)C(=O)C*,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1C(=S)C(=O)C*,-6.15,-6.21
+Predict the atomization energy of the following SMILES: *c1ccc(C(=S)C(=O)C*)cc1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: c1c(C(=S)C(C*)=O)ccc(*)c1,-6.15,-6.21
+Predict the atomization energy of the following SMILES: O=C(C*)C(c1ccc(*)cc1)=S,-6.15,-6.17
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(O*)s2)ccc(*)c1,-6.18,-6.03
+Predict the atomization energy of the following SMILES: *c1ccc(Oc2ccc(O*)s2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1(Oc2ccc(*)cc2)sc(O*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Oc2ccc(O*)s2)c1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1Oc1sc(O*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: O(*)c1sc(Oc2ccc(*)cc2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(Oc2sc(O*)cc2)ccc(*)c1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(*)cc2)sc(O*)c1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *c1ccc(Oc2sc(O*)cc2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *c1ccc(Oc2sc(O*)cc2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1cc(O*)sc1Oc1ccc(*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1Oc1sc(O*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(Oc2ccc(*)cc2)sc(O*)c1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1(O*)sc(Oc2ccc(*)cc2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1(Oc2sc(O*)cc2)ccc(*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1(OC*)ccc(O*)s1,-5.78,-5.84
+Predict the atomization energy of the following SMILES: s1c(O*)ccc1OC*,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1(O*)sc(OC*)cc1,-5.78,-5.85
+Predict the atomization energy of the following SMILES: C(*)Oc1ccc(O*)s1,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1c(O*)sc(OC*)c1,-5.78,-5.85
+Predict the atomization energy of the following SMILES: c1cc(OC*)sc1O*,-5.78,-5.95
+Predict the atomization energy of the following SMILES: c1(OC*)ccc(O*)s1,-5.78,-5.84
+Predict the atomization energy of the following SMILES: O(C*)c1sc(O*)cc1,-5.78,-5.98
+Predict the atomization energy of the following SMILES: s1c(OC*)ccc1O*,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1(O*)sc(OC*)cc1,-5.78,-5.85
+Predict the atomization energy of the following SMILES: c1(O*)ccc(OC*)s1,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1c(OC*)sc(O*)c1,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1cc(OC*)sc1O*,-5.78,-5.95
+Predict the atomization energy of the following SMILES: s1c(O*)ccc1OC*,-5.78,-5.84
+Predict the atomization energy of the following SMILES: c1(OC*)sc(O*)cc1,-5.78,-5.95
+Predict the atomization energy of the following SMILES: N(*)C(C(O*)=S)=O,-5.88,-5.84
+Predict the atomization energy of the following SMILES: O(C(C(N*)=O)=S)*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: O(C(C(N*)=O)=S)*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: C(C(=O)N*)(O*)=S,-5.88,-6.17
+Predict the atomization energy of the following SMILES: *NC(=O)C(=S)O*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: *OC(=S)C(=O)N*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: O(C(C(=O)N*)=S)*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: N(*)C(C(=S)O*)=O,-5.88,-6.02
+Predict the atomization energy of the following SMILES: C(N*)(C(=S)O*)=O,-5.88,-6.01
+Predict the atomization energy of the following SMILES: S=C(C(=O)N*)O*,-5.88,-6.02
+Predict the atomization energy of the following SMILES: S=C(C(N*)=O)O*,-5.88,-6.02
+Predict the atomization energy of the following SMILES: O(*)C(=S)C(N*)=O,-5.88,-5.84
+Predict the atomization energy of the following SMILES: *NC(C(=S)O*)=O,-5.88,-5.84
+Predict the atomization energy of the following SMILES: N(C(=O)C(O*)=S)*,-5.88,-6.01
+Predict the atomization energy of the following SMILES: *OC(=S)C(=O)N*,-5.88,-5.84
+Predict the atomization energy of the following SMILES: *NC(c1ccc(-c2sc(*)cc2)cc1)=O,-6.31,-6.12
+Predict the atomization energy of the following SMILES: c1(*)ccc(-c2ccc(C(N*)=O)cc2)s1,-6.31,-6.29
+Predict the atomization energy of the following SMILES: c1(*)ccc(-c2ccc(C(=O)N*)cc2)s1,-6.31,-6.21
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(=O)N*)cc2)sc(*)cc1,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1(C(=O)N*)ccc(-c2sc(*)cc2)cc1,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1c(-c2sc(*)cc2)ccc(C(=O)N*)c1,-6.31,-6.22
+Predict the atomization energy of the following SMILES: N(*)C(c1ccc(-c2sc(*)cc2)cc1)=O,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1c(*)sc(-c2ccc(C(=O)N*)cc2)c1,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1(-c2ccc(*)s2)ccc(C(N*)=O)cc1,-6.31,-6.29
+Predict the atomization energy of the following SMILES: c1(*)sc(-c2ccc(C(=O)N*)cc2)cc1,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1c(*)sc(-c2ccc(C(N*)=O)cc2)c1,-6.31,-6.29
+Predict the atomization energy of the following SMILES: N(*)C(c1ccc(-c2ccc(*)s2)cc1)=O,-6.31,-6.26
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(*)s2)ccc1C(=O)N*,-6.31,-6.22
+Predict the atomization energy of the following SMILES: c1(-c2ccc(*)s2)ccc(C(N*)=O)cc1,-6.31,-6.29
+Predict the atomization energy of the following SMILES: c1cc(C(N*)=O)ccc1-c1ccc(*)s1,-6.31,-6.29
+Predict the atomization energy of the following SMILES: c1(NC(=S)*)ccc(C*)s1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: *C(Nc1ccc(C*)s1)=S,-5.77,-5.92
+Predict the atomization energy of the following SMILES: c1c(NC(=S)*)sc(C*)c1,-5.77,-5.82
+Predict the atomization energy of the following SMILES: c1c(C*)sc(NC(*)=S)c1,-5.77,-5.82
+Predict the atomization energy of the following SMILES: c1(C*)sc(NC(=S)*)cc1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: *Cc1sc(NC(*)=S)cc1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: c1(C*)sc(NC(=S)*)cc1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: *C(=S)Nc1sc(C*)cc1,-5.77,-5.89
+Predict the atomization energy of the following SMILES: C(c1sc(NC(=S)*)cc1)*,-5.77,-5.92
+Predict the atomization energy of the following SMILES: C(Nc1ccc(C*)s1)(*)=S,-5.77,-5.92
+Predict the atomization energy of the following SMILES: c1(NC(=S)*)sc(C*)cc1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: S=C(Nc1sc(C*)cc1)*,-5.77,-5.92
+Predict the atomization energy of the following SMILES: c1(C*)ccc(NC(=S)*)s1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: C(*)c1ccc(NC(=S)*)s1,-5.77,-5.92
+Predict the atomization energy of the following SMILES: C(Nc1ccc(C*)s1)(=S)*,-5.77,-5.89
+Predict the atomization energy of the following SMILES: C(CCCC(O*)=O)CCC(=O)OCC*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: O=C(OCC*)CCCCCCC(=O)O*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(CCCCCC(=O)O*)C(=O)OCC*,-5.5,-5.59
+Predict the atomization energy of the following SMILES: *CCOC(=O)CCCCCCC(=O)O*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(CCCCCCC(O*)=O)(=O)OCC*,-5.5,-5.59
+Predict the atomization energy of the following SMILES: C(OCC*)(=O)CCCCCCC(=O)O*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(CCCCC(=O)O*)CC(=O)OCC*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(C(O*)=O)CCCCCC(=O)OCC*,-5.5,-5.59
+Predict the atomization energy of the following SMILES: C(CC(O*)=O)CCCCC(OCC*)=O,-5.5,-5.49
+Predict the atomization energy of the following SMILES: O=C(CCCCCCC(OCC*)=O)O*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(CCCCC(=O)O*)CC(=O)OCC*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(=O)(CCCCCCC(O*)=O)OCC*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: C(COC(=O)CCCCCCC(O*)=O)*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: O=C(O*)CCCCCCC(=O)OCC*,-5.5,-5.59
+Predict the atomization energy of the following SMILES: C(OC(CCCCCCC(=O)O*)=O)C*,-5.5,-5.49
+Predict the atomization energy of the following SMILES: c1cc(O*)ccc1CC*,-5.89,-5.85
+Predict the atomization energy of the following SMILES: C(Cc1ccc(O*)cc1)*,-5.89,-6.03
+Predict the atomization energy of the following SMILES: C(Cc1ccc(O*)cc1)*,-5.89,-6.03
+Predict the atomization energy of the following SMILES: *CCc1ccc(O*)cc1,-5.89,-5.89
+Predict the atomization energy of the following SMILES: *Oc1ccc(CC*)cc1,-5.89,-5.9
+Predict the atomization energy of the following SMILES: c1c(O*)ccc(CC*)c1,-5.89,-5.85
+Predict the atomization energy of the following SMILES: C(C*)c1ccc(O*)cc1,-5.89,-5.87
+Predict the atomization energy of the following SMILES: C(C*)c1ccc(O*)cc1,-5.89,-5.87
+Predict the atomization energy of the following SMILES: *CCc1ccc(O*)cc1,-5.89,-5.89
+Predict the atomization energy of the following SMILES: O(*)c1ccc(CC*)cc1,-5.89,-5.98
+Predict the atomization energy of the following SMILES: *Oc1ccc(CC*)cc1,-5.89,-5.9
+Predict the atomization energy of the following SMILES: *CCc1ccc(O*)cc1,-5.89,-5.89
+Predict the atomization energy of the following SMILES: C(c1ccc(O*)cc1)C*,-5.89,-6.05
+Predict the atomization energy of the following SMILES: c1c(CC*)ccc(O*)c1,-5.89,-5.87
+Predict the atomization energy of the following SMILES: c1(CC*)ccc(O*)cc1,-5.89,-5.9
+Predict the atomization energy of the following SMILES: c1c(C(=S)*)sc(OC(*)=O)c1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: S=C(*)c1ccc(OC(*)=O)s1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: c1(C(*)=S)ccc(OC(*)=O)s1,-6.21,-6.22
+Predict the atomization energy of the following SMILES: *C(=S)c1ccc(OC(*)=O)s1,-6.21,-6.22
+Predict the atomization energy of the following SMILES: O(C(*)=O)c1ccc(C(=S)*)s1,-6.21,-6.21
+Predict the atomization energy of the following SMILES: s1c(OC(=O)*)ccc1C(*)=S,-6.21,-6.35
+Predict the atomization energy of the following SMILES: c1c(C(*)=S)sc(OC(=O)*)c1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: c1cc(C(*)=S)sc1OC(*)=O,-6.21,-6.05
+Predict the atomization energy of the following SMILES: C(=S)(c1sc(OC(=O)*)cc1)*,-6.21,-6.05
+Predict the atomization energy of the following SMILES: C(=S)(*)c1sc(OC(=O)*)cc1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: c1(OC(*)=O)sc(C(=S)*)cc1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: c1c(C(=S)*)sc(OC(=O)*)c1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: *C(c1ccc(OC(=O)*)s1)=S,-6.21,-6.05
+Predict the atomization energy of the following SMILES: C(=S)(*)c1ccc(OC(=O)*)s1,-6.21,-6.22
+Predict the atomization energy of the following SMILES: c1c(C(=S)*)sc(OC(=O)*)c1,-6.21,-6.05
+Predict the atomization energy of the following SMILES: C(C*)(*)C,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *C(C*)C,-5.14,-5.21
+Predict the atomization energy of the following SMILES: C(C(*)C)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: C(*)(C)C*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *C(C)C*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: C(*)(C*)C,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *CC(C)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *CC(C)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *C(C)C*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: C(C*)(C)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: CC(C*)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: C(C)(*)C*,-5.14,-5.22
+Predict the atomization energy of the following SMILES: CC(C*)*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: CC(*)C*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: *C(C)C*,-5.14,-5.21
+Predict the atomization energy of the following SMILES: N(C*)C(=S)C(*)=O,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(C(*)=O)(NC*)=S,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(C(NC*)=S)(=O)*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: *C(C(=S)NC*)=O,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(C(*)=O)(NC*)=S,-5.79,-5.84
+Predict the atomization energy of the following SMILES: O=C(C(=S)NC*)*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(*)(=O)C(=S)NC*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: *C(C(=S)NC*)=O,-5.79,-5.84
+Predict the atomization energy of the following SMILES: *C(C(NC*)=S)=O,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(NC(=S)C(=O)*)*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: S=C(NC*)C(*)=O,-5.79,-5.84
+Predict the atomization energy of the following SMILES: N(C*)C(=S)C(=O)*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(C(=S)NC*)(=O)*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: C(*)(=O)C(NC*)=S,-5.79,-5.84
+Predict the atomization energy of the following SMILES: S=C(C(*)=O)NC*,-5.79,-5.84
+Predict the atomization energy of the following SMILES: c1cc(C(c2sc(*)cc2)=S)sc1C(*)=O,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1cc(*)sc1C(=S)c1sc(C(=O)*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(=S)c2sc(*)cc2)sc(C(=O)*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1cc(C(=O)*)sc1C(=S)c1sc(*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: s1c(C(c2ccc(C(=O)*)s2)=S)ccc1*,-6.19,-6.22
+Predict the atomization energy of the following SMILES: s1c(*)ccc1C(c1ccc(C(*)=O)s1)=S,-6.19,-6.22
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(C(=S)c2ccc(*)s2)s1,-6.19,-6.12
+Predict the atomization energy of the following SMILES: C(=S)(c1ccc(*)s1)c1ccc(C(*)=O)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(*)=O)ccc(C(c2sc(*)cc2)=S)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(c2sc(C(=O)*)cc2)=S)ccc(*)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: C(c1ccc(C(=S)c2ccc(*)s2)s1)(*)=O,-6.19,-6.21
+Predict the atomization energy of the following SMILES: c1(*)sc(C(c2ccc(C(=O)*)s2)=S)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: S=C(c1ccc(*)s1)c1sc(C(=O)*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(C(c2sc(*)cc2)=S)sc(C(=O)*)cc1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(=S)c2ccc(C(=O)*)s2)s1,-6.19,-6.22
+Predict the atomization energy of the following SMILES: *CNc1ccc(C(=O)*)cc1,-6.14,-6.22
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(NC*)cc1,-6.14,-6.05
+Predict the atomization energy of the following SMILES: c1cc(NC*)ccc1C(*)=O,-6.14,-6.05
+Predict the atomization energy of the following SMILES: c1cc(C(=O)*)ccc1NC*,-6.14,-6.21
+Predict the atomization energy of the following SMILES: N(c1ccc(C(*)=O)cc1)C*,-6.14,-6.22
+Predict the atomization energy of the following SMILES: C(=O)(*)c1ccc(NC*)cc1,-6.14,-6.05
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(NC*)cc1,-6.14,-6.05
+Predict the atomization energy of the following SMILES: *CNc1ccc(C(*)=O)cc1,-6.14,-6.22
+Predict the atomization energy of the following SMILES: C(*)(c1ccc(NC*)cc1)=O,-6.14,-6.05
+Predict the atomization energy of the following SMILES: c1cc(C(*)=O)ccc1NC*,-6.14,-6.21
+Predict the atomization energy of the following SMILES: c1c(NC*)ccc(C(*)=O)c1,-6.14,-6.05
+Predict the atomization energy of the following SMILES: c1cc(C(*)=O)ccc1NC*,-6.14,-6.21
+Predict the atomization energy of the following SMILES: C(*)(c1ccc(NC*)cc1)=O,-6.14,-6.05
+Predict the atomization energy of the following SMILES: N(C*)c1ccc(C(*)=O)cc1,-6.14,-6.22
+Predict the atomization energy of the following SMILES: O=C(*)c1ccc(NC*)cc1,-6.14,-6.05
+Predict the atomization energy of the following SMILES: c1c(OC(O*)=S)ccc(*)c1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: O(*)C(Oc1ccc(*)cc1)=S,-6.18,-6.08
+Predict the atomization energy of the following SMILES: S=C(O*)Oc1ccc(*)cc1,-6.18,-6.14
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1OC(=S)O*,-6.18,-6.14
+Predict the atomization energy of the following SMILES: c1c(OC(O*)=S)ccc(*)c1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: *c1ccc(OC(O*)=S)cc1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: c1cc(OC(O*)=S)ccc1*,-6.18,-6.05
+Predict the atomization energy of the following SMILES: c1c(*)ccc(OC(O*)=S)c1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: O(C(Oc1ccc(*)cc1)=S)*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: O(C(Oc1ccc(*)cc1)=S)*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: O(*)C(=S)Oc1ccc(*)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *c1ccc(OC(=S)O*)cc1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: c1cc(OC(=S)O*)ccc1*,-6.18,-6.05
+Predict the atomization energy of the following SMILES: c1c(*)ccc(OC(=S)O*)c1,-6.18,-6.05
+Predict the atomization energy of the following SMILES: C(=S)(Oc1ccc(*)cc1)O*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *C(=S)C(=O)CC*,-5.61,-5.8
+Predict the atomization energy of the following SMILES: C(C(=S)*)(=O)CC*,-5.61,-5.8
+Predict the atomization energy of the following SMILES: *CCC(=O)C(=S)*,-5.61,-5.84
+Predict the atomization energy of the following SMILES: *CCC(C(=S)*)=O,-5.61,-5.84
+Predict the atomization energy of the following SMILES: C(C(*)=S)(CC*)=O,-5.61,-5.84
+Predict the atomization energy of the following SMILES: C(*)(C(CC*)=O)=S,-5.61,-5.84
+Predict the atomization energy of the following SMILES: O=C(CC*)C(*)=S,-5.61,-5.48
+Predict the atomization energy of the following SMILES: O=C(CC*)C(*)=S,-5.61,-5.48
+Predict the atomization energy of the following SMILES: C(*)(C(=O)CC*)=S,-5.61,-5.84
+Predict the atomization energy of the following SMILES: *C(=S)C(CC*)=O,-5.61,-5.8
+Predict the atomization energy of the following SMILES: C(C(*)=S)(CC*)=O,-5.61,-5.84
+Predict the atomization energy of the following SMILES: S=C(*)C(=O)CC*,-5.61,-5.84
+Predict the atomization energy of the following SMILES: C(CC*)(C(=S)*)=O,-5.61,-5.84
+Predict the atomization energy of the following SMILES: C(C(=O)CC*)(*)=S,-5.61,-5.48
+Predict the atomization energy of the following SMILES: C(CC(=O)C(=S)*)*,-5.61,-5.84
+Predict the atomization energy of the following SMILES: C(*)CCc1ccc(*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1c(CCC*)ccc(*)c1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1cc(CCC*)ccc1*,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1CCC*,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1(*)ccc(CCC*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: *CCCc1ccc(*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1c(CCC*)ccc(*)c1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1c(CCC*)ccc(*)c1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: C(CCc1ccc(*)cc1)*,-5.78,-5.9
+Predict the atomization energy of the following SMILES: C(c1ccc(*)cc1)CC*,-5.78,-5.9
+Predict the atomization energy of the following SMILES: *c1ccc(CCC*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: *c1ccc(CCC*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: C(C*)Cc1ccc(*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: *c1ccc(CCC*)cc1,-5.78,-5.9
+Predict the atomization energy of the following SMILES: C(Cc1ccc(*)cc1)C*,-5.78,-5.9
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(N*)cc2)ccc(-c2ccc(*)s2)c1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: s1c(*)ccc1-c1ccc(-c2ccc(N*)cc2)cc1,-6.26,-6.21
+Predict the atomization energy of the following SMILES: *Nc1ccc(-c2ccc(-c3sc(*)cc3)cc2)cc1,-6.26,-6.12
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(-c3ccc(N*)cc3)cc2)s1,-6.26,-6.31
+Predict the atomization energy of the following SMILES: *c1sc(-c2ccc(-c3ccc(N*)cc3)cc2)cc1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(-c3ccc(N*)cc3)cc2)sc(*)c1,-6.26,-6.31
+Predict the atomization energy of the following SMILES: c1(-c2ccc(-c3sc(*)cc3)cc2)ccc(N*)cc1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: *c1sc(-c2ccc(-c3ccc(N*)cc3)cc2)cc1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1(-c2ccc(-c3ccc(N*)cc3)cc2)ccc(*)s1,-6.26,-6.31
+Predict the atomization energy of the following SMILES: c1c(-c2sc(*)cc2)ccc(-c2ccc(N*)cc2)c1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(-c3ccc(*)s3)cc2)ccc1N*,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(-c3ccc(N*)cc3)cc2)sc(*)c1,-6.26,-6.31
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(-c3ccc(*)s3)cc2)ccc1N*,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1(-c2ccc(-c3sc(*)cc3)cc2)ccc(N*)cc1,-6.26,-6.26
+Predict the atomization energy of the following SMILES: c1(N*)ccc(-c2ccc(-c3sc(*)cc3)cc2)cc1,-6.26,-6.29
+Predict the atomization energy of the following SMILES: c1(*)sc(C(c2sc(N*)cc2)=S)cc1,-6,-6.12
+Predict the atomization energy of the following SMILES: s1c(*)ccc1C(c1sc(N*)cc1)=S,-6,-6.15
+Predict the atomization energy of the following SMILES: S=C(c1ccc(N*)s1)c1ccc(*)s1,-6,-6.15
+Predict the atomization energy of the following SMILES: S=C(c1sc(N*)cc1)c1ccc(*)s1,-6,-6.15
+Predict the atomization energy of the following SMILES: c1(C(c2ccc(N*)s2)=S)ccc(*)s1,-6,-6.09
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(c2sc(N*)cc2)=S)s1,-6,-6.12
+Predict the atomization energy of the following SMILES: s1c(N*)ccc1C(=S)c1sc(*)cc1,-6,-6.15
+Predict the atomization energy of the following SMILES: c1cc(N*)sc1C(c1ccc(*)s1)=S,-6,-6.12
+Predict the atomization energy of the following SMILES: s1c(C(c2ccc(*)s2)=S)ccc1N*,-6,-6.08
+Predict the atomization energy of the following SMILES: c1(N*)sc(C(c2ccc(*)s2)=S)cc1,-6,-6.12
+Predict the atomization energy of the following SMILES: s1c(C(c2sc(N*)cc2)=S)ccc1*,-6,-6.12
+Predict the atomization energy of the following SMILES: C(c1sc(*)cc1)(c1ccc(N*)s1)=S,-6,-6.15
+Predict the atomization energy of the following SMILES: c1(C(c2sc(*)cc2)=S)sc(N*)cc1,-6,-6.15
+Predict the atomization energy of the following SMILES: c1c(N*)sc(C(=S)c2sc(*)cc2)c1,-6,-6.12
+Predict the atomization energy of the following SMILES: s1c(N*)ccc1C(c1sc(*)cc1)=S,-6,-6.15
+Predict the atomization energy of the following SMILES: c1c(*)ccc(Nc2sc(-c3sc(C(=S)c4sc(-c5ccc(N*)s5)cc4)cc3)cc2)c1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: C(c1sc(-c2ccc(N*)s2)cc1)(c1sc(-c2ccc(Nc3ccc(*)cc3)s2)cc1)=S,-6.12,-6.22
+Predict the atomization energy of the following SMILES: *c1ccc(Nc2ccc(-c3sc(C(c4sc(-c5sc(N*)cc5)cc4)=S)cc3)s2)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: c1(*)ccc(Nc2sc(-c3sc(C(c4ccc(-c5ccc(N*)s5)s4)=S)cc3)cc2)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: c1(-c2sc(C(=S)c3sc(-c4sc(Nc5ccc(*)cc5)cc4)cc3)cc2)ccc(N*)s1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: *c1ccc(Nc2ccc(-c3ccc(C(c4sc(-c5ccc(N*)s5)cc4)=S)s3)s2)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: S=C(c1ccc(-c2sc(N*)cc2)s1)c1sc(-c2ccc(Nc3ccc(*)cc3)s2)cc1,-6.12,-6.21
+Predict the atomization energy of the following SMILES: N(c1sc(-c2ccc(C(=S)c3ccc(-c4sc(N*)cc4)s3)s2)cc1)c1ccc(*)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(C(c3sc(-c4sc(N*)cc4)cc3)=S)s2)sc1Nc1ccc(*)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: N(c1ccc(*)cc1)c1sc(-c2sc(C(c3sc(-c4sc(N*)cc4)cc3)=S)cc2)cc1,-6.12,-6.22
+Predict the atomization energy of the following SMILES: c1cc(-c2sc(N*)cc2)sc1C(=S)c1ccc(-c2ccc(Nc3ccc(*)cc3)s2)s1,-6.12,-6.22
+Predict the atomization energy of the following SMILES: c1(Nc2sc(-c3sc(C(c4ccc(-c5ccc(N*)s5)s4)=S)cc3)cc2)ccc(*)cc1,-6.12,-6.12
+Predict the atomization energy of the following SMILES: S=C(c1sc(-c2sc(Nc3ccc(*)cc3)cc2)cc1)c1sc(-c2sc(N*)cc2)cc1,-6.12,-6.22
+Predict the atomization energy of the following SMILES: s1c(Nc2ccc(*)cc2)ccc1-c1ccc(C(c2sc(-c3sc(N*)cc3)cc2)=S)s1,-6.12,-6.22
+Predict the atomization energy of the following SMILES: s1c(-c2ccc(C(c3sc(-c4sc(Nc5ccc(*)cc5)cc4)cc3)=S)s2)ccc1N*,-6.12,-6.12
+Predict the atomization energy of the following SMILES: c1(-c2ccc(CC(c3ccc(C(CO*)=S)s3)=S)cc2)ccc(*)cc1,-6.04,-6.15
+Predict the atomization energy of the following SMILES: C(C(c1sc(C(Cc2ccc(-c3ccc(*)cc3)cc2)=S)cc1)=S)O*,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1(C(Cc2ccc(-c3ccc(*)cc3)cc2)=S)sc(C(CO*)=S)cc1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: S=C(Cc1ccc(-c2ccc(*)cc2)cc1)c1sc(C(=S)CO*)cc1,-6.04,-6.21
+Predict the atomization energy of the following SMILES: *OCC(=S)c1sc(C(=S)Cc2ccc(-c3ccc(*)cc3)cc2)cc1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1(C(CO*)=S)ccc(C(=S)Cc2ccc(-c3ccc(*)cc3)cc2)s1,-6.04,-6.18
+Predict the atomization energy of the following SMILES: C(O*)C(c1ccc(C(=S)Cc2ccc(-c3ccc(*)cc3)cc2)s1)=S,-6.04,-6.17
+Predict the atomization energy of the following SMILES: c1(C(=S)CO*)sc(C(=S)Cc2ccc(-c3ccc(*)cc3)cc2)cc1,-6.04,-6.17
+Predict the atomization energy of the following SMILES: c1(-c2ccc(CC(=S)c3ccc(C(=S)CO*)s3)cc2)ccc(*)cc1,-6.04,-6.18
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(*)cc2)ccc(CC(c2ccc(C(CO*)=S)s2)=S)c1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1cc(-c2ccc(CC(c3ccc(C(=S)CO*)s3)=S)cc2)ccc1*,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(CC(=S)c3ccc(C(=S)CO*)s3)cc2)ccc(*)c1,-6.04,-6.18
+Predict the atomization energy of the following SMILES: c1cc(C(Cc2ccc(-c3ccc(*)cc3)cc2)=S)sc1C(=S)CO*,-6.04,-6.09
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(CC(c3sc(C(=S)CO*)cc3)=S)cc2)cc1,-6.04,-6.18
+Predict the atomization energy of the following SMILES: c1(C(CO*)=S)sc(C(Cc2ccc(-c3ccc(*)cc3)cc2)=S)cc1,-6.04,-6.09
+Predict the atomization energy of the following SMILES: c1(*)ccc(-c2sc(*)cc2)s1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: s1c(-c2ccc(*)s2)ccc1*,-6.18,-6.12
+Predict the atomization energy of the following SMILES: c1cc(*)sc1-c1ccc(*)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: s1c(*)ccc1-c1ccc(*)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: s1c(*)ccc1-c1sc(*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(*)ccc(-c2ccc(*)s2)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: s1c(-c2sc(*)cc2)ccc1*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *c1sc(-c2sc(*)cc2)cc1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: c1cc(-c2sc(*)cc2)sc1*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(*)s2)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: c1(-c2sc(*)cc2)ccc(*)s1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1cc(-c2sc(*)cc2)sc1*,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1cc(*)sc1-c1ccc(*)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: c1(*)sc(-c2ccc(*)s2)cc1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: *c1ccc(-c2ccc(*)s2)s1,-6.18,-6.12
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(C(=O)*)cc2)ccc(C(=S)*)c1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1cc(C(*)=O)ccc1-c1ccc(C(=S)*)cc1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(=S)*)cc2)ccc(C(*)=O)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(=S)*)cc2)ccc(C(=O)*)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1c(C(=O)*)ccc(-c2ccc(C(=S)*)cc2)c1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1(C(*)=S)ccc(-c2ccc(C(=O)*)cc2)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(=O)*)cc2)ccc(C(=S)*)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: *C(c1ccc(-c2ccc(C(*)=S)cc2)cc1)=O,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1cc(C(=O)*)ccc1-c1ccc(C(=S)*)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: *C(=S)c1ccc(-c2ccc(C(*)=O)cc2)cc1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1cc(C(=S)*)ccc1-c1ccc(C(*)=O)cc1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: S=C(c1ccc(-c2ccc(C(*)=O)cc2)cc1)*,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1c(-c2ccc(C(=O)*)cc2)ccc(C(*)=S)c1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1(C(=O)*)ccc(-c2ccc(C(*)=S)cc2)cc1,-6.37,-6.29
+Predict the atomization energy of the following SMILES: c1(-c2ccc(C(*)=S)cc2)ccc(C(*)=O)cc1,-6.37,-6.34
+Predict the atomization energy of the following SMILES: c1cc(C(=S)c2ccc(O*)s2)ccc1*,-6.18,-6.14
+Predict the atomization energy of the following SMILES: c1cc(O*)sc1C(c1ccc(*)cc1)=S,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1cc(C(=S)c2ccc(*)cc2)sc1O*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1cc(C(c2ccc(O*)s2)=S)ccc1*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1c(O*)sc(C(c2ccc(*)cc2)=S)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(*)ccc(C(=S)c2ccc(O*)s2)cc1,-6.18,-6.14
+Predict the atomization energy of the following SMILES: c1cc(C(=S)c2ccc(*)cc2)sc1O*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1cc(C(=S)c2ccc(O*)s2)ccc1*,-6.18,-6.14
+Predict the atomization energy of the following SMILES: O(*)c1ccc(C(=S)c2ccc(*)cc2)s1,-6.18,-6.17
+Predict the atomization energy of the following SMILES: c1(C(c2ccc(*)cc2)=S)sc(O*)cc1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: c1(O*)sc(C(c2ccc(*)cc2)=S)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(C(=S)c2ccc(*)cc2)sc(O*)c1,-6.18,-6.09
+Predict the atomization energy of the following SMILES: s1c(C(c2ccc(*)cc2)=S)ccc1O*,-6.18,-6.09
+Predict the atomization energy of the following SMILES: *Oc1sc(C(=S)c2ccc(*)cc2)cc1,-6.18,-6.08
+Predict the atomization energy of the following SMILES: c1c(C(=S)c2ccc(O*)s2)ccc(*)c1,-6.18,-6.14
+Predict the atomization energy of the following SMILES: N(*)C(NC(=O)*)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: *C(NC(N*)=O)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(N*)(NC(*)=O)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(=O)(NC(*)=O)N*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: *C(=O)NC(=O)N*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: O=C(N*)NC(=O)*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: *NC(NC(*)=O)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(NC(=O)*)(N*)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(*)(NC(N*)=O)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: O=C(N*)NC(=O)*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: *NC(NC(=O)*)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: N(*)C(=O)NC(*)=O,-6.46,-6.22
+Predict the atomization energy of the following SMILES: O=C(NC(*)=O)N*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(=O)(NC(*)=O)N*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: C(NC(=O)N*)(=O)*,-6.46,-6.22
+Predict the atomization energy of the following SMILES: S=C(Oc1ccc(*)cc1)c1sc(*)cc1,-6.21,-6.14
+Predict the atomization energy of the following SMILES: *c1ccc(OC(=S)c2sc(*)cc2)cc1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1cc(OC(c2sc(*)cc2)=S)ccc1*,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1(OC(=S)c2ccc(*)s2)ccc(*)cc1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1c(OC(=S)c2sc(*)cc2)ccc(*)c1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: S=C(c1sc(*)cc1)Oc1ccc(*)cc1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1c(C(Oc2ccc(*)cc2)=S)sc(*)c1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: *c1sc(C(=S)Oc2ccc(*)cc2)cc1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1cc(C(Oc2ccc(*)cc2)=S)sc1*,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1cc(OC(=S)c2sc(*)cc2)ccc1*,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1(OC(c2sc(*)cc2)=S)ccc(*)cc1,-6.21,-6.08
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1OC(=S)c1sc(*)cc1,-6.21,-6.22
+Predict the atomization energy of the following SMILES: S=C(Oc1ccc(*)cc1)c1ccc(*)s1,-6.21,-6.09
+Predict the atomization energy of the following SMILES: S=C(Oc1ccc(*)cc1)c1ccc(*)s1,-6.21,-6.09
+Predict the atomization energy of the following SMILES: O(c1ccc(*)cc1)C(c1sc(*)cc1)=S,-6.21,-6.08
+Predict the atomization energy of the following SMILES: FC(C(F)(ON*)F)(*)F,-5.15,-5.24
+Predict the atomization energy of the following SMILES: N(OC(F)(F)C(*)(F)F)*,-5.15,-5.24
+Predict the atomization energy of the following SMILES: O(N*)C(F)(C(*)(F)F)F,-5.15,-5.24
+Predict the atomization energy of the following SMILES: *C(C(ON*)(F)F)(F)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: N(OC(F)(F)C(*)(F)F)*,-5.15,-5.24
+Predict the atomization energy of the following SMILES: FC(C(*)(F)F)(ON*)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: *C(C(ON*)(F)F)(F)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: *C(F)(F)C(F)(F)ON*,-5.15,-5.25
+Predict the atomization energy of the following SMILES: O(N*)C(F)(F)C(F)(F)*,-5.15,-5.24
+Predict the atomization energy of the following SMILES: FC(ON*)(C(F)(F)*)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: *NOC(F)(F)C(F)(F)*,-5.15,-5.24
+Predict the atomization energy of the following SMILES: FC(*)(C(F)(ON*)F)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: FC(F)(C(F)(F)*)ON*,-5.15,-5.25
+Predict the atomization energy of the following SMILES: FC(ON*)(F)C(*)(F)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: *C(C(F)(ON*)F)(F)F,-5.15,-5.25
+Predict the atomization energy of the following SMILES: O=C(C*)N*,-5.91,-5.69
+Predict the atomization energy of the following SMILES: *CC(=O)N*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: *NC(=O)C*,-5.91,-6.01
+Predict the atomization energy of the following SMILES: *NC(C*)=O,-5.91,-5.62
+Predict the atomization energy of the following SMILES: O=C(C*)N*,-5.91,-5.69
+Predict the atomization energy of the following SMILES: *NC(C*)=O,-5.91,-5.62
+Predict the atomization energy of the following SMILES: N(C(C*)=O)*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: *CC(=O)N*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: *CC(=O)N*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: *NC(=O)C*,-5.91,-6.01
+Predict the atomization energy of the following SMILES: N(*)C(=O)C*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: *CC(=O)N*,-5.91,-5.62
+Predict the atomization energy of the following SMILES: C(C(=O)N*)*,-5.91,-6.17
+Predict the atomization energy of the following SMILES: C(N*)(=O)C*,-5.91,-5.84
+Predict the atomization energy of the following SMILES: O=C(C*)N*,-5.91,-5.69
+Predict the atomization energy of the following SMILES: c1cc(C(c2ccc(*)cc2)=O)ccc1C*,-6.29,-6.29
+Predict the atomization energy of the following SMILES: O=C(c1ccc(*)cc1)c1ccc(C*)cc1,-6.29,-6.31
+Predict the atomization energy of the following SMILES: c1c(C*)ccc(C(c2ccc(*)cc2)=O)c1,-6.29,-6.29
+Predict the atomization energy of the following SMILES: C(*)c1ccc(C(=O)c2ccc(*)cc2)cc1,-6.29,-6.34
+Predict the atomization energy of the following SMILES: c1cc(*)ccc1C(c1ccc(C*)cc1)=O,-6.29,-6.29
+Predict the atomization energy of the following SMILES: c1cc(C*)ccc1C(c1ccc(*)cc1)=O,-6.29,-6.29
+Predict the atomization energy of the following SMILES: O=C(c1ccc(*)cc1)c1ccc(C*)cc1,-6.29,-6.31
+Predict the atomization energy of the following SMILES: C(*)c1ccc(C(=O)c2ccc(*)cc2)cc1,-6.29,-6.34
+Predict the atomization energy of the following SMILES: *c1ccc(C(c2ccc(C*)cc2)=O)cc1,-6.29,-6.29
+Predict the atomization energy of the following SMILES: c1(C(c2ccc(*)cc2)=O)ccc(C*)cc1,-6.29,-6.29
+Predict the atomization energy of the following SMILES: *c1ccc(C(c2ccc(C*)cc2)=O)cc1,-6.29,-6.29
+Predict the atomization energy of the following SMILES: c1(C(=O)c2ccc(*)cc2)ccc(C*)cc1,-6.29,-6.31
+Predict the atomization energy of the following SMILES: O=C(c1ccc(*)cc1)c1ccc(C*)cc1,-6.29,-6.31
+Predict the atomization energy of the following SMILES: c1c(C(c2ccc(*)cc2)=O)ccc(C*)c1,-6.29,-6.31
+Predict the atomization energy of the following SMILES: O=C(c1ccc(*)cc1)c1ccc(C*)cc1,-6.29,-6.31
