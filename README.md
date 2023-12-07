@@ -32,3 +32,16 @@ And any issue on this work, please fell free to email [hkqiu@ciac.ac.cn](hkqiu@c
 <p align="center">
   <img src="https://github.com/HKQiu/DataAugmentation4SmallData/assets/73220956/d7a243ed-6cd8-42e2-92c3-56a33f4d3c84" width="50%">
 </p>
+
+
+# Cite this:
+```@Article{D3SC05079C,
+author ="Qiu, Haoke and Liu, Lunyang and Qiu, Xuepeng and Dai, Xuemin and Ji, Xiangling and Sun, Zhao-Yan",
+title  ="PolyNC: a natural and chemical language model for unified polymer properties prediction",
+journal  ="Chem. Sci.",
+year  ="2023",
+pages  ="-",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/D3SC05079C",
+url  ="http://dx.doi.org/10.1039/D3SC05079C"
+}
