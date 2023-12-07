@@ -4,7 +4,7 @@
   <img src="https://github.com/HKQiu/Unified_ML4Polymers/assets/73220956/c19349b0-332e-4c9d-aa4b-2ac6d10d1d99" width="50%">
 </p>
 
-This is the official repository of the paper entitled as __PolyNC: a natural and chemical language model for unified polymer properties prediction__.
+This is the official repository of the paper entitled as [__PolyNC: a natural and chemical language model for unified polymer properties prediction__](https://pubs.rsc.org/en/Content/ArticleLanding/2023/SC/D3SC05079C) on ___Chemical Science___.
 This work features a  a revolutionary model to enable rapid and precise prediction of Polymer properties via the power of Natural language and Chemical language (PolyNC). This work extends
 the powerful natural language understanding capabilities of AI to the field of polymer research, marking an impressive step towards the development of expert models and human-level AI for
 understanding polymer knowledge.
