@@ -35,13 +35,15 @@ And any issue on this work, please fell free to email [hkqiu@ciac.ac.cn](hkqiu@c
 
 
 # Cite this:
-```@Article{D3SC05079C,
+```
+@Article{D3SC05079C,
 author ="Qiu, Haoke and Liu, Lunyang and Qiu, Xuepeng and Dai, Xuemin and Ji, Xiangling and Sun, Zhao-Yan",
-title  ="PolyNC: a natural and chemical language model for unified polymer properties prediction",
+title  ="PolyNC: a natural and chemical language model for the prediction of unified polymer properties",
 journal  ="Chem. Sci.",
-year  ="2023",
-pages  ="-",
+year  ="2024",
+volume  ="15",
+issue  ="2",
+pages  ="534-544",
 publisher  ="The Royal Society of Chemistry",
 doi  ="10.1039/D3SC05079C",
-url  ="http://dx.doi.org/10.1039/D3SC05079C"
-}
+url  ="http://dx.doi.org/10.1039/D3SC05079C"}
