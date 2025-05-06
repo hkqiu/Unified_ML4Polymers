@@ -1,0 +1,20 @@
+model:
+  token_path: 'seyonec/PubChem10M_SMILES_BPE_450k'
+  config_path: 'GT4SD/multitask-text-and-chemistry-t5-base-standard'
+  model_path: 'GT4SD/multitask-text-and-chemistry-t5-base-standard'
+
+data:
+  train_path: 'data/train/prompt-target.csv'
+  test_path: 'data/test/prompt-target.csv'
+  max_length_prompt: 150
+  max_length_answer: 6
+
+training:
+  batch_size: 120
+  epochs: 100
+  learning_rate: 5e-6
+  warmup_ratio: 0.2
+  epsilon: 1e-8
+
+output:
+  dir: 'outputs/models/cls-5tasks-bs150-bs8-lr5e6-epoch100'
